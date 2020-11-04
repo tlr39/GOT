@@ -2,975 +2,979 @@
 
 <?xml-model href="GOTEP1Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <Ep1>
+  <!-- amp: A quick note about your root element! I would try to keep the same one for all of your XML in case you need to refer to the entire collection in later work. If you wanted to keep the episode number in there, you could use an attribute, so it would look something like "<Ep n="1"> -->
 <title> EPISODE 1- WINTERFELL </title>
 TITLE SEQUENCE
 <stageDirection> EXT. </stageDirection> WINTER TOWN - DAY
-A young boy runs through a snowy forest woods, he crosses a shallow stream and then runs through the streets of the winter town. As he runs through the town, pigs squeal and donkeys bray. He reaches the street and stands among a large crowd, struggling to see what is happening on the road. A man steps aside and the boy pushes through. Pan up to see <char house="Stark">ARYA</char> STARK smiling as she watches the boy run through. A large army is marching along the road and the boy continues to run alongside them. He finds a tree and climbs up it to get a good view. Pan up to see the army marching along the road from the winter town up to Winterfell. A man's shout can be heard, and the boy turns to face the rear of the army. Pan around to see the large army of <char house="Targaryen">DAENERYS</char> TARGARYEN. Cut to the middle of the army marching through the streets, <char house="Targaryen">DAENERYS</char> and <char house="Stark">JON</char> SNOW atop their horses. Cut to <char house="Stark">ARYA</char>, she looks at <char house="Stark">JON</char> and smiles, she starts to speak but says nothing as he rides by. Many people of the town stare at the troops marching through. <char house="Clegane"> SANDOR </char> "THE HOUND" CLEGANE is on a horse of his own with the army. <char house="Stark">ARYA</char> sees him but says nothing. <char house="Baratheon"> GENDRY </char> is also riding on a horse, <char house="Stark">ARYA</char> looks at him and smiles as he goes past.
-<direction> CUT TO </direction>: HORSE-DRAWN CARRIAGE
+A young boy runs through a snowy forest woods, he crosses a shallow stream and then runs through the streets of the winter town. As he runs through the town, pigs squeal and donkeys bray. He reaches the street and stands among a large crowd, struggling to see what is happening on the road. A man steps aside and the boy pushes through. Pan up to see <char who="ARYA" house="Stark">ARYA</char> STARK smiling as she watches the boy run through. A large army is marching along the road and the boy continues to run alongside them. He finds a tree and climbs up it to get a good view. Pan up to see the army marching along the road from the winter town up to Winterfell. A man's shout can be heard, and the boy turns to face the rear of the army. Pan around to see the large army of <char who="DAENERYS" house="Targaryen">DAENERYS</char> TARGARYEN. Cut to the middle of the army marching through the streets, <char who="DAENERYS" house="Targaryen">DAENERYS</char> and <char who="JON" house="Stark">JON</char> SNOW atop their horses. Cut to <char who="ARYA" house="Stark">ARYA</char>, she looks at <char who="JON" house="Stark">JON</char> and smiles, she starts to speak but says nothing as he rides by. Many people of the town stare at the troops marching through. <char who="SANDOR" house="Clegane">SANDOR</char> "THE HOUND" CLEGANE is on a horse of his own with the army. <char who="ARYA" house="Stark">ARYA</char> sees him but says nothing. <char who="GENDRY" house="Baratheon">GENDRY</char> is also riding on a horse, <char who="ARYA" house="Stark">ARYA</char> looks at him and smiles as he goes past.
+<direction> CUT TO: HORSE-DRAWN CARRIAGE</direction>
 
-A carriage is among the army and it carries within it <char house="Lanister">TYRION</char> LANNISTER who sits opposite LORD <char> VARYS </char>.
+<stageDirection>A carriage is among the army and it carries within it <char who="TYRION" house="Lanister">TYRION</char> LANNISTER who sits opposite LORD <char> VARYS </char>.</stageDirection>
 
-<char house="Lanister">TYRION</char>: You should consider yourself lucky. At least your balls wonâ€™t freeze off.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> You should consider yourself lucky. At least your balls wonâ€™t freeze off.</speech>
 
-<char> VARYS </char>: You take great offense at dwarf jokes, but love telling eunuch jokes. Why is that?
+<speech><speaker who="VARYS">VARYS</speaker> You take great offense at dwarf jokes, but love telling eunuch jokes. Why is that?</speech>
 
-<char house="Lanister">TYRION</char>: Because I have balls, and you don't.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> Because I have balls, and you don't.</speech>
 
-The army continues to march and MISSANDEI and GREY WORM ride alongside each other. The villagers stare at them disapprovingly. People also stare at <char house="Stark">JON</char> and <char house="Targaryen">DAENERYS</char> as they ride past.
+<stageDirection>The army continues to march and MISSANDEI and GREY WORM ride alongside each other. The villagers stare at them disapprovingly. People also stare at <char who="JON" house="Stark">JON</char> and <char who="DAENERYS" house="Targaryen">DAENERYS</char> as they ride past.</stageDirection>
 
-<char house="Stark">JON</char>: I warned you. Northerners don't much trust outsiders.
+<speech><speaker who="JON" house="Stark">JON</speaker> I warned you. Northerners don't much trust outsiders.</speech>
 
-A dragon roars and the villagers look up at the sky in fear. People start clamouring as <char house="Targaryen">DAENERYS</char>â€™ dragons, DROGON and RHAEGAL, fly overhead. <char house="Stark">ARYA</char> emerges from the crowd smiling. The dragons swoop over Winterfell and <char house="Stark">SANSA</char> STARK watches them fly overhead from the walls of Winterfell.
+<stageDirection>A dragon roars and the villagers look up at the sky in fear. People start clamouring as <char who="DAENERYS" house="Targaryen">DAENERYS</char>â€™ dragons, DROGON and RHAEGAL, fly overhead. <char who="ARYA" house="Stark">ARYA</char> emerges from the crowd smiling. The dragons swoop over Winterfell and <char who="SANSA" house="Stark">SANSA</char> STARK watches them fly overhead from the walls of Winterfell.</stageDirection>
 
-<direction> CUT TO </direction>: WINTERFELL â€“ FRONT GATE
+<direction> CUT TO: WINTERFELL â€“ FRONT GATE</direction>
 
-<char house="Targaryen">DAENERYS</char> and <char house="Stark">JON</char> ride into Winterfell towards a crowd of people standing within. <char house="Stark">BRAN</char> STARK is sitting at the front of the crowd. <char house="Stark">JON</char> rides up to him and dismounts his horse. He walks up to <char house="Stark">BRAN</char> and kisses him on the forehead.
+<stageDirection><char who="DAENERYS" house="Targaryen">DAENERYS</char> and <char who="JON" house="Stark">JON</char> ride into Winterfell towards a crowd of people standing within. <char who="BRAN" house="Stark">BRAN</char> STARK is sitting at the front of the crowd. <char who="JON" house="Stark">JON</char> rides up to him and dismounts his horse. He walks up to <char who="BRAN" house="Stark">BRAN</char> and kisses him on the forehead.</stageDirection>
 
-<char house="Stark">JON</char>: Look at you.
+<speech><speaker who="JON" house="Stark">JON</speaker> Look at you.</speech>
 
-<char house="Stark">JON</char> sniffles.
+<char who="JON" house="Stark">JON</char> sniffles.
  
 
-<char house="Stark">JON</char>: You're a man.
+<speech><speaker who="JON" house="Stark">JON</speaker> You're a man.</speech>
 
-<char house="Stark">BRAN</char>: Almost.
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> Almost.</speech>
 
-<char house="Stark">JON</char> looks at him quizzically and then up to <char house="Stark">SANSA</char> who is standing next to him. He walks up to her and gives her a hug. <char house="Mormont"> JORAH</char> MORMONT and <char house="Targaryen">DAENERYS</char> watch from behind.
+<stageDirection><char who="JON" house="Stark">JON</char> looks at him quizzically and then up to <char who="SANSA" house="Stark">SANSA</char> who is standing next to him. He walks up to her and gives her a hug. <char who="JORAH" house="Mormont">JORAH</char> MORMONT and <char who="DAENERYS" house="Targaryen">DAENERYS</char> watch from behind.</stageDirection>
 
-<char house="Stark">JON</char>: Where's Arya?
+<speech><speaker who="JON" house="Stark">JON</speaker> Where's Arya?</speech>
 
-<char house="Stark">SANSA</char>: Lurking somewhere.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Lurking somewhere.</speech>
 
-<char house="Stark">JON</char> turns around to <char house="Targaryen">DAENERYS</char> and she walks over to him.
+<stageDirection><char who="JON" house="Stark">JON</char> turns around to <char who="DAENERYS" house="Targaryen">DAENERYS</char> and she walks over to him.</stageDirection>
 
-<char house="Stark">JON</char>: Queen Daenerys of House Targaryen. My sister, Sansa Stark, the Lady of Winterfell.
+<speech><speaker who="JON" house="Stark">JON</speaker> Queen Daenerys of House Targaryen. My sister, Sansa Stark, the Lady of Winterfell.</speech>
 
-<char house="Targaryen">DAENERYS</char>: Thank you for inviting us into your home, Lady Stark. The North is as beautiful as your brother claimed, as are you.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Thank you for inviting us into your home, Lady Stark. The North is as beautiful as your brother claimed, as are you.</speech>
 
-<char house="Stark">SANSA</char> looks at <char house="Targaryen">DAENERYS</char> hesitantly.
+<stageDirection><char who="SANSA" house="Stark">SANSA</char> looks at <char who="DAENERYS" house="Targaryen">DAENERYS</char> hesitantly.</stageDirection>
 
-<char house="Stark">SANSA</char>: Winterfell is yours, Your Grace.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Winterfell is yours, Your Grace.</speech>
 
-<char house="Stark">BRAN</char>: We don't have time for all this. The Night King has your dragon.
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> We don't have time for all this. The Night King has your dragon.</speech>
 
-<char house="Targaryen">DAENERYS</char> turns to look at <char house="Stark">BRAN</char>.
+<stageDirection><char who="DAENERYS" house="Targaryen">DAENERYS</char> turns to look at <char who="BRAN" house="Stark">BRAN</char>.</stageDirection>
 
-<char house="Stark">BRAN</char>: He's one of them now. The Wall has fallen, the dead march south.
-<char house="Stark">SANSA</char>, <char house="Targaryen">DAENERYS</char> and <char house="Stark">JON</char> all look at each other concerned.
+<speaker who="BRAN" house="Stark">BRAN</speaker> He's one of them now. The Wall has fallen, the dead march south.
+<stageDirection><char who="SANSA" house="Stark">SANSA</char>, <char who="DAENERYS" house="Targaryen">DAENERYS</char> and <char who="JON" house="Stark">JON</char> all look at each other concerned.</stageDirection>
 
-<direction> CUT TO </direction>: WINTERFELL â€“ LARGE HALL
+<direction> CUT TO: WINTERFELL â€“ LARGE HALL</direction>
 
-<char house="Stark">SANSA</char>: As soon as we heard about the Wall, I called all our banners to retreat to Winterfell. Lord Umber when can we expect your people to arrive?
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> As soon as we heard about the Wall, I called all our banners to retreat to Winterfell. Lord Umber when can we expect your people to arrive?</speech>
 
-A young boy stands up from the side of the room and walks forwards.
+<stageDirection>A young boy stands up from the side of the room and walks forwards.</stageDirection>
 
-<char house="Umber"> UMBER </char>: We need more horses and wagons, if it please my lady.
+<speech><speaker who="UMBER" house="Umber">UMBER</speaker> We need more horses and wagons, if it please my lady.</speech>
 
-He stops and then turns to look at <char house="Stark">JON</char>.
+<stageDirection>He stops and then turns to look at <char who="JON" house="Stark">JON</char>.</stageDirection>
 
-<char house="Umber"> UMBER </char>: And my lord.
+<speech><speaker who="UMBER" house="Umber">UMBER</speaker> And my lord.</speech>
 
-He stops again and then turns to look at <char house="Targaryen">DAENERYS</char>.
+<stageDirection>He stops again and then turns to look at <char who="DAENERYS" house="Targaryen">DAENERYS</char>.</stageDirection>
 
-<char house="Umber"> UMBER </char>: And my queen. Sorry.
+<speech><speaker who="UMBER" house="Umber">UMBER</speaker> And my queen. Sorry.</speech>
 
-<char house="Stark">SANSA</char>: You'll have as many as we can spare. Hurry back to Last Hearth and bring your people here.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> You'll have as many as we can spare. Hurry back to Last Hearth and bring your people here.</speech>
 
-<char house="Umber"> UMBER </char> bows and walks out the hall as people chatter.
+<stageDirection><char who="UMBER" house="Umber">UMBER</char> bows and walks out the hall as people chatter.</stageDirection>
 
-<char house="Stark">JON</char>: We need to send ravens to the Night's Watch as well. There's no sense in manning the castles anymore. We make our stand here.
+<speech><speaker who="JON" house="Stark">JON</speaker> We need to send ravens to the Night's Watch as well. There's no sense in manning the castles anymore. We make our stand here.</speech>
 
-MAESTER <char house="Bolton"> WOLKAN </char>: At once, Your Grace.
-<char house="Bolton"> WOLKAN </char> exits.
+<speech><speaker who="WOLKAN" house="Bolton">MAESTER WOLKAN</speaker>: At once, Your Grace.</speech>
 
-<char house="Mormont"> LYANNA </char> MORMONT: "Your Grace."
+<stageDirection><char who="WOLKAN" house="Bolton">WOLKAN</char> exits.</stageDirection>
 
-<char house="Mormont"> LYANNA </char> stands up and walks forwards
+<speech><speaker who="LYANNA" house="Mormont"> LYANNA </speaker> MORMONT: "Your Grace."</speech>
 
-<char house="Mormont"> LYANNA </char>: But youâ€™re not. Are you? You left Winterfell a king and came back a- Iâ€™m not sure what you are now.
+<stageDirection><char who="LYANNA" house="Mormont">LYANNA</char> stands up and walks forwards</stageDirection>
 
-People start murmuring.
+<speech><speaker who="LYANNA" house="Mormont">LYANNA</speaker> But youâ€™re not. Are you? You left Winterfell a king and came back a- Iâ€™m not sure what you are now.</speech>
 
-<char house="Mormont"> LYANNA </char>: A lord? Nothing at all?
+<stageDirection>People start murmuring.</stageDirection>
 
-<char house="Stark">JON</char>: It's not important.
+<speech><speaker who="LYANNA" house="Mormont">LYANNA</speaker> A lord? Nothing at all?</speech>
 
-<char house="Mormont"> LYANNA </char>: Not important? We named you King in the North.
+<speech><speaker who="JON" house="Stark">JON</speaker> It's not important.</speech>
 
-People start cheering.
+<speech><speaker who="LYANNA" house="Mormont">LYANNA</speaker> Not important? We named you King in the North.</speech>
 
-MAN: King of the North!
+<stageDirection>People start cheering.</stageDirection>
 
-<char house="Stark">JON</char>: You did, my lady. It was the honor of my life. Iâ€™ll always be grateful for your faith. But when I left Winterfell, I told you we need allies or we will die. I have brought those allies home to fight alongside us. I had a choice, keep my crown or protect the North. I chose the North.
+<speech><speaker who="MAN">MAN</speaker> King of the North!</speech>
 
-People murmur. <char house="Lanister">TYRION</char> stands up and walks to the centre of the room.
+<speech><speaker who="JON" house="Stark">JON</speaker> You did, my lady. It was the honor of my life. Iâ€™ll always be grateful for your faith. But when I left Winterfell, I told you we need allies or we will die. I have brought those allies home to fight alongside us. I had a choice, keep my crown or protect the North. I chose the North.</speech>
 
-<char house="Lanister">TYRION</char>: If anyone survives the war to come, we'll have Jon Snow to thank. He risked his life to show us the threat is real. Thanks to his courage, we have brought with us the greatest army the world has ever seen. We have brought two full-grown dragons. And soon, the Lannister army will ride north to join our cause.
+<stageDirection>People murmur. <char who="TYRION" house="Lanister">TYRION</char> stands up and walks to the centre of the room.</stageDirection>
 
-People grumble and yell out indistinctly.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> If anyone survives the war to come, we'll have Jon Snow to thank. He risked his life to show us the threat is real. Thanks to his courage, we have brought with us the greatest army the world has ever seen. We have brought two full-grown dragons. And soon, the Lannister army will ride north to join our cause.</speech>
 
-<char house="Lanister">TYRION</char>: I know, I know, our people haven't been friends in the past. But we must fight together now or die.
+<stageDirection>People grumble and yell out indistinctly.</stageDirection>
 
-<char house="Stark">SANSA</char>: May I ask, how are we meant to feed the greatest army the world has ever seen? While I ensured our stores would last through winter, I didn't account for Dothraki, Unsullied and two full-grown dragons. What do dragons eat, anyway?
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> I know, I know, our people haven't been friends in the past. But we must fight together now or die.</speech>
 
-<char house="Targaryen">DAENERYS</char>: Whatever they want.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> May I ask, how are we meant to feed the greatest army the world has ever seen? While I ensured our stores would last through winter, I didn't account for Dothraki, Unsullied and two full-grown dragons. What do dragons eat, anyway?</speech>
 
-<direction> CUT TO </direction>: WINTERFELL - COURTYARD
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Whatever they want.</speech>
 
-Many men move around wagons full of dragonglass. One man knocks a bit out of a wagon and <char house="Baratheon"> GENDRY </char> catches it before it hits the ground.
+<direction> CUT TO: WINTERFELL - COURTYARD</direction>
 
-<char house="Baratheon"> GENDRY </char>: Hey, careful, lads. We need every last bit of it.
+<stageDirection>Many men move around wagons full of dragonglass. One man knocks a bit out of a wagon and <char who="GENDRY" house="Baratheon">GENDRY</char> catches it before it hits the ground.</stageDirection>
 
-MAN 1: Sorry â€™bout that.
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Hey, careful, lads. We need every last bit of it.</speech>
 
-<char house="Baratheon"> GENDRY </char> climbs into the back of one of the wagons.
+<stageDirection>MAN 1: Sorry â€™bout that.</stageDirection>
 
-<char house="Baratheon"> GENDRY </char>: Are these the last of the wagons?
+<stageDirection><char who="GENDRY" house="Baratheon">GENDRY</char> climbs into the back of one of the wagons.</stageDirection>
 
-The camera cuts to <char house="Lanister">TYRION</char> who is watching over the courtyard.
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Are these the last of the wagons?</speech>
 
-MAN 2 (O.S.): Aye.
+<stageDirection>The camera cuts to <char who="TYRION" house="Lanister">TYRION</char> who is watching over the courtyard.</stageDirection>
 
-<char house="Baratheon"> GENDRY </char> (O.S.): All right, let's get it all to the forges.
+<stageDirection>MAN 2 (O.S.): Aye.</stageDirection>
 
-<char house="Lanister">TYRION</char> walks up to <char house="Stark">SANSA</char> and YOHN <char house="Royce"> ROYCE </char>.
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> All right, let's get it all to the forges.</speech>
 
-<char house="Lanister">TYRION</char>: My lord. My lady.
+<stageDirection><char who="TYRION" house="Lanister">TYRION</char> walks up to <char who="SANSA" house="Stark">SANSA</char> and YOHN <char who="ROYCE" house="Royce">ROYCE</char>.</stageDirection>
 
-<char house="Royce"> ROYCE </char> turns to look at <char house="Stark">SANSA</char>, who nods back.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> My lord. My lady.</speech>
 
-<char house="Royce"> ROYCE </char>: My lady.
+<stageDirection><char who="ROYCE" house="Royce">ROYCE</char> turns to look at <char who="SANSA" house="Stark">SANSA</char>, who nods back.</stageDirection>
 
-<char house="Royce"> ROYCE </char> exits.
+<speech><speaker who="ROYCE" house="Royce">ROYCE</speaker> My lady.</speech>
 
-<char house="Lanister">TYRION</char>: The Lady of Winterfell. Has a nice ring to it.
+<stageDirection><char who="ROYCE" house="Royce">ROYCE</char> exits.</stageDirection>
 
-<char house="Stark">SANSA</char>: So does Hand of the Queen. Depending on the queen, I suppose.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> The Lady of Winterfell. Has a nice ring to it.</speech>
 
-<char house="Lanister">TYRION</char>: Last time we spoke was at Joffrey's wedding. Miserable affair.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> So does Hand of the Queen. Depending on the queen, I suppose.</speech>
 
-<char house="Stark">SANSA</char>: It had its moments.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> Last time we spoke was at Joffrey's wedding. Miserable affair.</speech>
 
-They both glance at each other, remembering the murder of JOFFREY BARA<char house="Greyjoy"> THEON </char>.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> It had its moments.</speech>
 
-<char house="Stark">SANSA</char>: Apologies for leaving like that.
+<stageDirection>They both glance at each other, remembering the murder of JOFFREY BARA<char who="THEON" house="Greyjoy">THEON</char>.</stageDirection>
 
-<char house="Lanister">TYRION</char>: Yes, it was a bit hard to explain why my wife fled moments after the king's murder.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Apologies for leaving like that.</speech>
 
-<char house="Stark">SANSA</char>: We both survived.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> Yes, it was a bit hard to explain why my wife fled moments after the king's murder.</speech>
 
-<char house="Lanister">TYRION</char>: Many underestimated you. Most of them are dead now.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> We both survived.</speech>
 
-There is a short silence.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> Many underestimated you. Most of them are dead now.</speech>
 
-<char house="Lanister">TYRION</char>: I'm sure you weren't thrilled to hear the Lannister army's marching north. You have every right to be fearful of my sister. No one fears her more than I do. But I promise, you'll be safe-
+<stageDirection>There is a short silence.</stageDirection>
 
-<char house="Stark">SANSA</char>: Cersei told you her army was coming north to fight for you?
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> I'm sure you weren't thrilled to hear the Lannister army's marching north. You have every right to be fearful of my sister. No one fears her more than I do. But I promise, you'll be safe-</speech>
 
-<char house="Lanister">TYRION</char>: She did.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Cersei told you her army was coming north to fight for you?</speech>
 
-<char house="Stark">SANSA</char>: And you believed her?
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> She did.</speech>
 
-<char house="Lanister">TYRION</char>: She has something to live for now. I believe she wants to survive.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> And you believed her?</speech>
 
-<char house="Stark">SANSA</char>: I used to think you were the cleverest man alive.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> She has something to live for now. I believe she wants to survive.</speech>
 
-<char house="Stark">SANSA</char> exits and <char house="Lanister">TYRION</char> turns to see <char house="Stark">BRAN</char> staring at him from the courtyard.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> I used to think you were the cleverest man alive.</speech>
 
-<direction> CUT TO </direction>: WINTERFELL - GODSWOOD
+<stageDirection><char who="SANSA" house="Stark">SANSA</char> exits and <char who="TYRION" house="Lanister">TYRION</char> turns to see <char who="BRAN" house="Stark">BRAN</char> staring at him from the courtyard.</stageDirection>
 
-<char house="Stark">JON</char> stands next to the weirwood tree and looks at the face carved into the trunk
+<direction> CUT TO: WINTERFELL - GODSWOOD</direction>
 
-<char house="Stark">ARYA</char> (O.S.): You used to be taller.
+<stageDirection><char who="JON" house="Stark">JON</char> stands next to the weirwood tree and looks at the face carved into the trunk</stageDirection>
 
-<char house="Stark">JON</char> turns around to see <char house="Stark">ARYA</char> standing near him.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> You used to be taller.</speech>
 
-<char house="Stark">JON</char>: How did you sneak up on me?
+<stageDirection><char who="JON" house="Stark">JON</char> turns around to see <char who="ARYA" house="Stark">ARYA</char> standing near him.</stageDirection>
 
-<char house="Stark">ARYA</char>: How did you survive a knife through the heart?
+<speech><speaker who="JON" house="Stark">JON</speaker> How did you sneak up on me?</speech>
 
-<char house="Stark">JON</char>: I didn't.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> How did you survive a knife through the heart?</speech>
 
-<char house="Stark">ARYA</char> laughs, they both run towards each other and embrace. Once they break from their hug, <char house="Stark">JON</char> looks down to see <char house="Stark">ARYA</char>'s sword and scoffs in disbelief.
+<speech><speaker who="JON" house="Stark">JON</speaker> I didn't.</speech>
 
-<char house="Stark">JON</char>: You still have it.
+<stageDirection><char who="ARYA" house="Stark">ARYA</char> laughs, they both run towards each other and embrace. Once they break from their hug, <char who="JON" house="Stark">JON</char> looks down to see <char who="ARYA" house="Stark">ARYA</char>'s sword and scoffs in disbelief.</stageDirection>
 
-<char house="Stark">ARYA</char> unsheathes her sword.
+<speech><speaker who="JON" house="Stark">JON</speaker> You still have it.</speech>
 
-<char house="Stark">ARYA</char>: Needle.
+<stageDirection><char who="ARYA" house="Stark">ARYA</char> unsheathes her sword.</stageDirection>
 
-<char house="Stark">JON</char>: Have you ever used it?
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Needle.</speech>
 
-<char house="Stark">ARYA</char>: Once or twice.
+<speech><speaker who="JON" house="Stark">JON</speaker> Have you ever used it?</speech>
 
-<char house="Stark">ARYA</char> puts Needle away. <char house="Stark">JON</char> pulls out his sword, Longclaw, and hands it to <char house="Stark">ARYA</char>.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Once or twice.</speech>
 
-<char house="Stark">ARYA</char>: Valyrian steel.
+<stageDirection><char who="ARYA" house="Stark">ARYA</char> puts Needle away. <char who="JON" house="Stark">JON</char> pulls out his sword, Longclaw, and hands it to <char who="ARYA" house="Stark">ARYA</char>.</stageDirection>
 
-<char house="Stark">JON</char>: Jealous?
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Valyrian steel.</speech>
 
-<char house="Stark">ARYA</char> scoffs.
+<speech><speaker who="JON" house="Stark">JON</speaker> Jealous?</speech>
 
-<char house="Stark">ARYA</char>: Too heavy for me.
+<stageDirection><char who="ARYA" house="Stark">ARYA</char> scoffs.</stageDirection>
 
-<char house="Stark">JON</char> sheaths his sword and puts his hand on <char house="Stark">ARYA</char>'s shoulder.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Too heavy for me.</speech>
 
-<char house="Stark">JON</char>: Where were you before? I could've used your help with Sansa.
+<stageDirection><char who="JON" house="Stark">JON</char> sheaths his sword and puts his hand on <char who="ARYA" house="Stark">ARYA</char>'s shoulder.</stageDirection>
 
-<char house="Stark">ARYA</char>: She doesn't like your queen, does she?
+<speech><speaker who="JON" house="Stark">JON</speaker> Where were you before? I could've used your help with Sansa.</speech>
 
-<char house="Stark">JON</char>: Sansa thinks she's smarter than everyone.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> She doesn't like your queen, does she?</speech>
 
-<char house="Stark">ARYA</char>: She's the smartest person I've ever met.
+<speech><speaker who="JON" house="Stark">JON</speaker> Sansa thinks she's smarter than everyone.</speech>
 
-<char house="Stark">JON</char>: Now you're defending her?
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> She's the smartest person I've ever met.</speech>
 
-<char house="Stark">JON</char> chuckles.
+<speech><speaker who="JON" house="Stark">JON</speaker> Now you're defending her?</speech>
 
-<char house="Stark">JON</char>: You?
+<stageDirection><char who="JON" house="Stark">JON</char> chuckles.</stageDirection>
 
-<char house="Stark">ARYA</char>: I'm defending our family. So is she.
+<speech><speaker who="JON" house="Stark">JON</speaker> You?</speech>
 
-<char house="Stark">JON</char>: Yeah. I'm her family too.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> I'm defending our family. So is she.</speech>
 
-<char house="Stark">ARYA</char> hugs <char house="Stark">JON</char>.
+<speech><speaker who="JON" house="Stark">JON</speaker> Yeah. I'm her family too.</speech>
 
-<char house="Stark">ARYA</char>: Don't forget that.
+<stageDirection><char who="ARYA" house="Stark">ARYA</char> hugs <char who="JON" house="Stark">JON</char>.</stageDirection>
+
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Don't forget that.</speech>
 
 <stageDirection> EXT. </stageDirection>â€“ KING'S LANDING - DAY
-Pan down from a view of the Red Keep to see QYBURN walking up to <char house="Lanister">CERSEI</char> LANNISTER who stares out at the sea.
+<stageDirection>Pan down from a view of the Red Keep to see QYBURN walking up to <char who="CERSEI" house="Lanister">CERSEI</char> LANNISTER who stares out at the sea.</stageDirection>
 
-QYBURN: Your Grace, I'm afraid I bring terrible news. The dead have broken through the Wall.
+<speech><speaker who="QYBURN">QYBURN</speaker> Your Grace, I'm afraid I bring terrible news. The dead have broken through the Wall.</speech>
 
-<char house="Lanister">CERSEI</char>'s lips curl.
+<stageDirection><char who="CERSEI" house="Lanister">CERSEI</char>'s lips curl.</stageDirection>
 
-<char house="Lanister">CERSEI</char>: Good.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> Good.</speech>
 
-She exits as the camera pans around. <char house="Greyjoy"> EURON </char> GREYJOY's Iron Fleet is out at sea and QYBURN turns to look out at them.
+<stageDirection>She exits as the camera pans around. <char who="EURON" house="Greyjoy">EURON</char> GREYJOY's Iron Fleet is out at sea and QYBURN turns to look out at them.</stageDirection>
 
-<direction> CUT TO </direction>: <char house="Greyjoy"> EURON </char>'S SHIP
+<direction> CUT TO: <char who="EURON" house="Greyjoy">EURON</char>'S SHIP</direction>
 
-<char house="Greyjoy"> EURON </char> smiles and stares out at King's Landing from his ship. He walks in the cabin
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> smiles and stares out at King's Landing from his ship. He walks in the cabin</stageDirection>
 
-<direction> CUT TO </direction>: <char house="Greyjoy"> EURON </char>'S SHIP - CABIN
-<char house="Greyjoy"> EURON </char> walks inside and past <char house="Greyjoy"> YARA</char> GREYJOY who is tied to a post in the cabin.
+<direction> CUT TO: <char who="EURON" house="Greyjoy">EURON</char>'S SHIP - CABIN</direction>
 
-<char house="Greyjoy"> YARA</char>: Why don't you just get it over with and kill me?
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> walks inside and past <char who="YARA" house="Greyjoy">YARA</char> GREYJOY who is tied to a post in the cabin.</stageDirection>
 
-<char house="Greyjoy"> EURON </char> walks up to her and crouches down.
+<speech><speaker who="YARA" house="Greyjoy">YARA</speaker> Why don't you just get it over with and kill me?</speech>
 
-<char house="Greyjoy"> EURON </char>: But we're family. The last Greyjoys left in the world. The last ones with balls anyway.
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> walks up to her and crouches down.</stageDirection>
 
-<char house="Greyjoy"> EURON </char> chuckles and pops the lid off his drink.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> But we're family. The last Greyjoys left in the world. The last ones with balls anyway.</speech>
 
-<char house="Greyjoy"> EURON </char>: If I kill you who can I talk to? Hmm?
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> chuckles and pops the lid off his drink.</stageDirection>
 
-He sighs.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> If I kill you who can I talk to? Hmm?</speech>
 
-<char house="Greyjoy"> EURON </char>: I've got a crew full of mutes. It gets lonely at sea.
+<stageDirection>He sighs.</stageDirection>
 
-<char house="Greyjoy"> YARA</char>: Are we in King's Landing?
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> I've got a crew full of mutes. It gets lonely at sea.</speech>
 
-<char house="Greyjoy"> EURON </char>: Mm.
+<speech><speaker who="YARA" house="Greyjoy">YARA</speaker> Are we in King's Landing?</speech>
 
-He turns and offers his drink.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> Mm.</speech>
 
-<char house="Greyjoy"> YARA</char>: You picked the losing side.
+<stageDirection>He turns and offers his drink.</stageDirection>
 
-<char house="Greyjoy"> EURON </char>: Then I'll sail the Iron Fleet somewhere else.
+<speech><speaker who="YARA" house="Greyjoy">YARA</speaker> You picked the losing side.</speech>
 
-He stands up and turns to look her in the eyes.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> Then I'll sail the Iron Fleet somewhere else.</speech>
 
-<char house="Greyjoy"> EURON </char>: But first I'm gonna fuck the queen.
+<stageDirection>He stands up and turns to look her in the eyes.</stageDirection>
 
-<char house="Greyjoy"> EURON </char> exits.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> But first I'm gonna fuck the queen.</speech>
 
-<direction> CUT TO </direction>: RED KEEP â€“ GREAT HALL
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> exits.</stageDirection>
 
-<char house="Lanister">CERSEI</char> sits on the Iron Throne, <char house="Greyjoy"> EURON </char> and <char house="Strickland"> HARRY </char> STRICKLAND stand opposite her.
+<direction> CUT TO: RED KEEP â€“ GREAT HALL</direction>
 
-<char house="Lanister">CERSEI</char>: Twenty-thousand men, is it?
+<stageDirection><char who="CERSEI" house="Lanister">CERSEI</char> sits on the Iron Throne, <char who="EURON" house="Greyjoy">EURON</char> and <char who="HARRY" house="Strickland">HARRY</char> STRICKLAND stand opposite her.</stageDirection>
 
-<char house="Strickland"> HARRY </char>: Yes, Your Grace. A few died in transit.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> Twenty-thousand men, is it?</speech>
 
-<char house="Greyjoy"> EURON </char>: They cheated at dice. Or maybe I cheated. Someone cheated. They weren't good fighters. You won't miss them.
+<speech><speaker who="HARRY" house="Strickland">HARRY</speaker> Yes, Your Grace. A few died in transit.</speech>
 
-<char house="Lanister">CERSEI</char>: Horses?
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> They cheated at dice. Or maybe I cheated. Someone cheated. They weren't good fighters. You won't miss them.</speech>
 
-<char house="Strickland"> HARRY </char>: Two thousand.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> Horses?</speech>
 
-<char house="Lanister">CERSEI</char>: And elephants?
+<speech><speaker who="HARRY" house="Strickland">HARRY</speaker> Two thousand.</speech>
 
-<char house="Strickland"> HARRY </char>: Uh, no elephants, Your Grace.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> And elephants?</speech>
 
-<char house="Lanister">CERSEI</char>: That's disappointing. I was told the Golden Company had elephants.
+<speech><speaker who="HARRY" house="Strickland">HARRY</speaker> Uh, no elephants, Your Grace.</speech>
 
-<char house="Strickland"> HARRY </char>: They are excellent beasts, Your Grace, but not well-suited to long sea voyages.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> That's disappointing. I was told the Golden Company had elephants.</speech>
 
-<char house="Lanister">CERSEI</char>: In any event, you are most welcome here in King's Landing, Captain Strickland.
+<speech><speaker who="HARRY" house="Strickland">HARRY</speaker> They are excellent beasts, Your Grace, but not well-suited to long sea voyages.</speech>
 
-<char house="Strickland"> HARRY </char>: We look forward to fighting on your behalf, Your Grace.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> In any event, you are most welcome here in King's Landing, Captain Strickland.</speech>
 
-<char house="Strickland"> HARRY </char> bows and exits.
+<speech><speaker who="HARRY" house="Strickland">HARRY</speaker> We look forward to fighting on your behalf, Your Grace.</speech>
 
-<char house="Greyjoy"> EURON </char>: Am I most welcome here?
+<stageDirection><char who="HARRY" house="Strickland">HARRY</char> bows and exits.</stageDirection>
 
-<char house="Lanister">CERSEI</char>: You are a true friend of the crown and an honored guest.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> Am I most welcome here?</speech>
 
-<char house="Greyjoy"> EURON </char>: Good. As a true friend and an honored guest
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> You are a true friend of the crown and an honored guest.</speech>
 
-<char house="Greyjoy"> EURON </char> starts to walk forward but GREGOR "THE MOUNTAIN" CLEGANE steps in the way. <char house="Greyjoy"> EURON </char> stops but leans towards <char house="Lanister">CERSEI</char>.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> Good. As a true friend and an honored guest</speech>
 
-<char house="Greyjoy"> EURON </char>: I was hoping we could talk in private.
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> starts to walk forward but GREGOR "THE MOUNTAIN" CLEGANE steps in the way. <char who="EURON" house="Greyjoy">EURON</char> stops but leans towards <char who="CERSEI" house="Lanister">CERSEI</char>.</stageDirection>
 
-<char house="Lanister">CERSEI</char>: After the war. That was our agreement.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> I was hoping we could talk in private.</speech>
 
-<char house="Greyjoy"> EURON </char>: Wars sometimes last years.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> After the war. That was our agreement.</speech>
 
-<char house="Lanister">CERSEI</char>: You want a whore, buy one. You want a queen, earn her.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> Wars sometimes last years.</speech>
 
-<char house="Lanister">CERSEI</char> stands and starts to walk out.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> You want a whore, buy one. You want a queen, earn her.</speech>
 
-<char house="Greyjoy"> EURON </char>: How?
+<stageDirection><char who="CERSEI" house="Lanister">CERSEI</char> stands and starts to walk out.</stageDirection>
 
-<char house="Lanister">CERSEI</char> stops.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> How?</speech>
 
-<char house="Greyjoy"> EURON </char>: I've given her justice, an army, and the Iron Fleet, yet she gives me no sign of affection. My heart is nearly broken.
+<stageDirection><char who="CERSEI" house="Lanister">CERSEI</char> stops.</stageDirection>
 
-<char house="Lanister">CERSEI</char> turns around to face <char house="Greyjoy"> EURON </char>.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> I've given her justice, an army, and the Iron Fleet, yet she gives me no sign of affection. My heart is nearly broken.</speech>
 
-<char house="Lanister">CERSEI</char>: You're insolent. I've executed men for less.
+<stageDirection><char who="CERSEI" house="Lanister">CERSEI</char> turns around to face <char who="EURON" house="Greyjoy">EURON</char>.</stageDirection>
 
-<char house="Greyjoy"> EURON </char>: They were lesser men.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> You're insolent. I've executed men for less.</speech>
 
-<char house="Lanister">CERSEI</char> walks towards the door but halts. She turns around and looks at <char house="Greyjoy"> EURON </char>. <char house="Greyjoy"> EURON </char> chuckles and follows <char house="Lanister">CERSEI</char>, staring at THE MOUNTAIN as he walks past.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> They were lesser men.</speech>
 
-<direction> CUT TO </direction>: KING'S LANDING - BROTHEL
+<stageDirection><char who="CERSEI" house="Lanister">CERSEI</char> walks towards the door but halts. She turns around and looks at <char who="EURON" house="Greyjoy">EURON</char>. <char who="EURON" house="Greyjoy">EURON</char> chuckles and follows <char who="CERSEI" house="Lanister">CERSEI</char>, staring at THE MOUNTAIN as he walks past.</stageDirection>
 
-<char house="Stokeworth"> BRONN </char> is on a bed in brothel with three women around him, DIRAH, CRAYAH and MAREI.
+<direction> CUT TO: KING'S LANDING - BROTHEL</direction>
 
-DIRAH: I hear the dragon burnt up a thousand Lannister men.
+<stageDirection><char who="BRONN" house="Stokeworth">BRONN</char> is on a bed in brothel with three women around him, DIRAH, CRAYAH and MAREI.</stageDirection>
 
-CRAYAH: Burnt up some of my favorite boys.
+<speech><speaker who="DIRAH">DIRAH</speaker> I hear the dragon burnt up a thousand Lannister men.</speech>
 
-DIRAH: Archie, was it?
+<speech><speaker who="CRAYAH">CRAYAH</speaker> Burnt up some of my favorite boys.</speech>
 
-CRAYAH: And William.
+<speech><speaker who="DIRAH">DIRAH</speaker> Archie, was it?</speech>
 
-DIRAH: Tall handsome William?
+<speech><speaker who="CRAYAH">CRAYAH</speaker> And William.</speech>
 
-CRAYAH: Yeah, tall handsome William.
+<speech><speaker who="DIRAH">DIRAH</speaker> Tall handsome William?</speech>
 
-DIRAH: They said what's left of him could fit in a wine glass.
+<speech><speaker who="CRAYAH">CRAYAH</speaker> Yeah, tall handsome William.</speech>
 
-<char house="Stokeworth"> BRONN </char>: I am the only man you ever met who shot a dragon.
+<speech><speaker who="DIRAH">DIRAH</speaker> They said what's left of him could fit in a wine glass.</speech>
 
-CRAYAH: Did you?
+<speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> I am the only man you ever met who shot a dragon.</speech>
 
-<char house="Stokeworth"> BRONN </char>: Nearly killed it.
+<speech><speaker who="CRAYAH">CRAYAH</speaker> Did you?</speech>
 
-MAREI: That's brave.
+<speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> Nearly killed it.</speech>
 
-MAREI pushes <char house="Stokeworth"> BRONN </char> back and climbs on top of him, CRAYAH and DIRAH climb on the bed either side.
+<speech><speaker who="MAREI">MAREI</speaker> That's brave.</speech>
 
-CRAYAH: That boy Eddie.
+<stageDirection>MAREI pushes <char who="BRONN" house="Stokeworth">BRONN</char> back and climbs on top of him, CRAYAH and DIRAH climb on the bed either side.</stageDirection>
 
-DIRAH: The ginger?
+<speech><speaker who="CRAYAH">CRAYAH</speaker> That boy Eddie.</speech>
 
-CRAYAH: That's him. Came back with his face burnt right off. He's got no eyelids now.
+<speech><speaker who="DIRAH">DIRAH</speaker> The ginger?</speech>
 
-DIRAH: How does he sleep with no eyelids?
+<speech><speaker who="CRAYAH">CRAYAH</speaker> That's him. Came back with his face burnt right off. He's got no eyelids now.</speech>
 
-<char house="Stokeworth"> BRONN </char>: All right, can we stop talking about the fucking dragons now?
+<speech><speaker who="DIRAH">DIRAH</speaker> How does he sleep with no eyelids?</speech>
 
-QYBURN (O.S.): Ser Bronn of the Blackwater.
+<speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> All right, can we stop talking about the fucking dragons now?</speech>
 
-<char house="Stokeworth"> BRONN </char> sits up and all four of them look at QYBURN who is standing in the doorway.
+<speech><speaker who="QYBURN">QYBURN</speaker> Ser Bronn of the Blackwater.</speech>
 
-<char house="Stokeworth"> BRONN </char>: You're kidding me.
+<stageDirection><char who="BRONN" house="Stokeworth">BRONN</char> sits up and all four of them look at QYBURN who is standing in the doorway.</stageDirection>
 
-QYBURN: Apologies for the interruption, but the queen did urge me to hurry.
+<speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> You're kidding me.</speech>
 
-<char house="Stokeworth"> BRONN </char> sighs and removes MAREI from his lap.
+<speech><speaker who="QYBURN">QYBURN</speaker> Apologies for the interruption, but the queen did urge me to hurry.</speech>
 
-<char house="Stokeworth"> BRONN </char>: Sorry, ladies. Another time perhaps.
+<stageDirection><char who="BRONN" house="Stokeworth">BRONN</char> sighs and removes MAREI from his lap.</stageDirection>
 
-<char house="Stokeworth"> BRONN </char> stands up and starts dressing himself. CRAYAH walks up to QYBURN.
+<speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> Sorry, ladies. Another time perhaps.</speech>
 
-CRAYAH: You ever get lonely; I am partial to older gentlemen.
+<stageDirection><char who="BRONN" house="Stokeworth">BRONN</char> stands up and starts dressing himself. CRAYAH walks up to QYBURN.</stageDirection>
 
-The three women leave.
+<speech><speaker who="CRAYAH">CRAYAH</speaker> You ever get lonely; I am partial to older gentlemen.</speech>
 
-QYBURN: Poor girl. The pox will take her within the year.
+<stageDirection>The three women leave.</stageDirection>
 
-<char house="Stokeworth"> BRONN </char> chokes on his drink and coughs.
+<speech><speaker who="QYBURN">QYBURN</speaker> Poor girl. The pox will take her within the year.</speech>
 
-<char house="Stokeworth"> BRONN </char>: Which girl?
+<stageDirection><char who="BRONN" house="Stokeworth">BRONN</char> chokes on his drink and coughs.</stageDirection>
 
-QYBURN: The queen's brothers made promises to you and broke them. Her Grace wants to rectify their mistake.
+<speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> Which girl?</speech>
 
-<char house="Stokeworth"> BRONN </char>: She once gave me a castle and a wife, then rectified me right out of them.
+<speech><speaker who="QYBURN">QYBURN</speaker> The queen's brothers made promises to you and broke them. Her Grace wants to rectify their mistake.</speech>
 
-QYBURN: That was Ser Jaime's doing, not hers. When Queen Cersei wants something, she pays in advance and in gold. Several chests of it, in fact. Waiting for you in a wagon just outside.
+<speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> She once gave me a castle and a wife, then rectified me right out of them.</speech>
 
-<char house="Stokeworth"> BRONN </char>: So, she wants to murder someone, but she can't send her soldiers. If it's the Dragon Queen she's after-
+<speech><speaker who="QYBURN">QYBURN</speaker> That was Ser Jaime's doing, not hers. When Queen Cersei wants something, she pays in advance and in gold. Several chests of it, in fact. Waiting for you in a wagon just outside.</speech>
 
-QYBURN: She has other plans for the Targaryen girl.
+<speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> So, she wants to murder someone, but she can't send her soldiers. If it's the Dragon Queen she's after-</speech>
 
-<char house="Stokeworth"> BRONN </char>: Yeah, well, good luck with that.
+<speech><speaker who="QYBURN">QYBURN</speaker> She has other plans for the Targaryen girl.</speech>
 
-QYBURN: Our queen's brothers are unlikely to survive their Northern adventures. But in the event that they do-
+<speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> Yeah, well, good luck with that.</speech>
 
-A guard brings in a large crossbow, the one that <char house="Lanister">TYRION</char> had previously used to murder his, JAIME's, and <char house="Lanister">CERSEI</char>'s father, TYWIN LANNISTER.
+<speech><speaker who="QYBURN">QYBURN</speaker> Our queen's brothers are unlikely to survive their Northern adventures. But in the event that they do-</speech>
 
-QYBURN: She has a keen sense of poetic justice.
+<stageDirection>A guard brings in a large crossbow, the one that <char who="TYRION" house="Lanister">TYRION</char> had previously used to murder his, JAIME's, and <char who="CERSEI" house="Lanister">CERSEI</char>'s father, TYWIN LANNISTER.</stageDirection>
 
-<char house="Stokeworth"> BRONN </char>: That fucking family.
+<speech><speaker who="QYBURN">QYBURN</speaker> She has a keen sense of poetic justice.</speech>
 
-QYBURN: When the Citadel expelled me, I thought I would die poor and alone, but in exchange for my service, Queen Cersei made me her Hand. What would she do for the man who rids her of her treasonous brothers?
+<speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> That fucking family.</speech>
 
-QYBURN walks up to <char house="Stokeworth"> BRONN </char> and holds out the crossbow. After a short silence, <char house="Stokeworth"> BRONN </char> takes it. QYBURN exits whilst <char house="Stokeworth"> BRONN </char> looks at the crossbow in his hands.
+<speech><speaker who="QYBURN">QYBURN</speaker> When the Citadel expelled me, I thought I would die poor and alone, but in exchange for my service, Queen Cersei made me her Hand. What would she do for the man who rids her of her treasonous brothers?</speech>
 
-<direction> CUT TO </direction>: RED KEEP - <char house="Lanister">CERSEI</char>'S QUARTERS
+<stageDirection>QYBURN walks up to <char who="BRONN" house="Stokeworth">BRONN</char> and holds out the crossbow. After a short silence, <char who="BRONN" house="Stokeworth">BRONN</char> takes it. QYBURN exits whilst <char who="BRONN" house="Stokeworth">BRONN</char> looks at the crossbow in his hands.</stageDirection>
 
-<char house="Lanister">CERSEI</char> is standing behind a chair and sighs.
+<direction> CUT TO: RED KEEP - <char who="CERSEI" house="Lanister">CERSEI</char>'S QUARTERS</direction>
 
-<char house="Lanister">CERSEI</char>: I wanted those elephants.
+<stageDirection><char who="CERSEI" house="Lanister">CERSEI</char> is standing behind a chair and sighs.</stageDirection>
 
-The camera pans to reveal <char house="Greyjoy"> EURON </char> getting dressed. He sighs and <char house="Lanister">CERSEI</char> walks around the chair and sits down.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> I wanted those elephants.</speech>
 
-<char house="Greyjoy"> EURON </char>: So, how do I compare to the fat king?
+<stageDirection>The camera pans to reveal <char who="EURON" house="Greyjoy">EURON</char> getting dressed. He sighs and <char who="CERSEI" house="Lanister">CERSEI</char> walks around the chair and sits down.</stageDirection>
 
-<char house="Lanister">CERSEI</char>: You're insulting my late husband?
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> So, how do I compare to the fat king?</speech>
 
-<char house="Greyjoy"> EURON </char> walks up to her and whispers in her ear.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> You're insulting my late husband?</speech>
 
-<char house="Greyjoy"> EURON </char>: Are you offended?
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> walks up to her and whispers in her ear.</stageDirection>
 
-<char house="Lanister">CERSEI</char>: Robert had a different whore every night, but he still didn't know his way around a woman's body.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> Are you offended?</speech>
 
-<char house="Greyjoy"> EURON </char>: And the Kingslayer?
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> Robert had a different whore every night, but he still didn't know his way around a woman's body.</speech>
 
-<char house="Lanister">CERSEI</char> glares at <char house="Greyjoy"> EURON </char>.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> And the Kingslayer?</speech>
 
-<char house="Lanister">CERSEI</char>: You enjoy risking your neck, don't you?
+<stageDirection><char who="CERSEI" house="Lanister">CERSEI</char> glares at <char who="EURON" house="Greyjoy">EURON</char>.</stageDirection>
 
-<char house="Greyjoy"> EURON </char> chuckles.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> You enjoy risking your neck, don't you?</speech>
 
-<char house="Greyjoy"> EURON </char>: Life is boring.
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> chuckles.</stageDirection>
 
-<char house="Lanister">CERSEI</char>: You're not boring, I'll give you that.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> Life is boring.</speech>
 
-<char house="Greyjoy"> EURON </char> smiles and walks up to <char house="Lanister">CERSEI</char>, standing over her.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> You're not boring, I'll give you that.</speech>
 
-<char house="Greyjoy"> EURON </char>: Do I please the queen?
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> smiles and walks up to <char who="CERSEI" house="Lanister">CERSEI</char>, standing over her.</stageDirection>
 
-<char house="Lanister">CERSEI</char>: You might be the most arrogant man I've ever met. I like that.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> Do I please the queen?</speech>
 
-<char house="Greyjoy"> EURON </char> chuckles.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> You might be the most arrogant man I've ever met. I like that.</speech>
 
-<char house="Lanister">CERSEI</char>: But now I want to be alone.
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> chuckles.</stageDirection>
 
-<char house="Greyjoy"> EURON </char> leans down and speaks softly to <char house="Lanister">CERSEI</char>.
+<speech><speaker who="CERSEI" house="Lanister">CERSEI</speaker> But now I want to be alone.</speech>
 
-<char house="Greyjoy"> EURON </char>: I'm going to put a prince in your belly.
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> leans down and speaks softly to <char who="CERSEI" house="Lanister">CERSEI</char>.</stageDirection>
 
-<char house="Greyjoy"> EURON </char> exits and tears start to form in <char house="Lanister">CERSEI</char>'s eyes.
+<speech><speaker who="EURON" house="Greyjoy">EURON</speaker> I'm going to put a prince in your belly.</speech>
 
-<direction> CUT TO </direction>: IRON FLEET
+<stageDirection><char who="EURON" house="Greyjoy">EURON</char> exits and tears start to form in <char who="CERSEI" house="Lanister">CERSEI</char>'s eyes.</stageDirection>
 
-A door can be heard open and then close, a bow string creaks and then an arrow pierces a man's head. More and more of <char house="Greyjoy"> EURON </char>'s men drop dead and a group of men walk over their bodies. <char house="Greyjoy"> YARA</char> is still tied to the post in the cabin and looks up when she hears a bang. Suddenly, a body falls through the door with an axe in his face. <char house="Greyjoy"> THEON </char> GREYJOY walks in after it, retrieves the axe and unties <char house="Greyjoy"> YARA</char>. <char house="Greyjoy"> THEON </char> helps <char house="Greyjoy"> YARA</char> to her feet before she turns to him and headbutts him. <char house="Greyjoy"> THEON </char> falls to the floor, stunned, and <char house="Greyjoy"> YARA</char> extends a hand. <char house="Greyjoy"> THEON </char> grabs her hand and they both exit the cabin.
+<direction> CUT TO: IRON FLEET</direction>
 
-<direction> CUT TO </direction>: <char house="Greyjoy"> THEON </char>'S SHIPS
+<stageDirection>A door can be heard open and then close, a bow string creaks and then an arrow pierces a man's head. More and more of <char who="EURON" house="Greyjoy">EURON</char>'s men drop dead and a group of men walk over their bodies. <char who="YARA" house="Greyjoy">YARA</char> is still tied to the post in the cabin and looks up when she hears a bang. Suddenly, a body falls through the door with an axe in his face. <char who="THEON" house="Greyjoy">THEON</char> GREYJOY walks in after it, retrieves the axe and unties <char who="YARA" house="Greyjoy">YARA</char>. <char who="THEON" house="Greyjoy">THEON</char> helps <char who="YARA" house="Greyjoy">YARA</char> to her feet before she turns to him and headbutts him. <char who="THEON" house="Greyjoy">THEON</char> falls to the floor, stunned, and <char who="YARA" house="Greyjoy">YARA</char> extends a hand. <char who="THEON" house="Greyjoy">THEON</char> grabs her hand and they both exit the cabin.</stageDirection>
 
-Three ships from the Iron Fleet sail together.
+<direction> CUT TO: <char who="THEON" house="Greyjoy">THEON</char>'S SHIPS</direction>
 
-<char house="Greyjoy"> YARA</char> (O.S.): Euron can't defend the Iron Islands, not if he's in King's Landing with all his men and his ships.
+<stageDirection>Three ships from the Iron Fleet sail together.</stageDirection>
 
-<char house="Greyjoy"> YARA</char> and <char house="Greyjoy"> THEON </char> stand on deck next to one another.
+<speech><speaker who="YARA" house="Greyjoy">YARA</speaker> Euron can't defend the Iron Islands, not if he's in King's Landing with all his men and his ships.</speech>
 
-<char house="Greyjoy"> YARA</char>: We can take our home back.
+<stageDirection><char who="YARA" house="Greyjoy">YARA</char> and <char who="THEON" house="Greyjoy">THEON</char> stand on deck next to one another.</stageDirection>
 
-<char house="Greyjoy"> THEON </char>: Daenerys went north.
+<speech><speaker who="YARA" house="Greyjoy">YARA</speaker> We can take our home back.</speech>
 
-<char house="Greyjoy"> YARA</char>: Daenerys will need somewhere to retreat if they can't hold the North. Somewhere the dead can't go.
+<speech><speaker who="THEON" house="Greyjoy">THEON</speaker> Daenerys went north.</speech>
 
-<char house="Greyjoy"> THEON </char> pauses and sighs.
+<speech><speaker who="YARA" house="Greyjoy">YARA</speaker> Daenerys will need somewhere to retreat if they can't hold the North. Somewhere the dead can't go.</speech>
 
-<char house="Greyjoy"> THEON </char>: You're my queen. I go where you command.
+<stageDirection><char who="THEON" house="Greyjoy">THEON</char> pauses and sighs.</stageDirection>
 
-<char house="Greyjoy"> YARA</char> turns to him.
+<speech><speaker who="THEON" house="Greyjoy">THEON</speaker> You're my queen. I go where you command.</speech>
 
-<char house="Greyjoy"> YARA</char>: You want to go to Winterfell. To fight for the Starks. Go. What is dead may never die.
+<stageDirection><char who="YARA" house="Greyjoy">YARA</char> turns to him.</stageDirection>
 
-<char house="Greyjoy"> THEON </char> turns to <char house="Greyjoy"> YARA</char>.
+<speech><speaker who="YARA" house="Greyjoy">YARA</speaker> You want to go to Winterfell. To fight for the Starks. Go. What is dead may never die.</speech>
 
-<char house="Greyjoy"> THEON </char>: What is dead may never die.
+<stageDirection><char who="THEON" house="Greyjoy">THEON</char> turns to <char who="YARA" house="Greyjoy">YARA</char>.</stageDirection>
 
-They embrace and <char house="Greyjoy"> YARA</char> leans to his ear.
+<speech><speaker who="THEON" house="Greyjoy">THEON</speaker> What is dead may never die.</speech>
 
-<char house="Greyjoy"> YARA</char>: But kill the bastards anyway.
+<stageDirection>They embrace and <char who="YARA" house="Greyjoy">YARA</char> leans to his ear.</stageDirection>
+
+<speech><speaker who="YARA" house="Greyjoy">YARA</speaker> But kill the bastards anyway.</speech>
 
 <stageDirection> EXT. </stageDirection> WINTERFELL - DAY
-<char house="Targaryen">DAENERYS</char>' army are camped outside the walls of Winterfell and wagons and horses enter the front gate.
+<stageDirection><char who="DAENERYS" house="Targaryen">DAENERYS</char>' army are camped outside the walls of Winterfell and wagons and horses enter the front gate.</stageDirection>
 
-<direction> CUT TO </direction>: WINTERFELL â€“ FRONT GATE
+<direction> CUT TO: WINTERFELL â€“ FRONT GATE</direction>
 
-Inside the gate, <char house="Bolton"> WOLKAN </char> is greeting ALYS KARSTARK as the KARSTARKS arrive.
+<stageDirection>Inside the gate, <char who="WOLKAN" house="Bolton">WOLKAN</char> is greeting ALYS KARSTARK as the KARSTARKS arrive.</stageDirection>
 
-<char house="Bolton"> WOLKAN </char>: Welcome back, my lady. If you'd follow me
+<speech><speaker who="WOLKAN" house="Bolton">WOLKAN</speaker> Welcome back, my lady. If you'd follow me</speech>
 
-<char house="Bolton"> WOLKAN </char> and ALYS exit, <char> VARYS </char>,   <char house="Seaworth"> DAVOS</char> SEAWORTH and <char house="Lanister">TYRION</char> are watching on.
+<stageDirection><char who="WOLKAN" house="Bolton">WOLKAN</char> and ALYS exit, <char> VARYS </char>,   <char who="DAVOS" house="Seaworth">DAVOS</char> SEAWORTH and <char who="TYRION" house="Lanister">TYRION</char> are watching on.</stageDirection>
 
-<char> VARYS </char>: The Karstarks.
+<speech><speaker who="VARYS">VARYS</speaker> The Karstarks.</speech>
+  
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> One of the better sigils. Beats an onion, anyway.</speech>
 
-<char house="Lanister">TYRION</char>: One of the better sigils. Beats an onion, anyway.
+  <char who="DAVOS" house="Seaworth">DAVOS</char>: Can't argue with that.
 
-  <char house="Seaworth"> DAVOS</char>: Can't argue with that.
+<stageDirection>The three men start walking with each other.</stageDirection>
 
-The three men start walking with each other.
+  <char who="DAVOS" house="Seaworth">DAVOS</char>: Not so long ago, the Starks and the Karstarks were slaughtering each other on the battlefield. Jon Snow brought peace to the houses.
 
-  <char house="Seaworth"> DAVOS</char>: Not so long ago, the Starks and the Karstarks were slaughtering each other on the battlefield. Jon Snow brought peace to the houses.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> And our queen is grateful.</speech>
 
-<char house="Lanister">TYRION</char>: And our queen is grateful.
+  <char who="DAVOS" house="Seaworth">DAVOS</char>: Her gratitude is lovely, but that's not my point. The Northmen are loyal to Jon Snow, not to her. They don't know her. The Free Folk don't know her. I've been up here a while, and I'm telling you, they're stubborn as goats. You want their loyalty, you have to earn it.
 
-  <char house="Seaworth"> DAVOS</char>: Her gratitude is lovely, but that's not my point. The Northmen are loyal to Jon Snow, not to her. They don't know her. The Free Folk don't know her. I've been up here a while, and I'm telling you, they're stubborn as goats. You want their loyalty, you have to earn it.
+<stageDirection><char who="TYRION" house="Lanister">TYRION</char> stops and thinks. He then catches up with   <char who="DAVOS" house="Seaworth">DAVOS</char> and <char> VARYS </char> who continued to walk.</stageDirection>
 
-<char house="Lanister">TYRION</char> stops and thinks. He then catches up with   <char house="Seaworth"> DAVOS</char> and <char> VARYS </char> who continued to walk.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> I sense that you're leading to a proposal.</speech>
 
-<char house="Lanister">TYRION</char>: I sense that you're leading to a proposal.
+  <char who="DAVOS" house="Seaworth">DAVOS</char> looks out over the castle wall.
 
-  <char house="Seaworth"> DAVOS</char> looks out over the castle wall.
+  <char who="DAVOS" house="Seaworth">DAVOS</char>: A proposal is what I'm proposing. On the off chance that we survive the Night King, what if the Seven Kingdoms, for once in their whole shit history, were ruled by a just woman and an honorable man?
 
-  <char house="Seaworth"> DAVOS</char>: A proposal is what I'm proposing. On the off chance that we survive the Night King, what if the Seven Kingdoms, for once in their whole shit history, were ruled by a just woman and an honorable man?
+<stageDirection><char> VARYS </char> and <char who="TYRION" house="Lanister">TYRION</char> walk forward to look over the wall with   <char who="DAVOS" house="Seaworth">DAVOS</char>, they see <char who="JON" house="Stark">JON</char> and <char who="DAENERYS" house="Targaryen">DAENERYS</char> standing and talking with each other.</stageDirection>
 
-<char> VARYS </char> and <char house="Lanister">TYRION</char> walk forward to look over the wall with   <char house="Seaworth"> DAVOS</char>, they see <char house="Stark">JON</char> and <char house="Targaryen">DAENERYS</char> standing and talking with each other.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> They do make a handsome couple.</speech>
 
-<char house="Lanister">TYRION</char>: They do make a handsome couple.
+<stageDirection><char> VARYS </char>: You overestimate our influence. Jon and Daenerys don't want to listen to lonely old men.</stageDirection>
 
-<char> VARYS </char>: You overestimate our influence. Jon and Daenerys don't want to listen to lonely old men.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> I'm not that old.</speech>
 
-<char house="Lanister">TYRION</char>: I'm not that old.
+<stageDirection><char who="TYRION" house="Lanister">TYRION</char> looks up at <char> VARYS </char> and then at   <char who="DAVOS" house="Seaworth">DAVOS</char>.</stageDirection>
 
-<char house="Lanister">TYRION</char> looks up at <char> VARYS </char> and then at   <char house="Seaworth"> DAVOS</char>.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> Not as old as him.</speech>
 
-<char house="Lanister">TYRION</char>: Not as old as him.
+  <char who="DAVOS" house="Seaworth">DAVOS</char> chuckles.
 
-  <char house="Seaworth"> DAVOS</char> chuckles.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> Our queen respects the wisdom of age.</speech>
 
-<char house="Lanister">TYRION</char>: Our queen respects the wisdom of age.
+<speech><speaker who="VARYS"> VARYS </speaker>: Of course she does. Respect is how the young keep us at a distance, so we don't remind them of an unpleasant truth.</speech>
 
-<char> VARYS </char>: Of course she does. Respect is how the young keep us at a distance, so we don't remind them of an unpleasant truth.
+<speech><speaker who="TYRION" house="Lanister">TYRION</speaker> What is that?</speech>
 
-<char house="Lanister">TYRION</char>: What is that?
+<speech><speaker who="VARYS"> VARYS </speaker>: Nothing lasts.</speech>
 
-<char> VARYS </char>: Nothing lasts.
+<direction> CUT TO: WINTERFELL â€“ OUTSIDE THE WALL</direction>
 
-<direction> CUT TO </direction>: WINTERFELL â€“ OUTSIDE THE WALL
+<stageDirection><char who="JON" house="Stark">JON</char> and <char who="DAENERYS" house="Targaryen">DAENERYS</char> walk together as men shout indistinctly in the background.</stageDirection>
 
-<char house="Stark">JON</char> and <char house="Targaryen">DAENERYS</char> walk together as men shout indistinctly in the background.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Your sister doesn't like me.</speech>
 
-<char house="Targaryen">DAENERYS</char>: Your sister doesn't like me.
+<stageDirection>They both stop and turn to one another.</stageDirection>
 
-They both stop and turn to one another.
+<speech><speaker who="JON" house="Stark">JON</speaker> She doesn't know you. If it makes you feel any better, she didn't like me either when we were growing up.</speech>
 
-<char house="Stark">JON</char>: She doesn't know you. If it makes you feel any better, she didn't like me either when we were growing up.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> She doesn't need to be my friend but I am her queen. If she can't respect me-</speech>
 
-<char house="Targaryen">DAENERYS</char>: She doesn't need to be my friend but I am her queen. If she can't respect me-
+<stageDirection>Three Dothraki men ride up to <char who="DAENERYS" house="Targaryen">DAENERYS</char>.</stageDirection>
 
-Three Dothraki men ride up to <char house="Targaryen">DAENERYS</char>.
+<stageDirection><char who="DAENERYS" house="Targaryen">DAENERYS</char> (speaking Dothraki): How many today?</stageDirection>
 
-<char house="Targaryen">DAENERYS</char> (speaking Dothraki): How many today?
+<speech><speaker>DOTHRAKI MAN #1</speaker> Only eighteen goats and eleven sheep.</speech>
 
-DOTHRAKI MAN #1: Only eighteen goats and eleven sheep.
+<stageDirection>The Dothraki men ride away.</stageDirection>
 
-The Dothraki men ride away.
+<stageDirection><char who="JON" house="Stark">JON</char> (speaking the Common Tongue): What's the matter?</stageDirection>
 
-<char house="Stark">JON</char> (speaking the Common Tongue): What's the matter?
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> The dragons are barely eating.</speech>
 
-<char house="Targaryen">DAENERYS</char>: The dragons are barely eating.
-
-<char house="Targaryen">DAENERYS</char> walks off and <char house="Stark">JON</char> follows.
+<stageDirection><char who="DAENERYS" house="Targaryen">DAENERYS</char> walks off and <char who="JON" house="Stark">JON</char> follows.</stageDirection>
 
 <stageDirection> EXT. </stageDirection> FLAT CLEARING
-<char house="Stark">JON</char> and <char house="Targaryen">DAENERYS</char> walk up to DROGON and RHAEGAL who are standing either side of a pile of bones. The dragons growl softly as they approach.
+<stageDirection><char who="JON" house="Stark">JON</char> and <char who="DAENERYS" house="Targaryen">DAENERYS</char> walk up to DROGON and RHAEGAL who are standing either side of a pile of bones. The dragons growl softly as they approach.</stageDirection>
 
-<char house="Stark">JON</char>: What's wrong with them?
+<speech><speaker who="JON" house="Stark">JON</speaker> What's wrong with them?</speech>
 
-<char house="Targaryen">DAENERYS</char>: They don't like the North.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> They don't like the North.</speech>
 
-She touches DROGON's nose and RHAEGAL looks at <char house="Stark">JON</char> and gets close. <char house="Targaryen">DAENERYS</char> climbs on DROGON's back and, smiling, nods towards RHAEGAL.
+<stageDirection>She touches DROGON's nose and RHAEGAL looks at <char who="JON" house="Stark">JON</char> and gets close. <char who="DAENERYS" house="Targaryen">DAENERYS</char> climbs on DROGON's back and, smiling, nods towards RHAEGAL.</stageDirection>
 
-<char house="Targaryen">DAENERYS</char>: Go on.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Go on.</speech>
 
-<char house="Stark">JON</char> looks at the dragon, unsure as to what to do.
+<stageDirection><char who="JON" house="Stark">JON</char> looks at the dragon, unsure as to what to do.</stageDirection>
 
-<char house="Stark">JON</char>: I don't know how to ride a dragon.
+<speech><speaker who="JON" house="Stark">JON</speaker> I don't know how to ride a dragon.</speech>
 
-<char house="Targaryen">DAENERYS</char>: Nobody does. Until they ride a dragon.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Nobody does. Until they ride a dragon.</speech>
 
-<char house="Stark">JON</char>: What if he doesn't want me to?
+<speech><speaker who="JON" house="Stark">JON</speaker> What if he doesn't want me to?</speech>
 
-<char house="Targaryen">DAENERYS</char>: Then I've enjoyed your company, Jon Snow.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Then I've enjoyed your company, Jon Snow.</speech>
 
-Defeated, <char house="Stark">JON</char> walks around the side of RHAEGAL and then climbs on top whilst grunting.
+<stageDirection>Defeated, <char who="JON" house="Stark">JON</char> walks around the side of RHAEGAL and then climbs on top whilst grunting.</stageDirection>
 
-<char house="Stark">JON</char>: What do I hold onto?
+<speech><speaker who="JON" house="Stark">JON</speaker> What do I hold onto?</speech>
 
-<char house="Targaryen">DAENERYS</char>: Whatever you can.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Whatever you can.</speech>
 
-<char house="Stark">JON</char> grabs onto the dragon, which then proceeds to lift off whilst chittering. <char house="Targaryen">DAENERYS</char> watches and smiles, before leaning forwards, cuing DROGON to follow suit. The dragons continue to fly higher, RHAEGAL turns side-to-side causing <char house="Stark">JON</char> to yell out. They fly over the soldiers outside Winterfell and past <char house="Lanister">TYRION</char>,   <char house="Seaworth"> DAVOS</char> and <char> VARYS </char> who are standing at the castle wall, staring in disbelief as they watch. DROGON flies ahead of RHAEGAL and continues higher before nosediving; RHAEGAL follows after his brother. They continue calmly before reaching a canyon, where the dragons dive straight down, before flying along the canyon floor. Once out of the canyon, RHAEGAL turns off, so <char house="Targaryen">DAENERYS</char> instructs DROGON to do the same. She lands down next to <char house="Stark">JON</char>. <char house="Stark">JON</char> and <char house="Targaryen">DAENERYS</char>, now dismounted from their dragons, walk together away from the dragons.
+<stageDirection><char who="JON" house="Stark">JON</char> grabs onto the dragon, which then proceeds to lift off whilst chittering. <char who="DAENERYS" house="Targaryen">DAENERYS</char> watches and smiles, before leaning forwards, cuing DROGON to follow suit. The dragons continue to fly higher, RHAEGAL turns side-to-side causing <char who="JON" house="Stark">JON</char> to yell out. They fly over the soldiers outside Winterfell and past <char who="TYRION" house="Lanister">TYRION</char>,   <char who="DAVOS" house="Seaworth">DAVOS</char> and <char> VARYS </char> who are standing at the castle wall, staring in disbelief as they watch. DROGON flies ahead of RHAEGAL and continues higher before nosediving; RHAEGAL follows after his brother. They continue calmly before reaching a canyon, where the dragons dive straight down, before flying along the canyon floor. Once out of the canyon, RHAEGAL turns off, so <char who="DAENERYS" house="Targaryen">DAENERYS</char> instructs DROGON to do the same. She lands down next to <char who="JON" house="Stark">JON</char>. <char who="JON" house="Stark">JON</char> and <char who="DAENERYS" house="Targaryen">DAENERYS</char>, now dismounted from their dragons, walk together away from the dragons.</stageDirection>
 
-<char house="Stark">JON</char>: You've completely ruined horses for me.
+<speech><speaker who="JON" house="Stark">JON</speaker> You've completely ruined horses for me.</speech>
 
-<char house="Targaryen">DAENERYS</char> giggles and then notices a large waterfall, they stop.
+<stageDirection><char who="DAENERYS" house="Targaryen">DAENERYS</char> giggles and then notices a large waterfall, they stop.</stageDirection>
 
-<char house="Targaryen">DAENERYS</char>: We could stay a thousand years-
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> We could stay a thousand years-</speech>
 
-She turns back to look at <char house="Stark">JON</char>.
+<stageDirection>She turns back to look at <char who="JON" house="Stark">JON</char>.</stageDirection>
 
-<char house="Targaryen">DAENERYS</char>: No one would find us.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> No one would find us.</speech>
 
-<char house="Stark">JON</char>: We'd be pretty old.
+<speech><speaker who="JON" house="Stark">JON</speaker> We'd be pretty old.</speech>
 
-<char house="Targaryen">DAENERYS</char> chuckles and the two walk up to one another.
+<stageDirection><char who="DAENERYS" house="Targaryen">DAENERYS</char> chuckles and the two walk up to one another.</stageDirection>
 
-<char house="Stark">JON</char>: It's cold up here for a southern girl.
+<speech><speaker who="JON" house="Stark">JON</speaker> It's cold up here for a southern girl.</speech>
 
-<char house="Targaryen">DAENERYS</char>: So keep your queen warm.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> So keep your queen warm.</speech>
 
-<char house="Stark">JON</char> pulls her in and kisses her. The dragons start to growl softly causing <char house="Stark">JON</char> to pull away.
+<stageDirection><char who="JON" house="Stark">JON</char> pulls her in and kisses her. The dragons start to growl softly causing <char who="JON" house="Stark">JON</char> to pull away.</stageDirection>
 
-<char house="Targaryen">DAENERYS</char>: Don't be afraid.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Don't be afraid.</speech>
 
-They smile and continue their kiss in each other's embrace. <char house="Stark">JON</char> opens his eyes to see DROGON staring at them.
+<stageDirection>They smile and continue their kiss in each other's embrace. <char who="JON" house="Stark">JON</char> opens his eyes to see DROGON staring at them.</stageDirection>
 
 INT. WINTERFELL â€“ DAY
-<direction> CUT TO </direction>: WINTERFELL - FORGES
+<direction> CUT TO: WINTERFELL - FORGES</direction>
 
-<char house="Baratheon"> GENDRY </char> amongst other men occupy the forge, using the furnaces to create weapons from dragonglass
+<stageDirection><char who="GENDRY" house="Baratheon">GENDRY</char> amongst other men occupy the forge, using the furnaces to create weapons from dragonglass</stageDirection>
 
-MAN 1: Gendry?
+<speech><speaker>MAN 1</speaker> Gendry?</speech>
 
-MAN 2: He's here.
+<speech><speaker>MAN 2</speaker> He's here.</speech>
 
-<char house="Baratheon"> GENDRY </char> hears and grabs a large axe made from dragonglass. He hands it over to <char house="Clegane"> SANDOR </char>.
+<stageDirection><char who="GENDRY" house="Baratheon">GENDRY</char> hears and grabs a large axe made from dragonglass. He hands it over to <char who="SANDOR" house="Clegane">SANDOR</char>.</stageDirection>
 
-<char house="Baratheon"> GENDRY </char>: It isn't easy making a blade that big with dragonglass.
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> It isn't easy making a blade that big with dragonglass.</speech>
 
-<char house="Clegane"> SANDOR </char>: You're saying you're good, is that it?
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> You're saying you're good, is that it?</speech>
 
-<char house="Baratheon"> GENDRY </char>: I'm just saying it's a tricky material to-
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I'm just saying it's a tricky material to-</speech>
 
-<char house="Clegane"> SANDOR </char>: You know who makes weapons for the wildlings? Cripples and cocksuckers. Which one are you?
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> You know who makes weapons for the wildlings? Cripples and cocksuckers. Which one are you?</speech>
 
-<char house="Stark">ARYA</char> (O.S.): Leave him be.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Leave him be.</speech>
 
-<char house="Baratheon"> GENDRY </char> and <char house="Clegane"> SANDOR </char> turn to see <char house="Stark">ARYA</char> and stare at her.
+<stageDirection><char who="GENDRY" house="Baratheon">GENDRY</char> and <char who="SANDOR" house="Clegane">SANDOR</char> turn to see <char who="ARYA" house="Stark">ARYA</char> and stare at her.</stageDirection>
 
-<char house="Clegane"> SANDOR </char>: I heard you were here. You left me to die.
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> I heard you were here. You left me to die.</speech>
 
-<char house="Stark">ARYA</char>: First I robbed you.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> First I robbed you.</speech>
 
-<char house="Clegane"> SANDOR </char> stands up and walks over to her, not breaking eye-contact.
+<stageDirection><char who="SANDOR" house="Clegane">SANDOR</char> stands up and walks over to her, not breaking eye-contact.</stageDirection>
 
-<char house="Clegane"> SANDOR </char>: You're a cold little bitch, aren't you? Guess that's why you're still alive.
+<speech><speaker who="SANDOR" house="Clegane">SANDOR</speaker> You're a cold little bitch, aren't you? Guess that's why you're still alive.</speech>
 
-<char house="Clegane"> SANDOR </char> exits and <char house="Baratheon"> GENDRY </char> walks up to <char house="Stark">ARYA</char>.
+<stageDirection><char who="SANDOR" house="Clegane">SANDOR</char> exits and <char who="GENDRY" house="Baratheon">GENDRY</char> walks up to <char who="ARYA" house="Stark">ARYA</char>.</stageDirection>
 
-<char house="Stark">ARYA</char>: That was a nice ax you made for him. You've gotten better.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> That was a nice ax you made for him. You've gotten better.</speech>
 
-<char house="Baratheon"> GENDRY </char>: Yeah, thanks. So have you.
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Yeah, thanks. So have you.</speech>
 
-He pauses.
+<stageDirection>He pauses.</stageDirection>
 
-<char house="Baratheon"> GENDRY </char>: I mean, you look good.
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I mean, you look good.</speech>
 
-<char house="Stark">ARYA</char>: Thanks. So do you.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Thanks. So do you.</speech>
 
-<char house="Baratheon"> GENDRY </char> pauses, he then walks away whilst still talking to her.
+<stageDirection><char who="GENDRY" house="Baratheon">GENDRY</char> pauses, he then walks away whilst still talking to her.</stageDirection>
 
-<char house="Baratheon"> GENDRY </char>: It's not a bad place to grow up, if it wasn't so cold.
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> It's not a bad place to grow up, if it wasn't so cold.</speech>
 
-<char house="Stark">ARYA</char> follows.
+<stageDirection><char who="ARYA" house="Stark">ARYA</char> follows.</stageDirection>
 
-<char house="Stark">ARYA</char>: Stay close to that forge, then.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Stay close to that forge, then.</speech>
 
-<char house="Baratheon"> GENDRY </char>: Is that a command, Lady Stark?
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Is that a command, Lady Stark?</speech>
 
-<char house="Stark">ARYA</char>: Don't call me that.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Don't call me that.</speech>
 
-<char house="Baratheon"> GENDRY </char>: As you wish, milady.
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> As you wish, milady.</speech>
 
-She smiles and chuckles.
+<stageDirection>She smiles and chuckles.</stageDirection>
 
-<char house="Stark">ARYA</char>: Here's my wish.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Here's my wish.</speech>
 
-<char house="Stark">ARYA</char> hands <char house="Baratheon"> GENDRY </char> a piece of parchment with a detachable spear drawn on it, with a dragonglass tip.
+<stageDirection><char who="ARYA" house="Stark">ARYA</char> hands <char who="GENDRY" house="Baratheon">GENDRY</char> a piece of parchment with a detachable spear drawn on it, with a dragonglass tip.</stageDirection>
 
-<char house="Stark">ARYA</char>: Can you make it?
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Can you make it?</speech>
 
-<char house="Baratheon"> GENDRY </char>: What do you need something like this for?
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> What do you need something like this for?</speech>
 
-<char house="Stark">ARYA</char>: Can you make it or not?
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> Can you make it or not?</speech>
 
-<char house="Baratheon"> GENDRY </char>: You already have a sword. What's that?
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> You already have a sword. What's that?</speech>
 
-<char house="Stark">ARYA</char> removes a Valyrian steel dagger from her person and hands it to him.
+<stageDirection><char who="ARYA" house="Stark">ARYA</char> removes a Valyrian steel dagger from her person and hands it to him.</stageDirection>
 
-<char house="Baratheon"> GENDRY </char>: It's Valyrian steel. I always knew you were just another rich girl.
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> It's Valyrian steel. I always knew you were just another rich girl.</speech>
 
-<char house="Stark">ARYA</char> smirks and takes the dagger back.
+<stageDirection><char who="ARYA" house="Stark">ARYA</char> smirks and takes the dagger back.</stageDirection>
 
-<char house="Stark">ARYA</char>: You don't know any other rich girls.
+<speech><speaker who="ARYA" house="Stark">ARYA</speaker> You don't know any other rich girls.</speech>
 
-<char house="Stark">ARYA</char> walks off before turning back and smiling and then back around again without breaking stride.
+<stageDirection><char who="ARYA" house="Stark">ARYA</char> walks off before turning back and smiling and then back around again without breaking stride.</stageDirection>
 
-<direction> CUT TO </direction>: WINTERFELL â€“ <char house="Stark">SANSA</char>'S QUARTERS
+<direction> CUT TO: WINTERFELL â€“ <char who="SANSA" house="Stark">SANSA</char>'S QUARTERS</direction>
 
-<char house="Stark">SANSA</char> is reading a letter when there is a knock on the door.
+<stageDirection><char who="SANSA" house="Stark">SANSA</char> is reading a letter when there is a knock on the door.</stageDirection>
 
-<char house="Stark">SANSA</char>: Come in.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Come in.</speech>
 
-The door creaks open and then shuts. <char house="Stark">JON</char> walks in before stopping next to her. <char house="Stark">SANSA</char> sighs.
+<stageDirection>The door creaks open and then shuts. <char who="JON" house="Stark">JON</char> walks in before stopping next to her. <char who="SANSA" house="Stark">SANSA</char> sighs.</stageDirection>
 
-<char house="Stark">SANSA</char>: Lord Glover wishes us good fortune, but he's staying in Deepwood Motte with his men.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Lord Glover wishes us good fortune, but he's staying in Deepwood Motte with his men.</speech>
 
-<char house="Stark">JON</char>: "House Glover will stand behind House Stark as we have for a thousand years." Isn't that what he said?
+<speech><speaker who="JON" house="Stark">JON</speaker> "House Glover will stand behind House Stark as we have for a thousand years." Isn't that what he said?</speech>
 
-<char house="Stark">SANSA</char>: "I will stand behind Jon Snow," he said.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> "I will stand behind Jon Snow," he said.</speech>
 
-<char house="Stark">SANSA</char> stands up and walks a bit before stopping and turning to look at him
+<stageDirection><char who="SANSA" house="Stark">SANSA</char> stands up and walks a bit before stopping and turning to look at him</stageDirection>
 
-<char house="Stark">SANSA</char>: "The King in the North."
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> "The King in the North."</speech>
 
-<char house="Stark">JON</char>: I told you we needed allies.
+<speech><speaker who="JON" house="Stark">JON</speaker> I told you we needed allies.</speech>
 
-<char house="Stark">SANSA</char>: You didn't tell me you were going to abandon your crown.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> You didn't tell me you were going to abandon your crown.</speech>
 
-<char house="Stark">JON</char>: I never wanted a crown. All I wanted was to protect the North. I brought two armies home with me, two dragons.
+<speech><speaker who="JON" house="Stark">JON</speaker> I never wanted a crown. All I wanted was to protect the North. I brought two armies home with me, two dragons.</speech>
 
-<char house="Stark">SANSA</char>: And a Targaryen queen.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> And a Targaryen queen.</speech>
 
-<char house="Stark">JON</char> sighs.
+<stageDirection><char who="JON" house="Stark">JON</char> sighs.</stageDirection>
 
-<char house="Stark">JON</char>: Do you think we can beat the Army of the Dead without her? I fought them, Sansa. Twice. You want to worry about who holds what title, I'm telling you it doesn't matter. Without her, we don't stand a chance.
+<speech><speaker who="JON" house="Stark">JON</speaker> Do you think we can beat the Army of the Dead without her? I fought them, Sansa. Twice. You want to worry about who holds what title, I'm telling you it doesn't matter. Without her, we don't stand a chance.</speech>
 
-They fall silent and <char house="Stark">JON</char> sighs.
+<stageDirection>They fall silent and <char who="JON" house="Stark">JON</char> sighs.</stageDirection>
 
-<char house="Stark">JON</char>: Do you have any faith in me at all?
+<speech><speaker who="JON" house="Stark">JON</speaker> Do you have any faith in me at all?</speech>
 
-<char house="Stark">SANSA</char>: You know I do.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> You know I do.</speech>
 
-<char house="Stark">JON</char>: She'll be a good queen. For all of us. She's not her father.
+<speech><speaker who="JON" house="Stark">JON</speaker> She'll be a good queen. For all of us. She's not her father.</speech>
 
-<char house="Stark">SANSA</char> sighs.
+<stageDirection><char who="SANSA" house="Stark">SANSA</char> sighs.</stageDirection>
 
-<char house="Stark">SANSA</char>: No, she's much prettier.
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> No, she's much prettier.</speech>
 
-<char house="Stark">JON</char> scoffs.
+<stageDirection><char who="JON" house="Stark">JON</char> scoffs.</stageDirection>
 
-<char house="Stark">SANSA</char>: Did you bend the knee to save the North or because you love her?
+<speech><speaker who="SANSA" house="Stark">SANSA</speaker> Did you bend the knee to save the North or because you love her?</speech>
 
-He looks up at her.
+<stageDirection>He looks up at her.</stageDirection>
 
-<direction> CUT TO </direction>: WINTERFELL - LIBRARY
+<direction> CUT TO: WINTERFELL - LIBRARY</direction>
 
-A door creaks open and then shuts as <char house="Targaryen">DAENERYS</char> and <char house="Mormont"> JORAH</char> enter the library. They walk to where <char house="Tarly">SAMWELL</char> TARLY sits and <char house="Mormont"> JORAH</char> nods in his direction. <char house="Targaryen">DAENERYS</char> clears her throat.
+<stageDirection>A door creaks open and then shuts as <char who="DAENERYS" house="Targaryen">DAENERYS</char> and <char who="JORAH" house="Mormont">JORAH</char> enter the library. They walk to where <char who="SAMWELL" house="Tarly">SAMWELL</char> TARLY sits and <char who="JORAH" house="Mormont">JORAH</char> nods in his direction. <char who="DAENERYS" house="Targaryen">DAENERYS</char> clears her throat.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: Oh!
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Oh!</speech>
 
-Startled, <char house="Tarly">SAMWELL</char> stands up and dusts himself off.
+<stageDirection>Startled, <char who="SAMWELL" house="Tarly">SAMWELL</char> stands up and dusts himself off.</stageDirection>
 
-<char house="Targaryen">DAENERYS</char>: So you're the man?
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> So you're the man?</speech>
 
-<char house="Tarly">SAMWELL</char>: Um. Which man am I, Your Grace?
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Um. Which man am I, Your Grace?</speech>
 
-<char house="Targaryen">DAENERYS</char>: The one who saved Ser Jorah when no one else could.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> The one who saved Ser Jorah when no one else could.</speech>
 
-<char house="Mormont"> JORAH</char>: They could, they just wouldn't.
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> They could, they just wouldn't.</speech>
 
-<char house="Targaryen">DAENERYS</char>: I'll have to make some changes in the Citadel when I take my throne. A great service merits a great reward.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I'll have to make some changes in the Citadel when I take my throne. A great service merits a great reward.</speech>
 
-<char house="Tarly">SAMWELL</char>: Oh, it's my honor to serve you, Your Grace.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Oh, it's my honor to serve you, Your Grace.</speech>
 
-<char house="Targaryen">DAENERYS</char>: Well, there must be something I could give you.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Well, there must be something I could give you.</speech>
 
-<char house="Tarly">SAMWELL</char> nods.
+<stageDirection><char who="SAMWELL" house="Tarly">SAMWELL</char> nods.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: If it's not too much trouble, I could use a pardon.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> If it's not too much trouble, I could use a pardon.</speech>
 
-<char house="Targaryen">DAENERYS</char>: For what crime?
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> For what crime?</speech>
 
-<char house="Tarly">SAMWELL</char>: Um, I borrowed a few books from the Citadel.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Um, I borrowed a few books from the Citadel.</speech>
 
-<char house="Mormont"> JORAH</char> and <char house="Targaryen">DAENERYS</char> both smile to themselves.
+<stageDirection><char who="JORAH" house="Mormont">JORAH</char> and <char who="DAENERYS" house="Targaryen">DAENERYS</char> both smile to themselves.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: And also a sword.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> And also a sword.</speech>
 
-<char house="Targaryen">DAENERYS</char> looks at him, confused.
+<stageDirection><char who="DAENERYS" house="Targaryen">DAENERYS</char> looks at him, confused.</stageDirection>
 
-<char house="Targaryen">DAENERYS</char>: From the Citadel?
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> From the Citadel?</speech>
 
-<char house="Tarly">SAMWELL</char>: From my family. It's been in House Tarly for generations.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> From my family. It's been in House Tarly for generations.</speech>
 
-<char house="Targaryen">DAENERYS</char>' face drops and she looks concerned.
+<stageDirection><char who="DAENERYS" house="Targaryen">DAENERYS</char>' face drops and she looks concerned.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: It would've been mine anyway, eventually, but my father had other ideas.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> It would've been mine anyway, eventually, but my father had other ideas.</speech>
 
-<char house="Targaryen">DAENERYS</char>: Not Randyll Tarly?
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Not Randyll Tarly?</speech>
 
-<char house="Tarly">SAMWELL</char>: You know him?
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> You know him?</speech>
 
-He looks at her, surprised. <char house="Mormont"> JORAH</char> looks guilty.
+<stageDirection>He looks at her, surprised. <char who="JORAH" house="Mormont">JORAH</char> looks guilty.</stageDirection>
 
-<char house="Targaryen">DAENERYS</char>: I offered to let him retain his lands and titles if he bent the knee. He refused.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> I offered to let him retain his lands and titles if he bent the knee. He refused.</speech>
 
-<char house="Mormont"> JORAH</char> looks down as <char house="Tarly">SAMWELL</char> tried to hold it together. He gulps.
+<stageDirection><char who="JORAH" house="Mormont">JORAH</char> looks down as <char who="SAMWELL" house="Tarly">SAMWELL</char> tried to hold it together. He gulps.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: Well At least I'll be allowed home again, now that my brother's the lord.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Well At least I'll be allowed home again, now that my brother's the lord.</speech>
 
-<char house="Targaryen">DAENERYS</char>' face is stern.
+<stageDirection><char who="DAENERYS" house="Targaryen">DAENERYS</char>' face is stern.</stageDirection>
 
-<char house="Targaryen">DAENERYS</char>: Your brother stood with your father.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Your brother stood with your father.</speech>
 
-<char house="Tarly">SAMWELL</char>'s lips start quivering and his breath becomes shaky.
+<stageDirection><char who="SAMWELL" house="Tarly">SAMWELL</char>'s lips start quivering and his breath becomes shaky.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: Hm. Thank you, Your Grace. For telling me. And m- may I?
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Hm. Thank you, Your Grace. For telling me. And m- may I?</speech>
 
-<char house="Targaryen">DAENERYS</char>: Of course.
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Of course.</speech>
 
-<char house="Tarly">SAMWELL</char> exits quickly, and <char house="Targaryen">DAENERYS</char> and <char house="Mormont"> JORAH</char> look at each other.
+<stageDirection><char who="SAMWELL" house="Tarly">SAMWELL</char> exits quickly, and <char who="DAENERYS" house="Targaryen">DAENERYS</char> and <char who="JORAH" house="Mormont">JORAH</char> look at each other.</stageDirection>
 
-<direction> CUT TO </direction>: WINTERFELL - COURTYARD
+<direction> CUT TO: WINTERFELL - COURTYARD</direction>
 
-<char house="Tarly">SAMWELL</char> heads outside before being startled by a horse carrying a wagon. He stops and sees <char house="Stark">BRAN</char> staring at him from across the courtyard. He walks over.
+<stageDirection><char who="SAMWELL" house="Tarly">SAMWELL</char> heads outside before being startled by a horse carrying a wagon. He stops and sees <char who="BRAN" house="Stark">BRAN</char> staring at him from across the courtyard. He walks over.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: What are you doing out here?
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> What are you doing out here?</speech>
 
-<char house="Stark">BRAN</char>: Waiting, for an old friend. It's time to tell Jon the truth.
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> Waiting, for an old friend. It's time to tell Jon the truth.</speech>
 
-<char house="Tarly">SAMWELL</char> shakes his head.
+<stageDirection><char who="SAMWELL" house="Tarly">SAMWELL</char> shakes his head.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: No, no. You're his brother. Shouldn't you tell him?
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> No, no. You're his brother. Shouldn't you tell him?</speech>
 
-<char house="Stark">BRAN</char>: I'm not his brother. He trusts you more than anyone. Now's the time.
+<speech><speaker who="BRAN" house="Stark">BRAN</speaker> I'm not his brother. He trusts you more than anyone. Now's the time.</speech>
 
-<direction> CUT TO </direction>: WINTERFELL - CRYPTS
+<direction> CUT TO: WINTERFELL - CRYPTS</direction>
 
-<char house="Stark">JON</char> blows out a candle and stands back to look at his father, <char house="Tollett"> EDD </char>ARD STARK's, statue. He sighs and hears a man grunting and a thud. He walks around the corner to see <char house="Tarly">SAMWELL</char> stand up.
+<stageDirection><char who="JON" house="Stark">JON</char> blows out a candle and stands back to look at his father, <char who="EDD" house="Tollett">EDD</char>ARD STARK's, statue. He sighs and hears a man grunting and a thud. He walks around the corner to see <char who="SAMWELL" house="Tarly">SAMWELL</char> stand up.</stageDirection>
 
-<char house="Stark">JON</char>: Sam?
+<speech><speaker who="JON" house="Stark">JON</speaker> Sam?</speech>
 
-<char house="Tarly">SAMWELL</char>: I'm sorry, I know I'm not supposed to be down here.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> I'm sorry, I know I'm not supposed to be down here.</speech>
 
-<char house="Stark">JON</char> grabs <char house="Tarly">SAMWELL</char> and hugs him tightly.
+<stageDirection><char who="JON" house="Stark">JON</char> grabs <char who="SAMWELL" house="Tarly">SAMWELL</char> and hugs him tightly.</stageDirection>
 
-<char house="Stark">JON</char>: Were you hiding from me?
+<speech><speaker who="JON" house="Stark">JON</speaker> Were you hiding from me?</speech>
 
-<char house="Tarly">SAMWELL</char>: Of course not.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Of course not.</speech>
 
-<char house="Stark">JON</char>: What are you doing in Winterfell? Or did you read every book in the Citadel already?
+<speech><speaker who="JON" house="Stark">JON</speaker> What are you doing in Winterfell? Or did you read every book in the Citadel already?</speech>
 
-He looks at <char house="Tarly">SAMWELL</char>'s face and sees he is worried.
+<stageDirection>He looks at <char who="SAMWELL" house="Tarly">SAMWELL</char>'s face and sees he is worried.</stageDirection>
 
-<char house="Stark">JON</char>: What's wrong? Gilly? Is she all right?
+<speech><speaker who="JON" house="Stark">JON</speaker> What's wrong? Gilly? Is she all right?</speech>
 
-<char house="Tarly">SAMWELL</char>: She's good.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> She's good.</speech>
 
-<char house="Stark">JON</char>: Little Sam?
+<speech><speaker who="JON" house="Stark">JON</speaker> Little Sam?</speech>
 
-<char house="Tarly">SAMWELL</char>: Don't you know?
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Don't you know?</speech>
 
-<char house="Stark">JON</char>: Know what?
+<speech><speaker who="JON" house="Stark">JON</speaker> Know what?</speech>
 
-<char house="Tarly">SAMWELL</char>: Daenerys. She executed my father and brother. They were her prisoners.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Daenerys. She executed my father and brother. They were her prisoners.</speech>
 
-<char house="Stark">JON</char> looks at <char house="Tarly">SAMWELL</char>, shocked at the news he is hearing.
+<stageDirection><char who="JON" house="Stark">JON</char> looks at <char who="SAMWELL" house="Tarly">SAMWELL</char>, shocked at the news he is hearing.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: She didn't tell you.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> She didn't tell you.</speech>
 
-<char house="Stark">JON</char>: I'm so sorry. We need to end this war.
+<speech><speaker who="JON" house="Stark">JON</speaker> I'm so sorry. We need to end this war.</speech>
 
-<char house="Tarly">SAMWELL</char>: Would you have done it?
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Would you have done it?</speech>
 
-<char house="Stark">JON</char>: Well, I've executed men who disobeyed me.
+<speech><speaker who="JON" house="Stark">JON</speaker> Well, I've executed men who disobeyed me.</speech>
 
-<char house="Tarly">SAMWELL</char>: You've also spared men. Thousands of wildlings when they refused to kneel.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> You've also spared men. Thousands of wildlings when they refused to kneel.</speech>
 
-<char house="Stark">JON</char>: I wasn't a king.
+<speech><speaker who="JON" house="Stark">JON</speaker> I wasn't a king.</speech>
 
-<char house="Tarly">SAMWELL</char>: But you were. You've always been.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> But you were. You've always been.</speech>
 
-<char house="Stark">JON</char>: I gave up my crown, Sam.
+<speech><speaker who="JON" house="Stark">JON</speaker> I gave up my crown, Sam.</speech>
 
-<char house="Stark">JON</char> starts walking away, <char house="Tarly">SAMWELL</char> follows.
+<stageDirection><char who="JON" house="Stark">JON</char> starts walking away, <char who="SAMWELL" house="Tarly">SAMWELL</char> follows.</stageDirection>
 
-<char house="Stark">JON</char>: I bent the knee. I'm not King in the North anymore.
+<speech><speaker who="JON" house="Stark">JON</speaker> I bent the knee. I'm not King in the North anymore.</speech>
 
-<char house="Tarly">SAMWELL</char>: I'm not talking about the King in the North. I'm talking about the King of the bloody Seven Kingdoms.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> I'm not talking about the King in the North. I'm talking about the King of the bloody Seven Kingdoms.</speech>
 
-<char house="Stark">JON</char> stops immediately, pauses and turns around.
+<stageDirection><char who="JON" house="Stark">JON</char> stops immediately, pauses and turns around.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: Bran and I worked it out. I had a High Septon's diary. Bran had whatever Bran has.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Bran and I worked it out. I had a High Septon's diary. Bran had whatever Bran has.</speech>
 
-<char house="Stark">JON</char>: What are you talking about?
+<speech><speaker who="JON" house="Stark">JON</speaker> What are you talking about?</speech>
 
-<char house="Tarly">SAMWELL</char>: Your mother was Lyanna Stark.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> Your mother was Lyanna Stark.</speech>
 
-<char house="Stark">JON</char> exhales sharply.
+<stageDirection><char who="JON" house="Stark">JON</char> exhales sharply.</stageDirection>
 
-<char house="Tarly">SAMWELL</char>: And your father- your real father was Rhaegar Targaryen. You've never been a bastard. You're Aegon Targaryen, true heir to the Iron Throne. I'm sorry, I know it's a lot to take in.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> And your father- your real father was Rhaegar Targaryen. You've never been a bastard. You're Aegon Targaryen, true heir to the Iron Throne. I'm sorry, I know it's a lot to take in.</speech>
 
-<char house="Stark">JON</char> walks up to <char house="Tarly">SAMWELL</char>:
+<stageDirection><char who="JON" house="Stark">JON</char> walks up to <char who="SAMWELL" house="Tarly">SAMWELL</char>:</stageDirection>
 
-<char house="Stark">JON</char>: My father was the most honorable man I ever met. You're saying he lied to me all my life.
+<speech><speaker who="JON" house="Stark">JON</speaker> My father was the most honorable man I ever met. You're saying he lied to me all my life.</speech>
 
-<char house="Tarly">SAMWELL</char>: No. Your father- Well, Ned Stark. He promised your mother he'd always protect you. And he did. Robert would have murdered you if he knew. You're the true king. Aegon Targaryen, Sixth of His Name, Protector of the Realm, all of it.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> No. Your father- Well, Ned Stark. He promised your mother he'd always protect you. And he did. Robert would have murdered you if he knew. You're the true king. Aegon Targaryen, Sixth of His Name, Protector of the Realm, all of it.</speech>
 
-<char house="Stark">JON</char> takes a couple of steps back whilst breathing heavily.
+<stageDirection><char who="JON" house="Stark">JON</char> takes a couple of steps back whilst breathing heavily.</stageDirection>
 
-<char house="Stark">JON</char>: Daenerys is our queen.
+<speech><speaker who="JON" house="Stark">JON</speaker> Daenerys is our queen.</speech>
 
-<char house="Tarly">SAMWELL</char>: She shouldn't be.
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> She shouldn't be.</speech>
 
-<char house="Stark">JON</char>: That's treason.
+<speech><speaker who="JON" house="Stark">JON</speaker> That's treason.</speech>
 
-<char house="Tarly">SAMWELL</char>: It's the truth. You gave up your crown to save your people. Would she do the same?
+<speech><speaker who="SAMWELL" house="Tarly">SAMWELL</speaker> It's the truth. You gave up your crown to save your people. Would she do the same?</speech>
 
 <stageDirection> EXT. </stageDirection> LAST HEARTH - NIGHT
-<char house="Dondarrion">  BERIC</char> DONDARRION and <char house="Giantsbane"> TORMUND </char> with a group of others walk into Last Hearth to find it deserted. <char house="Dondarrion">  BERIC</char> enters the building first, the others following cautiously behind. While exploring a dark hallway, a sudden noise startles the group and they press themselves against the walls, weapons drawn as the sounds turn into footprints. Suddenly, <char house="Giantsbane"> TORMUND </char> leaps around the corner to confront the source of the noise with a roar, the rest of the group yelling in preparation to attack the enemy, but instead they find DOLOROUS <char house="Tollett"> EDD </char> and others of the Night's Watch.
+<stageDirection><char house="Dondarrion">  BERIC</char> DONDARRION and <char who="TORMUND" house="Giantsbane">TORMUND</char> with a group of others walk into Last Hearth to find it deserted. <char house="Dondarrion">  BERIC</char> enters the building first, the others following cautiously behind. While exploring a dark hallway, a sudden noise startles the group and they press themselves against the walls, weapons drawn as the sounds turn into footprints. Suddenly, <char who="TORMUND" house="Giantsbane">TORMUND</char> leaps around the corner to confront the source of the noise with a roar, the rest of the group yelling in preparation to attack the enemy, but instead they find DOLOROUS <char who="EDD" house="Tollett">EDD</char> and others of the Night's Watch.</stageDirection>
 
-<char house="Tollett"> EDD </char>: Stay back, he's got blue eyes!
+<speech><speaker who="EDD" house="Tollett">EDD</speaker> Stay back, he's got blue eyes!</speech>
 
-<char house="Giantsbane"> TORMUND </char>: I've always had blue eyes!
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> I've always had blue eyes!</speech>
 
-Everyone pauses and lowers their weapons with sighs of relief.
+<stageDirection>Everyone pauses and lowers their weapons with sighs of relief.</stageDirection>
 
-<char house="Dondarrion">  BERIC</char>: Did you find anyone?
+<speech><speaker who="BERIC" house="Dondarrion">BERIC</speaker> Did you find anyone?</speech>
 
-<char house="Tollett"> EDD </char> leads <char house="Dondarrion">  BERIC</char> and <char house="Giantsbane"> TORMUND </char> through a large hall, faintly illuminated by <char house="Dondarrion">  BERIC</char>'s ignited sword. When they reach the far wall there is a young boy impaled on the wall with several spirals of limbs surrounding him.
+<stageDirection><char who="EDD" house="Tollett">EDD</char> leads <char house="Dondarrion">  BERIC</char> and <char who="TORMUND" house="Giantsbane">TORMUND</char> through a large hall, faintly illuminated by <char house="Dondarrion">  BERIC</char>'s ignited sword. When they reach the far wall there is a young boy impaled on the wall with several spirals of limbs surrounding him.</stageDirection>
 
-<char house="Tollett"> EDD </char>: The Umber boy.
+<speech><speaker who="EDD" house="Tollett">EDD</speaker> The Umber boy.</speech>
 
-<char house="Dondarrion">  BERIC</char>: It's a message. From the Night King.
+<speech><speaker who="BERIC" house="Dondarrion">BERIC</speaker> It's a message. From the Night King.</speech>
 
-<char house="Giantsbane"> TORMUND </char>: His army's between us and Winterfell. We're on foot.
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> His army's between us and Winterfell. We're on foot.</speech>
 
-<char house="Tollett"> EDD </char>: We rode down from Castle Black. We can double up on the horses.
+<speech><speaker who="EDD" house="Tollett">EDD</speaker> We rode down from Castle Black. We can double up on the horses.</speech>
 
-<char house="Giantsbane"> TORMUND </char>: If the horses last, we'll get there before the dead.
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> If the horses last, we'll get there before the dead.</speech>
 
-<char house="Umber"> UMBER </char>'s eyes open.
+<stageDirection><char who="UMBER" house="Umber">UMBER</char>'s eyes open.</stageDirection>
 
-<char house="Giantsbane"> TORMUND </char>: We just have to hope the Night King doesn't come first-
+<speech><speaker who="TORMUND" house="Giantsbane">TORMUND</speaker> We just have to hope the Night King doesn't come first-</speech>
 
-<char house="Umber"> UMBER </char> starts shrieking, the three men start clamoring and <char house="Dondarrion">  BERIC</char> shoves his sword in the boy, both igniting him and causing him to shriek even louder. The shrieking eventually stops, but not before the entire mosaic of appendages has been engulfed by flames.
+<stageDirection><char who="UMBER" house="Umber">UMBER</char> starts shrieking, the three men start clamoring and <char house="Dondarrion">  BERIC</char> shoves his sword in the boy, both igniting him and causing him to shriek even louder. The shrieking eventually stops, but not before the entire mosaic of appendages has been engulfed by flames.</stageDirection>
 
-<stageDirection> EXT. </stageDirection> WINTER TOWN - DAY
-Men are marching along the long road up to Winterfell, a cloaked figure rides a horse.
+  <stageDirection> EXT. WINTER TOWN - DAY</stageDirection>
+<stageDirection>Men are marching along the long road up to Winterfell, a cloaked figure rides a horse.</stageDirection>
 
-<direction> CUT TO </direction>: WINTERFELL
+<direction> CUT TO: WINTERFELL</direction>
 
-The cloaked man rides the horse up to the stable and dismounts as men around shout indistinctly. He removes his hood and JAIME LANNISTER's face is revealed. He sighs and looks around the courtyard before <char house="Stark">BRAN</char> catches his eye. JAIME stares at him in disbelief at the camera zooms in on <char house="Stark">BRAN</char>'s face.
+<stageDirection>The cloaked man rides the horse up to the stable and dismounts as men around shout indistinctly. He removes his hood and JAIME LANNISTER's face is revealed. He sighs and looks around the courtyard before <char who="BRAN" house="Stark">BRAN</char> catches his eye. JAIME stares at him in disbelief at the camera zooms in on <char who="BRAN" house="Stark">BRAN</char>'s face.</stageDirection>
+  
     </Ep1>
