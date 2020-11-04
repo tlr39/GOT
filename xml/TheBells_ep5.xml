@@ -1,1348 +1,1349 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ep5>
-INT: DRAGONSTONE, VARYS'S CHAMBERS
+<direction>INT: DRAGONSTONE, VARYS'S CHAMBERS</direction>
 
-VARYS sits at an ornate desk, writing a letter about JON SNOW's true heritage. Only partially visible, it includes the phrases, "... is not the only Targaryen left, Rhaegar and Lyanna ..." and " ... their son lives still, hidden by Eddard Stark ... " and " ... he is the true heir to the Iron Throne ...". There is an knock on the door. VARYS discretely hides what he has been writing.
+<stageDirection>VARYS sits at an ornate desk, writing a letter about JON SNOW's true heritage. Only partially visible, it includes the phrases, "... is not the only Targaryen left, Rhaegar and Lyanna ..." and " ... their son lives still, hidden by Eddard Stark ... " and " ... he is the true heir to the Iron Throne ...". There is an knock on the door. VARYS discretely hides what he has been writing.</stageDirection>
 
-VARYS: Come in.
+<speech><speaker who="VARYS" house="">VARYS</speaker> Come in.</speech>
 
-The door opens and MARTHA enters, sheepish.
+<stageDirection>The door opens and MARTHA enters, sheepish.</stageDirection>
 
-VARYS: And?
+<speech><speaker who="VARYS" house="">VARYS</speaker> And?</speech>
 
-MARTHA: (shakes her head)
+<speech><speaker who="MARTHA" house="">MARTHA</speaker> (shakes her head)</speech>
 
-VARYS: Nothing?
+<speech><speaker who="VARYS" house="">VARYS</speaker> Nothing?</speech>
 
-MARTHA: She won't eat.
+<speech><speaker who="MARTHA" house="">MARTHA</speaker> She won't eat.</speech>
 
-VARYS taps the table rhythmically as he thinks.
+<stageDirection>VARYS taps the table rhythmically as he thinks.</stageDirection>
 
-VARYS: We'll try again at supper.
+<speech><speaker who="VARYS" house="">VARYS</speaker> We'll try again at supper.</speech>
 
-He returns to writing.
+<stageDirection>He returns to writing.</stageDirection>
 
-MARTHA: I think they're watching me.
+<speech><speaker who="MARTHA" house="">MARTHA</speaker> I think they're watching me.</speech>
 
-VARYS: Who?
+<speaker who="VARYS" house="">VARYS</speaker> Who?
  
 
-MARTHA: Her soldiers.
+<speech><speaker who="MARTHA" house="">MARTHA</speaker> Her soldiers.</speech>
 
-VARYS: Of course they are. That's their job.
+<speech><speaker who="VARYS" house="">VARYS</speaker> Of course they are. That's their job.</speech>
 
-VARYS extends his hand kindly. MARTHA comes closer and clasps hold.
+<stageDirection>VARYS extends his hand kindly. MARTHA comes closer and clasps hold.</stageDirection>
 
-VARYS: What have I told you, Martha?
+<speech><speaker who="VARYS" house="">VARYS</speaker> What have I told you, Martha?</speech>
 
-MARTHA: The greater the risk, the greater the reward.
+<speech><speaker who="MARTHA" house="">MARTHA</speaker> The greater the risk, the greater the reward.</speech>
 
-VARYS: (Nods.) Go on. They'll be missing you in the kitchen.
+<speech><speaker who="VARYS" house="">VARYS</speaker> (Nods.) Go on. They'll be missing you in the kitchen.</speech>
 
-MARTHA exits.
+<stageDirection>MARTHA exits.</stageDirection>
 
-EXT: DRAGONSTONE SHORE, BEACH OVERLOOK
+<speech><speaker who="EXT" house="">EXT</speaker> DRAGONSTONE SHORE, BEACH OVERLOOK</speech>
 
-TYRION LANNISTER stands above the beach, watching a boat being beached by its crew. JON walks from the boat to VARYS.
+<stageDirection>TYRION LANNISTER stands above the beach, watching a boat being beached by its crew. JON walks from the boat to VARYS.</stageDirection>
 
-CUT TO: THE BEACH
+<direction>CUT TO: THE BEACH</direction>
 
-VARYS: The Northern armies?
+<speech><speaker who="VARYS" house="">VARYS</speaker> The Northern armies?</speech>
 
-JON: Just crossed the Trident. They'll be at the walls of King's Landing in two days. How is she?
+<speech><speaker who="JON" house="Stark">JON</speaker> Just crossed the Trident. They'll be at the walls of King's Landing in two days. How is she?</speech>
 
 JON and VARYS walk inland.
  
 
-VARYS: She hasn't seen anyone since we returned. Hasn't left her chambers, hasn't accepted any food.
+<speech><speaker who="VARYS" house="">VARYS</speaker> She hasn't seen anyone since we returned. Hasn't left her chambers, hasn't accepted any food.</speech>
 
-JON: She shouldn't be alone.
+<speech><speaker who="JON" house="Stark">JON</speaker> She shouldn't be alone.</speech>
 
-VARYS: You're worried for her. I admire your empathy.
+<speech><speaker who="VARYS" house="">VARYS</speaker> You're worried for her. I admire your empathy.</speech>
 
-JON: Aren't you worried for her?
+<speech><speaker who="JON" house="Stark">JON</speaker> Aren't you worried for her?</speech>
 
-VARYS: I'm worried for all of us. They say every time a Targaryen is born, the gods toss a coin and the world holds its breath.
+<speech><speaker who="VARYS" house="">VARYS</speaker> I'm worried for all of us. They say every time a Targaryen is born, the gods toss a coin and the world holds its breath.</speech>
 
-JON: We're not much for riddles where I'm from.
+<speech><speaker who="JON" house="Stark">JON</speaker> We're not much for riddles where I'm from.</speech>
 
-VARYS: We both know what she's about to do.
+<speech><speaker who="VARYS" house="">VARYS</speaker> We both know what she's about to do.</speech>
 
-They pause. JON sighs.
+<stageDirection>They pause. JON sighs.</stageDirection>
 
-JON: That's her decision to make. She is our queen.
+<speech><speaker who="JON" house="Stark">JON</speaker> That's her decision to make. She is our queen.</speech>
 
-VARYS: Men decide where power resides, whether or not they know it.
+<speech><speaker who="VARYS" house="">VARYS</speaker> Men decide where power resides, whether or not they know it.</speech>
 
-JON: What do you want?
+<speech><speaker who="JON" house="Stark">JON</speaker> What do you want?</speech>
 
-VARYS: All I've ever wanted. The right ruler on the Iron Throne. I still don't know how her coin has landed. But I'm quite certain about yours.
+<speech><speaker who="VARYS" house="">VARYS</speaker> All I've ever wanted. The right ruler on the Iron Throne. I still don't know how her coin has landed. But I'm quite certain about yours.</speech>
 
 JON considers.
  
 
-JON: I don't want it. I never have.
+<speech><speaker who="JON" house="Stark">JON</speaker> I don't want it. I never have.</speech>
 
-VARYS: (Sighs.) I have known more kings and queens than any man living. I've heard what they say to crowds, and seen what they do in the shadows. I have furthered their designs, however horrible. But what I tell you now is true: You will rule wisely and well, while she--
+<speech><speaker who="VARYS">VARYS</speaker> (Sighs.) I have known more kings and queens than any man living. I've heard what they say to crowds, and seen what they do in the shadows. I have furthered their designs, however horrible. But what I tell you now is true" house="">VARYS: (Sighs.) I have known more kings and queens than any man living. I've heard what they say to crowds, and seen what they do in the shadows. I have furthered their designs, however horrible. But what I tell you now is true You will rule wisely and well, while she--</speech>
 
-JON: She is my queen.
+<speech><speaker who="JON" house="Stark">JON</speaker> She is my queen.</speech>
 
-JON continues on, alone. VARYS sighs.
+<stageDirection>JON continues on, alone. VARYS sighs.</stageDirection>
 
-CUT TO: BEACH OVERLOOK
+<direction>CUT TO: BEACH OVERLOOK</direction>
 
-TYRION continues to watch JON and VARYS from above, his brow furrowed from concern and contemplation..
+<stageDirection>TYRION continues to watch JON and VARYS from above, his brow furrowed from concern and contemplation..</stageDirection>
 
-INT: DRAGONSTONE WAR ROOM
+<direction>INT: DRAGONSTONE WAR ROOM</direction>
 
-TYRION enters, stopping at the threshold.
+<stageDirection>TYRION enters, stopping at the threshold.</stageDirection>
 
-TYRION: Your Grace?
+<speech><speaker who="TYRION" house="">TYRION</speaker> Your Grace?</speech>
 
-DAENERYS TARGARYEN does not reply. TYRION walks cautiously to DAENERYS, who stands, looking out at the shoreline.
+<stageDirection>DAENERYS TARGARYEN does not reply. TYRION walks cautiously to DAENERYS, who stands, looking out at the shoreline.</stageDirection>
 
-TYRION: There's something you need to know.
+<speech><speaker who="TYRION" house="">TYRION</speaker> There's something you need to know.</speech>
 
-DAENERYS: Someone has betrayed me.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Someone has betrayed me.</speech>
 
-Surprised, TYRION does not answer right away.
+<stageDirection>Surprised, TYRION does not answer right away.</stageDirection>
 
-TYRION: Yes.
+<speech><speaker who="TYRION" house="">TYRION</speaker> Yes.</speech>
 
-DAENERYS: Jon Snow.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Jon Snow.</speech>
 
-TYRION: Varys.
+<speech><speaker who="TYRION" house="">TYRION</speaker> Varys.</speech>
 
-DAENERYS: He knows the truth about Jon.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> He knows the truth about Jon.</speech>
 
-TYRION: He does.
+<speech><speaker who="TYRION" house="">TYRION</speaker> He does.</speech>
 
-DAENERYS: Because you told him. You learned from Sansa. And she learned from Jon, though I begged him not to tell her. As I said, he betrayed me.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Because you told him. You learned from Sansa. And she learned from Jon, though I begged him not to tell her. As I said, he betrayed me.</speech>
 
-TYRION: I'm glad Sansa told me. I am your Hand. I need to be aware of any threats you're facing.
+<speech><speaker who="TYRION" house="">TYRION</speaker> I'm glad Sansa told me. I am your Hand. I need to be aware of any threats you're facing.</speech>
 
-DAENERYS: And Varys?
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> And Varys?</speech>
 
-TYRION: Your Master of Whisperers needs to be aware too.
+<speech><speaker who="TYRION" house="">TYRION</speaker> Your Master of Whisperers needs to be aware too.</speech>
 
-DAENERYS: (angrily) You spoke to him first. Without coming to me. Without asking my permission.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> (angrily) You spoke to him first. Without coming to me. Without asking my permission.</speech>
 
-TYRION: It was a mistake.
+<speech><speaker who="TYRION" house="">TYRION</speaker> It was a mistake.</speech>
 
-DAENERYS: Why do you think Sansa told you? What do you think she hoped to gain?
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Why do you think Sansa told you? What do you think she hoped to gain?</speech>
 
-TYRION: She trusts me.
+<speech><speaker who="TYRION" house="">TYRION</speaker> She trusts me.</speech>
 
-DAENERYS: Yes, she trusts you. She trusted you to spread secrets that could destroy your own queen. And you did not let her down.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Yes, she trusts you. She trusted you to spread secrets that could destroy your own queen. And you did not let her down.</speech>
 
-TYRION: If I have failed you, my queen, forgive me. Our intentions were good. We wanted what you want. A better world, all of us. Varys as much as anyone.
+<speech><speaker who="TYRION" house="">TYRION</speaker> If I have failed you, my queen, forgive me. Our intentions were good. We wanted what you want. A better world, all of us. Varys as much as anyone.</speech>
 
-DAENERYS does not reply.
+<stageDirection>DAENERYS does not reply.</stageDirection>
 
-TYRION: But it doesn't matter now.
+<speech><speaker who="TYRION" house="">TYRION</speaker> But it doesn't matter now.</speech>
 
-DAENERYS: No. It doesn't matter now.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> No. It doesn't matter now.</speech>
 
-TYRION takes measure of DAENERYS. She returns to her view of the landscape. She looks haggard and ill, more pale than ever with heavy bags under her eyes.
+<stageDirection>TYRION takes measure of DAENERYS. She returns to her view of the landscape. She looks haggard and ill, more pale than ever with heavy bags under her eyes.</stageDirection>
 
-INT: VARYS'S CHAMBERS, NIGHT
+<direction>INT: VARYS'S CHAMBERS, NIGHT</direction>
 
-VARYS sits writing by candlelight. In the distance, a door opens. VARYS looks up and folds the scroll he was writing. He uses the candle to set it aflame, then snuffs the burning parchment. The sound of footsteps draw closer. VARYS removes his rings and places them in a small bowl. He sits, quietly resigned to his fate. The plodding of the approaching guards echo in the chamber. The door opens and GREY WORM enters, accompanied by a handful of Unsullied. He pauses and gives VARYS a menacing look.
+<stageDirection>VARYS sits writing by candlelight. In the distance, a door opens. VARYS looks up and folds the scroll he was writing. He uses the candle to set it aflame, then snuffs the burning parchment. The sound of footsteps draw closer. VARYS removes his rings and places them in a small bowl. He sits, quietly resigned to his fate. The plodding of the approaching guards echo in the chamber. The door opens and GREY WORM enters, accompanied by a handful of Unsullied. He pauses and gives VARYS a menacing look.</stageDirection>
 
-CUT TO: CAVERNS BENEATH DRAGONSTONE
+<direction>CUT TO: CAVERNS BENEATH DRAGONSTONE</direction>
 
-GREY WORM and the Unsullied guards lead VARYS through the caverns by torchlight. They exit onto the rocky shore, passing an unhappy TYRION. DAENERYS stands in front of the surf with JON at her side. VARYS faces them, having accepted his fate. TYRION approaches from the side, and they exchange a knowing look.
+<stageDirection>GREY WORM and the Unsullied guards lead VARYS through the caverns by torchlight. They exit onto the rocky shore, passing an unhappy TYRION. DAENERYS stands in front of the surf with JON at her side. VARYS faces them, having accepted his fate. TYRION approaches from the side, and they exchange a knowing look.</stageDirection>
 
-TYRION: It was me.
+<speech><speaker who="TYRION" house="">TYRION</speaker> It was me.</speech>
 
-VARYS: (Nods.) I hope I deserve this. Truly, I do. I hope I'm wrong. Goodbye, old friend.
+<speech><speaker who="VARYS" house="">VARYS</speaker> (Nods.) I hope I deserve this. Truly, I do. I hope I'm wrong. Goodbye, old friend.</speech>
 
-TYRION and VARYS take in their good-bye. TYRION touches VARYS's shackled hands kindly, and steps away. VARYS fights to maintain his composure. DAENERYS steps forward.
+<stageDirection>TYRION and VARYS take in their good-bye. TYRION touches VARYS's shackled hands kindly, and steps away. VARYS fights to maintain his composure. DAENERYS steps forward.</stageDirection>
 
-DAENERYS: Lord Varys. I, Daenerys of House Targaryen, First of My Name, Breaker of Chains and Mother of Dragons ...
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Lord Varys. I, Daenerys of House Targaryen, First of My Name, Breaker of Chains and Mother of Dragons ...</speech>
 
-From behind her, DROGON's head emerges from the darkness, growling.
+<stageDirection>From behind her, DROGON's head emerges from the darkness, growling.</stageDirection>
 
-DAENERYS: ... sentence you to die. Dracarys.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> ... sentence you to die. Dracarys.</speech>
 
-DROGON rears up behind DAENERYS and roars. Fright takes over VARYS's face. DROGON steadies himself, roars between his teeth, and quickly unleashes an inferno that consumes VARYS. TYRION watches, deeply sorrowful. JON stands quietly, willing himself to follow his queen.
+<stageDirection>DROGON rears up behind DAENERYS and roars. Fright takes over VARYS's face. DROGON steadies himself, roars between his teeth, and quickly unleashes an inferno that consumes VARYS. TYRION watches, deeply sorrowful. JON stands quietly, willing himself to follow his queen.</stageDirection>
 
-INT: DRAGONSTONE MAP ROOM, NIGHT
+<direction>INT: DRAGONSTONE MAP ROOM, NIGHT</direction>
 
-DAENERYS sits by the fire, holding MISSANDEI's leather collar. GREY WORM stands at attention.
+<stageDirection>DAENERYS sits by the fire, holding MISSANDEI's leather collar. GREY WORM stands at attention.</stageDirection>
 
-DAENERYS: This was all she brought with her when we crossed the Narrow Sea. Her only possession.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> This was all she brought with her when we crossed the Narrow Sea. Her only possession.</speech>
 
-DAENERYS hands the collar to GREY WORM. He looks it over, masking his pain, and throws it in the fireplace, where it shrivels and burns. At the sound of footsteps, GREY WORM regains his composure and turns to face JON as he enters. DAENERYS hides her sorrow as well.
+<stageDirection>DAENERYS hands the collar to GREY WORM. He looks it over, masking his pain, and throws it in the fireplace, where it shrivels and burns. At the sound of footsteps, GREY WORM regains his composure and turns to face JON as he enters. DAENERYS hides her sorrow as well.</stageDirection>
 
-DAENERYS: (in Valyrian) It's all right, Torgo Nudo. Let me speak with him.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> (in Valyrian) It's all right, Torgo Nudo. Let me speak with him.</speech>
 
-GREY WORM nods and exits. JON approaches DAENERYS. There is an awkward silence.
+<stageDirection>GREY WORM nods and exits. JON approaches DAENERYS. There is an awkward silence.</stageDirection>
 
-DAENERYS: What did I say would happen if you told your sister?
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> What did I say would happen if you told your sister?</speech>
 
-JON: I don't want it, and that's what I told him.
+<speech><speaker who="JON" house="Stark">JON</speaker> I don't want it, and that's what I told him.</speech>
 
-DAENERYS: She betrayed your trust. She killed Varys as much as I did. This was a victory for her. Now she knows what happens when people hear the truth about you. Far more people in Westeros love you than love me. I don't have love here. I only have fear.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> She betrayed your trust. She killed Varys as much as I did. This was a victory for her. Now she knows what happens when people hear the truth about you. Far more people in Westeros love you than love me. I don't have love here. I only have fear.</speech>
 
-JON: I love you. And you will always be my queen.
+<speech><speaker who="JON" house="Stark">JON</speaker> I love you. And you will always be my queen.</speech>
 
-DAENERYS stands and walks to JON.
+<stageDirection>DAENERYS stands and walks to JON.</stageDirection>
 
-DAENERYS: Is that all I am to you? Your queen?
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Is that all I am to you? Your queen?</speech>
 
-They kiss. It is tentative at first, and then passion consumes them, until JON pulls away. He looks at her, deeply conflicted. DAENERYS shakes her head ever so slightly.
+<stageDirection>They kiss. It is tentative at first, and then passion consumes them, until JON pulls away. He looks at her, deeply conflicted. DAENERYS shakes her head ever so slightly.</stageDirection>
 
-DAENERYS: All right, then.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> All right, then.</speech>
 
-DAENERYS takes a step back.
+<stageDirection>DAENERYS takes a step back.</stageDirection>
 
-DAENERYS: Let it be fear.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Let it be fear.</speech>
 
-INT: DRAGONSTONE THRONE ROOM, NIGHT
+<direction>INT: DRAGONSTONE THRONE ROOM, NIGHT</direction>
 
-DAENERYS sits on the throne. TYRION and GREY WORM stand on the main floor, looking up at her.
+<stageDirection>DAENERYS sits on the throne. TYRION and GREY WORM stand on the main floor, looking up at her.</stageDirection>
 
-TYRION: The people who live there, they're not your enemies. They're innocents, like the ones you liberated in Meereen.
+<speech><speaker who="TYRION" house="">TYRION</speaker> The people who live there, they're not your enemies. They're innocents, like the ones you liberated in Meereen.</speech>
 
-DAENERYS: In Meereen, the slaves turned on the masters and liberated the city themselves the moment I arrived.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> In Meereen, the slaves turned on the masters and liberated the city themselves the moment I arrived.</speech>
 
-TYRION: They're afraid. Anyone who resists Cersei will see his family butchered. You can't expect them to be heroes. They're hostages.
+<speech><speaker who="TYRION" house="">TYRION</speaker> They're afraid. Anyone who resists Cersei will see his family butchered. You can't expect them to be heroes. They're hostages.</speech>
 
-DAENERYS: They are. In a tyrant's grip. Whose fault is that? Mine?
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> They are. In a tyrant's grip. Whose fault is that? Mine?</speech>
 
-TYRION: What does it matter whose fault it is? Thousands of children will die if the city burns.
+<speech><speaker who="TYRION" house="">TYRION</speaker> What does it matter whose fault it is? Thousands of children will die if the city burns.</speech>
 
-DAENERYS: Your sister knows how to use her enemies' weaknesses against them. That's what she thinks our mercy is - weakness.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Your sister knows how to use her enemies' weaknesses against them. That's what she thinks our mercy is - weakness.</speech>
 
-TYRION: I beg you, my queen-
+<speech><speaker who="TYRION" house="">TYRION</speaker> I beg you, my queen-</speech>
 
-DAENERYS: But she's wrong. Mercy is our strength. Our mercy towards future generations who will never again be held hostage by a tyrant.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> But she's wrong. Mercy is our strength. Our mercy towards future generations who will never again be held hostage by a tyrant.</speech>
 
-TYRION is silent and disappointed in her decision.
+<stageDirection>TYRION is silent and disappointed in her decision.</stageDirection>
 
-DAENERYS: (to GREY WORM) Ready the Unsullied. Tonight you sail for King's Landing, to join the Northern armies.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> (to GREY WORM) Ready the Unsullied. Tonight you sail for King's Landing, to join the Northern armies.</speech>
 
-Desperate, TYRION ascends the platform stairs to get closer to DAENERYS.
+<stageDirection>Desperate, TYRION ascends the platform stairs to get closer to DAENERYS.</stageDirection>
 
-TYRION: Cersei's followers will abandon her if they know the war is lost. Give them that chance. If the city surrenders, they will ring the bells and raise the gates. Please, if you hear them ringing the bells, call off the attack.
+<speech><speaker who="TYRION" house="">TYRION</speaker> Cersei's followers will abandon her if they know the war is lost. Give them that chance. If the city surrenders, they will ring the bells and raise the gates. Please, if you hear them ringing the bells, call off the attack.</speech>
 
-DAENERYS considers TYRION's suggestion. She nods quietly to GREY WORM, accepting the plan.
+<stageDirection>DAENERYS considers TYRION's suggestion. She nods quietly to GREY WORM, accepting the plan.</stageDirection>
 
-DAENERYS: Wait for me outside the city. You'll know when it's time.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Wait for me outside the city. You'll know when it's time.</speech>
 
-GREY WORM nods and then exits. TYRION and DAENERYS look at one another silently. Then TYRION slowly bows every so slightly, expressing his gratitude to his Queen. He turns and starts to walk away.
+<stageDirection>GREY WORM nods and then exits. TYRION and DAENERYS look at one another silently. Then TYRION slowly bows every so slightly, expressing his gratitude to his Queen. He turns and starts to walk away.</stageDirection>
 
-DAENERYS: Your brother was stopped trying to get past our lines.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> Your brother was stopped trying to get past our lines.</speech>
 
-TYRION stops and turns.
+<stageDirection>TYRION stops and turns.</stageDirection>
 
-DAENERYS: It seems he hasn't abandoned your sister after all. The next time you fail me will be the last time you fail me.
+<speech><speaker who="DAENERYS" house="">DAENERYS</speaker> It seems he hasn't abandoned your sister after all. The next time you fail me will be the last time you fail me.</speech>
 
-TYRION pivots and exits.
+<stageDirection>TYRION pivots and exits.</stageDirection>
 
-EXT: THE STREETS OF KING'S LANDING, DAY
+<speech><speaker who="EXT" house="">EXT</speaker> THE STREETS OF KING'S LANDING, DAY</speech>
 
-The citizens of King's Landing chatter as they move into the protective walls of the Red Keep. They hold onto their loved ones and carry supplies on their backs or balanced on their heads. The guards help to keep them moving through the main entrance to the Keep.
+<stageDirection>The citizens of King's Landing chatter as they move into the protective walls of the Red Keep. They hold onto their loved ones and carry supplies on their backs or balanced on their heads. The guards help to keep them moving through the main entrance to the Keep.</stageDirection>
 
-GUARD 1: Let them pass.
+<speech><speaker who="GUARD 1" house="">GUARD 1</speaker> Let them pass.</speech>
 
-GUARD 2: Through the gate.
+<speech><speaker who="GUARD 2" house="">GUARD 2</speaker> Through the gate.</speech>
 
-GUARD 3: Get going.
+<speech><speaker who="GUARD 3" house="">GUARD 3</speaker> Get going.</speech>
 
-EXT: THE SEAS OUTSIDE KING'S LANDING, DAY
+<speech><speaker who="EXT" house="">EXT</speaker> THE SEAS OUTSIDE KING'S LANDING, DAY</speech>
 
-JON and TYRION ride in a boat towards land. TYRION broods while JON is resigned. DAVOS waits for them on the shore below King's Landing, where their forces have made camp.
+<stageDirection>JON and TYRION ride in a boat towards land. TYRION broods while JON is resigned. DAVOS waits for them on the shore below King's Landing, where their forces have made camp.</stageDirection>
 
-CUT TO: THE ENCAMPMENT, DAY
+<direction>CUT TO: THE ENCAMPMENT, DAY</direction>
 
-The camp is busy as the forces prepare for the upcoming battle. DAVOS, TYRION, and JON pause a few yards from the shore.
+<stageDirection>The camp is busy as the forces prepare for the upcoming battle. DAVOS, TYRION, and JON pause a few yards from the shore.</stageDirection>
 
-DAVOS: The rearguard should be here by daybreak.
+<speech><speaker who="DAVOS" house="">DAVOS</speaker> The rearguard should be here by daybreak.</speech>
 
-TYRION: She wants to attack now.
+<speech><speaker who="TYRION" house="">TYRION</speaker> She wants to attack now.</speech>
 
-JON: Daybreak at the earliest.
+<speech><speaker who="JON" house="Stark">JON</speaker> Daybreak at the earliest.</speech>
 
-JON turns to talk with some Stark soldiers.
+<stageDirection>JON turns to talk with some Stark soldiers.</stageDirection>
 
-SOLDIER 1: Careful with that.
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Careful with that.</speech>
 
-SOLDIER 2: My lord.
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> My lord.</speech>
 
-DAVOS turns to leave as well, but TYRION stays him.
+<stageDirection>DAVOS turns to leave as well, but TYRION stays him.</stageDirection>
 
-TYRION: Davos. I need to ask you a favor. You're the greatest smuggler alive, aren't you?
+<speech><speaker who="TYRION" house="">TYRION</speaker> Davos. I need to ask you a favor. You're the greatest smuggler alive, aren't you?</speech>
 
-DAVOS: I'm not gonna like this favor, am I?
+<speech><speaker who="DAVOS" house="">DAVOS</speaker> I'm not gonna like this favor, am I?</speech>
 
-EXT: THE ENCAMPMENT, NIGHT
+<speech><speaker who="EXT" house="">EXT</speaker> THE ENCAMPMENT, NIGHT</speech>
 
-SOLDIER 1: He's always better when he's got some food in him.
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> He's always better when he's got some food in him.</speech>
 
-SOLDIER 2: Problem is when he's got drink in him. See what he did the other week?
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Problem is when he's got drink in him. See what he did the other week?</speech>
 
-SOLDIER 1: Aye. Fighting as well. Commander nearly caught him.
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Aye. Fighting as well. Commander nearly caught him.</speech>
 
-The encampment has gone quiet for the night. Braziers light the camp at regular intervals. THE HOUND and ARYA STARK ride into camp. A SOLDIER stops them.
+<stageDirection>The encampment has gone quiet for the night. Braziers light the camp at regular intervals. THE HOUND and ARYA STARK ride into camp. A SOLDIER stops them.</stageDirection>
 
-SOLDIER 3: Ay up. Where you going?
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> Ay up. Where you going?</speech>
 
-ARYA: I'm Arya Stark. I'm going to kill Queen Cersei.
+<speech><speaker who="ARYA" house="">ARYA</speaker> I'm Arya Stark. I'm going to kill Queen Cersei.</speech>
 
-SOLDIER 3 is confused.
+<stageDirection>SOLDIER 3 is confused.</stageDirection>
 
-THE HOUND: Think about it. She kills Cersei, the war's over. There won't be a siege. You might not even die tomorrow.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> Think about it. She kills Cersei, the war's over. There won't be a siege. You might not even die tomorrow.</speech>
 
-SOLDIER 3: I need to go talk to my captain.
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> I need to go talk to my captain.</speech>
 
-THE HOUND: Go ahead, talk to him.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> Go ahead, talk to him.</speech>
 
-ARYA and THE HOUND continue on their way.
+<stageDirection>ARYA and THE HOUND continue on their way.</stageDirection>
 
-SOLDIER 1: Where's he going?
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Where's he going?</speech>
 
-CUT TO: ANOTHER PART OF THE ENCAMPMENT
+<direction>CUT TO: ANOTHER PART OF THE ENCAMPMENT</direction>
 
-TYRION walks past the Unsullied warriors who line the path. An UNSULLIED gives him a questioning look.
+<stageDirection>TYRION walks past the Unsullied warriors who line the path. An UNSULLIED gives him a questioning look.</stageDirection>
 
-TYRION: (speaking Valyrian) I drink to eat the skull keeper.
+<speech><speaker who="TYRION" house="">TYRION</speaker> (speaking Valyrian) I drink to eat the skull keeper.</speech>
 
-The UNSULLIED is unresponsive.
+<stageDirection>The UNSULLIED is unresponsive.</stageDirection>
 
-TYRION: (speaking Valyrian) I want to eat the skull keeper.
+<speech><speaker who="TYRION" house="">TYRION</speaker> (speaking Valyrian) I want to eat the skull keeper.</speech>
 
-Again, the UNSULLIED gives no response. TYRION clears his throat and tries again.
+<stageDirection>Again, the UNSULLIED gives no response. TYRION clears his throat and tries again.</stageDirection>
 
-TYRION: (struggling to speak Valyrian) I want to see the ...
+<speech><speaker who="TYRION" house="">TYRION</speaker> (struggling to speak Valyrian) I want to see the ...</speech>
 
-UNSULLIED: We speak the common tongue.
+<speech><speaker who="UNSULLIED" house="">UNSULLIED</speaker> We speak the common tongue.</speech>
 
-TYRION: Ah. Good. I want to be alone with the prisoner. Get some rest. Tomorrow will be a long day.
+<speech><speaker who="TYRION" house="">TYRION</speaker> Ah. Good. I want to be alone with the prisoner. Get some rest. Tomorrow will be a long day.</speech>
 
-UNSULLIED: We have orders to guard the prisoner.
+<speech><speaker who="UNSULLIED" house="">UNSULLIED</speaker> We have orders to guard the prisoner.</speech>
 
-TYRION: Ordered by whom? The queen herself?
+<speech><speaker who="TYRION" house="">TYRION</speaker> Ordered by whom? The queen herself?</speech>
 
-UNSULLIED: No.
+<speech><speaker who="UNSULLIED" house="">UNSULLIED</speaker> No.</speech>
 
-TYRION: Well, in that case, as Hand of the Queen, I outrank whomever gave your order. Probably by quite a lot.
+<speech><speaker who="TYRION" house="">TYRION</speaker> Well, in that case, as Hand of the Queen, I outrank whomever gave your order. Probably by quite a lot.</speech>
 
-The UNSULLIED looks to his comrades. They file away. TYRION enters the tent.
+<stageDirection>The UNSULLIED looks to his comrades. They file away. TYRION enters the tent.</stageDirection>
 
-CUT TO: INSIDE THE PRISONER'S TENT
+<direction>CUT TO: INSIDE THE PRISONER'S TENT</direction>
 
-JAIME LANNISTER sits, eyes closed, chained by his neck and hands. TYRION enters behind him,.
+<stageDirection>JAIME LANNISTER sits, eyes closed, chained by his neck and hands. TYRION enters behind him,.</stageDirection>
 
-TYRION: How did they find you?
+<speech><speaker who="TYRION" house="">TYRION</speaker> How did they find you?</speech>
 
-JAIME holds up his golden right hand as explanation.
+<stageDirection>JAIME holds up his golden right hand as explanation.</stageDirection>
 
-TYRION: Did you consider taking it off?
+<speech><speaker who="TYRION" house="">TYRION</speaker> Did you consider taking it off?</speech>
 
-JAIME: Cersei once called me "the stupidest Lannister."
+<speech><speaker who="JAIME" house="">JAIME</speaker> Cersei once called me "the stupidest Lannister."</speech>
 
-TYRION: And you're going back to her, to die with her.
+<speech><speaker who="TYRION" house="">TYRION</speaker> And you're going back to her, to die with her.</speech>
 
-JAIME: You've underestimated her before.
+<speech><speaker who="JAIME" house="">JAIME</speaker> You've underestimated her before.</speech>
 
-TYRION: She's going to die. Unless you can convince her to change her course of action.
+<speech><speaker who="TYRION" house="">TYRION</speaker> She's going to die. Unless you can convince her to change her course of action.</speech>
 
-JAIME: Difficult to do from here.
+<speech><speaker who="JAIME" house="">JAIME</speaker> Difficult to do from here.</speech>
 
-TYRION holds up the key to JAIME's chains. JAIME exhales heavily, impressed at this turn of events.
+<stageDirection>TYRION holds up the key to JAIME's chains. JAIME exhales heavily, impressed at this turn of events.</stageDirection>
 
-JAIME: When have I ever been able to convince Cersei of anything?
+<speech><speaker who="JAIME" house="">JAIME</speaker> When have I ever been able to convince Cersei of anything?</speech>
 
-TYRION: Try. If not for yourself, if not for her, then for every one of the million people in that city, innocent or otherwise.
+<speech><speaker who="TYRION" house="">TYRION</speaker> Try. If not for yourself, if not for her, then for every one of the million people in that city, innocent or otherwise.</speech>
 
-JAIME: To be honest, I never really cared much for them. Innocent or otherwise.
+<speech><speaker who="JAIME" house="">JAIME</speaker> To be honest, I never really cared much for them. Innocent or otherwise.</speech>
 
-TYRION: You do care for one innocent. I know you do. And so does Cersei. She has a reason now.
+<speech><speaker who="TYRION" house="">TYRION</speaker> You do care for one innocent. I know you do. And so does Cersei. She has a reason now.</speech>
 
-JAIME: The child is the reason she'll never give an inch. All the worst things she's ever done, she's done for her children. It's not impossible that she'll win.
+<speech><speaker who="JAIME" house="">JAIME</speaker> The child is the reason she'll never give an inch. All the worst things she's ever done, she's done for her children. It's not impossible that she'll win.</speech>
 
-TYRION: She won't. Her enemy's forces have been depleted, as she said they would be.
+<speech><speaker who="TYRION" house="">TYRION</speaker> She won't. Her enemy's forces have been depleted, as she said they would be.</speech>
 
-JAIME: Two of the three dragons are dead. She's evened the odds.
+<speech><speaker who="JAIME" house="">JAIME</speaker> Two of the three dragons are dead. She's evened the odds.</speech>
 
-TYRION: The city will fall tomorrow.
+<speech><speaker who="TYRION" house="">TYRION</speaker> The city will fall tomorrow.</speech>
 
-JAIME: She has the Lannister army, she has the Golden Company-
+<speech><speaker who="JAIME" house="">JAIME</speaker> She has the Lannister army, she has the Golden Company-</speech>
 
-TYRION: I defended the city last time it was attacked. I know it better than anyone. It will fall tomorrow.
+<speech><speaker who="TYRION" house="">TYRION</speaker> I defended the city last time it was attacked. I know it better than anyone. It will fall tomorrow.</speech>
 
-JAIME: Then I suppose I'll die tomorrow, if not before.
+<speech><speaker who="JAIME" house="">JAIME</speaker> Then I suppose I'll die tomorrow, if not before.</speech>
 
-TYRION: Why?
+<speech><speaker who="TYRION" house="">TYRION</speaker> Why?</speech>
 
-TYRION moves closer to JAIME, and crouches to meet him, eye to eye.
+<stageDirection>TYRION moves closer to JAIME, and crouches to meet him, eye to eye.</stageDirection>
 
-TYRION: Escape. The two of you, together. Remember where we met, where they keep the dragon skulls, beneath the Red Keep? Take her down there. Keep following the stairways down, down as far as they'll go. You'll come out onto a beach at the foot of the keep. A dinghy will be waiting for you. Sail out of the bay. If the winds are kind, you'll make it to Pentos. Start a new life.
+<speech><speaker who="TYRION" house="">TYRION</speaker> Escape. The two of you, together. Remember where we met, where they keep the dragon skulls, beneath the Red Keep? Take her down there. Keep following the stairways down, down as far as they'll go. You'll come out onto a beach at the foot of the keep. A dinghy will be waiting for you. Sail out of the bay. If the winds are kind, you'll make it to Pentos. Start a new life.</speech>
 
-JAIME: Sail right past the Iron Fleet and into a new life? Sounds a lot less likely than Cersei winning this war-
+<speech><speaker who="JAIME" house="">JAIME</speaker> Sail right past the Iron Fleet and into a new life? Sounds a lot less likely than Cersei winning this war-</speech>
 
-TYRION: There won't be an Iron Fleet for much longer. Do it. If you don't, you'll never see Cersei again.
+<speech><speaker who="TYRION" house="">TYRION</speaker> There won't be an Iron Fleet for much longer. Do it. If you don't, you'll never see Cersei again.</speech>
 
-JAIME considers.
+<stageDirection>JAIME considers.</stageDirection>
 
-TYRION: Swear to me.
+<speech><speaker who="TYRION" house="">TYRION</speaker> Swear to me.</speech>
 
-JAIME: You have my word.
+<speech><speaker who="JAIME" house="">JAIME</speaker> You have my word.</speech>
 
-TYRION unlocks JAIME's bonds.
+<stageDirection>TYRION unlocks JAIME's bonds.</stageDirection>
 
-TYRION: If it works, give the order to ring all the bells in King's Landing and open the gates. That will be our signal that the city has surrendered.
+<speech><speaker who="TYRION" house="">TYRION</speaker> If it works, give the order to ring all the bells in King's Landing and open the gates. That will be our signal that the city has surrendered.</speech>
 
-JAIME: I'll try.
+<speech><speaker who="JAIME" house="">JAIME</speaker> I'll try.</speech>
 
-TYRION: I never thought I'd get to repay the favor. Remember, ring the bells and open the gates.
+<speech><speaker who="TYRION" house="">TYRION</speaker> I never thought I'd get to repay the favor. Remember, ring the bells and open the gates.</speech>
 
-JAIME: Your queen will execute you for this.
+<speech><speaker who="JAIME" house="">JAIME</speaker> Your queen will execute you for this.</speech>
 
-TYRION: If Daenerys can make it to the throne without wading through a river of blood, maybe she'll show mercy to the person who made that possible.
+<speech><speaker who="TYRION" house="">TYRION</speaker> If Daenerys can make it to the throne without wading through a river of blood, maybe she'll show mercy to the person who made that possible.</speech>
 
-JAIME gives an apprehensive look. TYRION stands quickly.
+<stageDirection>JAIME gives an apprehensive look. TYRION stands quickly.</stageDirection>
 
-TYRION: Tens of thousands of innocent lives one not particularly innocent dwarf it seems like a fair trade. If it weren't for you, I never would've survived my childhood.
+<speech><speaker who="TYRION" house="">TYRION</speaker> Tens of thousands of innocent lives one not particularly innocent dwarf it seems like a fair trade. If it weren't for you, I never would've survived my childhood.</speech>
 
-JAIME: You would have.
+<speech><speaker who="JAIME" house="">JAIME</speaker> You would have.</speech>
 
-TYRION: You were the only one who didn't treat me like a monster. You were all I had.
+<speech><speaker who="TYRION" house="">TYRION</speaker> You were the only one who didn't treat me like a monster. You were all I had.</speech>
 
-JAIME starts to protest, but he is interrupted by TYRION's embrace. They hold one another tightly, aware this could be the last time they ever see each other. TYRION cries with an upwell of emotion. With a final look, TYRION exits quickly.
+<stageDirection>JAIME starts to protest, but he is interrupted by TYRION's embrace. They hold one another tightly, aware this could be the last time they ever see each other. TYRION cries with an upwell of emotion. With a final look, TYRION exits quickly.</stageDirection>
 
-EXT: KING'S LANDING, MORNING
+<speech><speaker who="EXT" house="">EXT</speaker> KING'S LANDING, MORNING</speech>
 
-It is a quiet and beautiful morning. The Ironborn Fleet sits in the harbor, sails furled. The scorpions are fully manned in preparation for the coming onslaught. EUROON strides to the foredeck of his ship as the soldiers behind him load the scorpion. His eyes scan the far distance, looking for a sign of enemy forces.
+<stageDirection>It is a quiet and beautiful morning. The Ironborn Fleet sits in the harbor, sails furled. The scorpions are fully manned in preparation for the coming onslaught. EUROON strides to the foredeck of his ship as the soldiers behind him load the scorpion. His eyes scan the far distance, looking for a sign of enemy forces.</stageDirection>
 
-SOLDIER 1: Eyes on the horizon!
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Eyes on the horizon!</speech>
 
-SOLDIER 2: Load the scorpion!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Load the scorpion!</speech>
 
-On another ship, Lannister soldiers load a massive bolt onto their scorpion.
+<stageDirection>On another ship, Lannister soldiers load a massive bolt onto their scorpion.</stageDirection>
 
-CUT TO: OUTER WALL OF KING'S LANDING
+<direction>CUT TO: OUTER WALL OF KING'S LANDING</direction>
 
-Lannister archers hustle into position. Below them, city dwellers run towards the Red Keep for protection. Scorpions line the walls of King's Landing, loaded and ready.
+<stageDirection>Lannister archers hustle into position. Below them, city dwellers run towards the Red Keep for protection. Scorpions line the walls of King's Landing, loaded and ready.</stageDirection>
 
-SOLDIER 3: Archers, close up!
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> Archers, close up!</speech>
 
-MAN: Come on!
+<speech><speaker who="MAN" house="">MAN</speaker> Come on!</speech>
 
-SOLDIER 4: Up to the espringal!
+<speech><speaker who="SOLDIER 4" house="">SOLDIER 4</speaker> Up to the espringal!</speech>
 
-SOLDIER 5: To the back of it!
+<speech><speaker who="SOLDIER 5" house="">SOLDIER 5</speaker> To the back of it!</speech>
 
-SOLDIER 6: Archers, line up!
+<speech><speaker who="SOLDIER 6" house="">SOLDIER 6</speaker> Archers, line up!</speech>
 
-CUT TO: THE STREET BELOW
+<direction>CUT TO: THE STREET BELOW</direction>
 
-A stream of citizens rushes anxiously towards the Red Keep. Lannister soldiers march double time in the opposite direction.
+<stageDirection>A stream of citizens rushes anxiously towards the Red Keep. Lannister soldiers march double time in the opposite direction.</stageDirection>
 
-WOMAN: This way! Come on!
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> This way! Come on!</speech>
 
-SOLDIER 1: Clear the streets now!
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Clear the streets now!</speech>
 
-Above the crowded street, citizen shutter their windows. Below people take shelter in their homes, one MAN grabbing his wife and picking up his child.
+<stageDirection>Above the crowded street, citizen shutter their windows. Below people take shelter in their homes, one MAN grabbing his wife and picking up his child.</stageDirection>
 
-WOMAN: No!
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> No!</speech>
 
-MAN: In, now. And you, come on.
+<speech><speaker who="MAN" house="">MAN</speaker> In, now. And you, come on.</speech>
 
-More citizens rush through the streets as others shutter their windows.
+<stageDirection>More citizens rush through the streets as others shutter their windows.</stageDirection>
 
-SOLDIER 2: Inside, now!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Inside, now!</speech>
 
-MAN 1: Quickly.
+<speech><speaker who="MAN 1" house="">MAN 1</speaker> Quickly.</speech>
 
-SOLDIER 2 directs the rushing citizens.
+<stageDirection>SOLDIER 2 directs the rushing citizens.</stageDirection>
 
-SOLDIER 2: Yes. Follow down there. They're here. Get to the Red Keep.
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Yes. Follow down there. They're here. Get to the Red Keep.</speech>
 
-In a doorway, a woman soothes her infant as the crowd hurries past and her daughters carry their belongings inside.
+<stageDirection>In a doorway, a woman soothes her infant as the crowd hurries past and her daughters carry their belongings inside.</stageDirection>
 
-FATHER: My son!
+<speech><speaker who="FATHER" house="">FATHER</speaker> My son!</speech>
 
-SOLDIER 1: Get inside!
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Get inside!</speech>
 
-CUT TO: ANOTHER STREET
+<direction>CUT TO: ANOTHER STREET</direction>
 
-ARYA and THE HOUND walk calmly towards the Red Keep while anxious citizens stream around them. THE HOUND wears a hooded cloak to disguise his face.
+<stageDirection>ARYA and THE HOUND walk calmly towards the Red Keep while anxious citizens stream around them. THE HOUND wears a hooded cloak to disguise his face.</stageDirection>
 
-MAN 2: Just ahead of you, I can see it!
+<speech><speaker who="MAN 2" house="">MAN 2</speaker> Just ahead of you, I can see it!</speech>
 
-SOLDIER 1: All right, move it!
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> All right, move it!</speech>
 
-WOMAN: Come on!
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> Come on!</speech>
 
-SOLDIER 2: Keep moving!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Keep moving!</speech>
 
-SOLDIER 3: Keep going!
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> Keep going!</speech>
 
-SOLDIER 2: Keep moving!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Keep moving!</speech>
 
-SOLDIER 3: Quickly!
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> Quickly!</speech>
 
-SOLDIER 2: All the way!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> All the way!</speech>
 
-MAN 1: Come on!
+<speech><speaker who="MAN 1" house="">MAN 1</speaker> Come on!</speech>
 
-MAN 2: Come on!
+<speech><speaker who="MAN 2" house="">MAN 2</speaker> Come on!</speech>
 
-FATHER: Hold your mother's hand!
+<speech><speaker who="FATHER" house="">FATHER</speaker> Hold your mother's hand!</speech>
 
-Lannister soldiers move double time away from the Keep.
+<stageDirection>Lannister soldiers move double time away from the Keep.</stageDirection>
 
-CUT TO: A DIFFERENT STREET
+<direction>CUT TO: A DIFFERENT STREET</direction>
 
-JAIME, cloaked and inconspicuous, removes the glove from his golden hand. He looks around.
+<stageDirection>JAIME, cloaked and inconspicuous, removes the glove from his golden hand. He looks around.</stageDirection>
 
-SOLDIER 4: Make way for the Golden Company!
+<speech><speaker who="SOLDIER 4" house="">SOLDIER 4</speaker> Make way for the Golden Company!</speech>
 
-JAIME slides through the gate, down the center of a Golden Company battalion as they march in time.
+<stageDirection>JAIME slides through the gate, down the center of a Golden Company battalion as they march in time.</stageDirection>
 
-SOLDIER 4: Close the gate!
+<speech><speaker who="SOLDIER 4" house="">SOLDIER 4</speaker> Close the gate!</speech>
 
-The gates close with a great clanging. JAIME continues to walk quietly towards the Keep.
+<stageDirection>The gates close with a great clanging. JAIME continues to walk quietly towards the Keep.</stageDirection>
 
-CUT TO: OUTSIDE THE WALLS OF KING'S LANDING
+<direction>CUT TO: OUTSIDE THE WALLS OF KING'S LANDING</direction>
 
-The Golden Company stands at attention. Some of their faces betray their trepidation towards the forthcoming battle. HARRY STRICKLAND guides his mount in front of them. His eyes are fixed on the distance, where the Stark forces stretch across the panorama.
+<stageDirection>The Golden Company stands at attention. Some of their faces betray their trepidation towards the forthcoming battle. HARRY STRICKLAND guides his mount in front of them. His eyes are fixed on the distance, where the Stark forces stretch across the panorama.</stageDirection>
 
-CUT TO: THE STARK AND TARGARYEN ARMY
+<direction>CUT TO: THE STARK AND TARGARYEN ARMY</direction>
 
-The battered and snarling Northmen are crowded together. Behind them, the Dothraki and the Unsullied stand ready. On a rise just behind them stands JON, DAVOS, and GREY WORM. TYRION joins them as men file past. GREY WORM walks down the rise. They look at the battlements and forces in the near distance.
+<stageDirection>The battered and snarling Northmen are crowded together. Behind them, the Dothraki and the Unsullied stand ready. On a rise just behind them stands JON, DAVOS, and GREY WORM. TYRION joins them as men file past. GREY WORM walks down the rise. They look at the battlements and forces in the near distance.</stageDirection>
 
-TYRION: If you hear the bells ring, they've surrendered. Call off your men.
+<speech><speaker who="TYRION" house="">TYRION</speaker> If you hear the bells ring, they've surrendered. Call off your men.</speech>
 
-JON looks at TYRION with apprehension. He exits, followed by DAVOS.
+<stageDirection>JON looks at TYRION with apprehension. He exits, followed by DAVOS.</stageDirection>
 
-SOLDIER 1: Move along now, lads.
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Move along now, lads.</speech>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-CERSEI LANNISTER walks to the window and surveys the great capital city. In the far distance is the wall where her loyal forces are stationed, and the great plain beyond where the Stark and Targaryen forces await. Behind her, QYBURN and SER GREGOR "THE MOUNTAIN" CLEGANE stand ready.
+<stageDirection>CERSEI LANNISTER walks to the window and surveys the great capital city. In the far distance is the wall where her loyal forces are stationed, and the great plain beyond where the Stark and Targaryen forces await. Behind her, QYBURN and SER GREGOR "THE MOUNTAIN" CLEGANE stand ready.</stageDirection>
 
-CUT TO: THE GROUNDS OF THE RED KEEP
+<direction>CUT TO: THE GROUNDS OF THE RED KEEP</direction>
 
-Masses of city dwellers continue to move through courtyards, gates, and walls to the protection of the Red Keep.
+<stageDirection>Masses of city dwellers continue to move through courtyards, gates, and walls to the protection of the Red Keep.</stageDirection>
 
-SOLDIER 2: That's it.
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> That's it.</speech>
 
-SOLDIER 3: Go on, move it.
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> Go on, move it.</speech>
 
-SOLDIER 3: Come on, move, move. Faster, faster. Come on, move it. Keep going.
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> Come on, move, move. Faster, faster. Come on, move it. Keep going.</speech>
 
-SOLDIER 2: Keep moving.
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Keep moving.</speech>
 
-The crowd chatters as they churn towards the gate. Among them, THE HOUND becomes frustrated at the slow pace. He grabs NORA by the shoulder and brushes past her. ARYA returns her shock with a stare as she follows THE HOUND through the gate.
+<stageDirection>The crowd chatters as they churn towards the gate. Among them, THE HOUND becomes frustrated at the slow pace. He grabs NORA by the shoulder and brushes past her. ARYA returns her shock with a stare as she follows THE HOUND through the gate.</stageDirection>
 
-THE HOUND: Move.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> Move.</speech>
 
-SOLDIER 2: Stay with him.
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Stay with him.</speech>
 
-MAN: Hold on.
+<speech><speaker who="MAN" house="">MAN</speaker> Hold on.</speech>
 
-WOMAN: Hold my hand.
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> Hold my hand.</speech>
 
-Seizing the opportunity, NORA instructs her daughter, VICKY, to follow behind the THE HOUND and ARYA.
+<stageDirection>Seizing the opportunity, NORA instructs her daughter, VICKY, to follow behind the THE HOUND and ARYA.</stageDirection>
 
-NORA: Get behind there.
+<speech><speaker who="NORA" house="">NORA</speaker> Get behind there.</speech>
 
-SOLDIER 1: Close the gate! No more through!
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Close the gate! No more through!</speech>
 
-THE HOUND picks up the pace to make it through before the gate seals. ARYA follows. People rush through, but the gate closes in front of NORA and VICKY.
+<stageDirection>THE HOUND picks up the pace to make it through before the gate seals. ARYA follows. People rush through, but the gate closes in front of NORA and VICKY.</stageDirection>
 
-NORA: No!
+<speech><speaker who="NORA" house="">NORA</speaker> No!</speech>
 
-VICKY: No! Mommy!
+<speech><speaker who="VICKY" house="">VICKY</speaker> No! Mommy!</speech>
 
-NORA, VICKY, and the others pound desperately on the massive doors.
+<stageDirection>NORA, VICKY, and the others pound desperately on the massive doors.</stageDirection>
 
-NORA: Vicky! Please!
+<speech><speaker who="NORA" house="">NORA</speaker> Vicky! Please!</speech>
 
-VICKY: No, please, sir!
+<speech><speaker who="VICKY" house="">VICKY</speaker> No, please, sir!</speech>
 
-MAN 1: Open the gate!
+<speech><speaker who="MAN 1" house="">MAN 1</speaker> Open the gate!</speech>
 
-SOLDIER 1: Close the gate!
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Close the gate!</speech>
 
-The massive crowd starts to panic, rushing towards to closed gate.
+<stageDirection>The massive crowd starts to panic, rushing towards to closed gate.</stageDirection>
 
-MAN 2: Open it!
+<speech><speaker who="MAN 2" house="">MAN 2</speaker> Open it!</speech>
 
-MAN 3: Open the gate!
+<speech><speaker who="MAN 3" house="">MAN 3</speaker> Open the gate!</speech>
 
-SOLDIER 2: Get back!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Get back!</speech>
 
-NORA points VICKY to sneak through the crowd towards another way into the Keep.
+<stageDirection>NORA points VICKY to sneak through the crowd towards another way into the Keep.</stageDirection>
 
-NORA: Look, try that one! Go! Go!
+<speech><speaker who="NORA" house="">NORA</speaker> Look, try that one! Go! Go!</speech>
 
-The crowd surges, crushing soldiers and citizens against the closed gate. The clamor rises and people become even more desperate. Far behind, the hooded JAIME sees that the gates are closed. He tries to jostle his way forward.
+<stageDirection>The crowd surges, crushing soldiers and citizens against the closed gate. The clamor rises and people become even more desperate. Far behind, the hooded JAIME sees that the gates are closed. He tries to jostle his way forward.</stageDirection>
 
-SOLDIER 3: The gates are locked now!
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> The gates are locked now!</speech>
 
-WOMAN: Open!
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> Open!</speech>
 
-SOLDIER 3: Get back!
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> Get back!</speech>
 
-Trapped by the crowd and still far from the gate, JAIME rips off his hood. He waves his golden hand at the soldiers, hoping that they will recognize him.
+<stageDirection>Trapped by the crowd and still far from the gate, JAIME rips off his hood. He waves his golden hand at the soldiers, hoping that they will recognize him.</stageDirection>
 
-WOMAN: Open the gate! Soldier! Soldier!
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> Open the gate! Soldier! Soldier!</speech>
 
-MAN 4: Please open the gate!
+<speech><speaker who="MAN 4" house="">MAN 4</speaker> Please open the gate!</speech>
 
-SOLDIER 2: Go back to your homes!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Go back to your homes!</speech>
 
-SOLDIER 3: Stay back! It's closed!
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> Stay back! It's closed!</speech>
 
-JAIME: Soldier!
+<speech><speaker who="JAIME" house="">JAIME</speaker> Soldier!</speech>
 
-JAIME's cries are useless, lost in the din and chaos of the crowd.
+<stageDirection>JAIME's cries are useless, lost in the din and chaos of the crowd.</stageDirection>
 
-SOLDIER 1: Move away! Stop!
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Move away! Stop!</speech>
 
-MAN 5: Let us in!
+<speech><speaker who="MAN 5" house="">MAN 5</speaker> Let us in!</speech>
 
-JAIME gives up in frustration. He turns and fights through the crowd, moving away from this gate.
+<stageDirection>JAIME gives up in frustration. He turns and fights through the crowd, moving away from this gate.</stageDirection>
 
-MAN 1: We're not leaving!
+<speech><speaker who="MAN 1" house="">MAN 1</speaker> We're not leaving!</speech>
 
-The crowd screams and shouts, growing larger by the minute. JAIME slips into any alleyway and runs.
+<stageDirection>The crowd screams and shouts, growing larger by the minute. JAIME slips into any alleyway and runs.</stageDirection>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-The shouts of the citizens have reached CERSEI's ears. She looks down soberly.
+<stageDirection>The shouts of the citizens have reached CERSEI's ears. She looks down soberly.</stageDirection>
 
-CUT TO: THE STARK AND TARGARYEN ARMY
+<direction>CUT TO: THE STARK AND TARGARYEN ARMY</direction>
 
-TYRION surveys the two armies.
+<stageDirection>TYRION surveys the two armies.</stageDirection>
 
-CUT TO: THE OUTER WALL
+<direction>CUT TO: THE OUTER WALL</direction>
 
-The Lannister soldiers scan the horizon.
+<stageDirection>The Lannister soldiers scan the horizon.</stageDirection>
 
-CUT TO: BLACKWATER BAY
+<direction>CUT TO: BLACKWATER BAY</direction>
 
-EURON paces while his men look to the sky. Something in the sun catches his eye, and he shields his eyes as he looks directly at it. DROGON emerges from the blinding sun, diving through the sky towards the fleet. The Ironborn react to the attack.
+<stageDirection>EURON paces while his men look to the sky. Something in the sun catches his eye, and he shields his eyes as he looks directly at it. DROGON emerges from the blinding sun, diving through the sky towards the fleet. The Ironborn react to the attack.</stageDirection>
 
-SOLDIER: Turn!
+<speech><speaker who="SOLDIER" house="">SOLDIER</speaker> Turn!</speech>
 
-They bring the scorpion around and fire a bolt at DROGON. DAENERYS and DROGON evade the bolt and continue their steep dive.
+<stageDirection>They bring the scorpion around and fire a bolt at DROGON. DAENERYS and DROGON evade the bolt and continue their steep dive.</stageDirection>
 
-EURON has lost the dragon in the sun once again. DROGON soars above the fleet. With a roar, he levels his trajectory and lets forth an eruption of fire, decimating the boat in front of EURON, flying past with unbelievable speed. DROGON destroys another ship before arcing away for a second sortie.
+<stageDirection>EURON has lost the dragon in the sun once again. DROGON soars above the fleet. With a roar, he levels his trajectory and lets forth an eruption of fire, decimating the boat in front of EURON, flying past with unbelievable speed. DROGON destroys another ship before arcing away for a second sortie.</stageDirection>
 
-EURON: Turn it around! Turn it around!
+<speech><speaker who="EURON" house="">EURON</speaker> Turn it around! Turn it around!</speech>
 
-Angry at the soldier's incompetence, EURON rushes to position the scorpion himself.
+<stageDirection>Angry at the soldier's incompetence, EURON rushes to position the scorpion himself.</stageDirection>
 
-EURON: Get back! Back!
+<speech><speaker who="EURON" house="">EURON</speaker> Get back! Back!</speech>
 
-He is too late. DROGON destroys another handful of ships as he strafes the fleet.
+<stageDirection>He is too late. DROGON destroys another handful of ships as he strafes the fleet.</stageDirection>
 
-EURON: Fire!
+<speech><speaker who="EURON" house="">EURON</speaker> Fire!</speech>
 
-The scorpion fires at the banking DROGON, but misses. DAENERYS and DROGON come directly towards EURON's ship. The dragon belches forth fiery destruction, shattering EURON's ship as he leaps overboard to avoid incineration.
+<stageDirection>The scorpion fires at the banking DROGON, but misses. DAENERYS and DROGON come directly towards EURON's ship. The dragon belches forth fiery destruction, shattering EURON's ship as he leaps overboard to avoid incineration.</stageDirection>
 
-DAENERYS and DROGON lay waste to the fleet and begin heading across the harbor towards the city itself, DROGON's tail skimming the water as they fly. Atop the walls, the soldiers aim their scorpions at the charging dragon.
+<stageDirection>DAENERYS and DROGON lay waste to the fleet and begin heading across the harbor towards the city itself, DROGON's tail skimming the water as they fly. Atop the walls, the soldiers aim their scorpions at the charging dragon.</stageDirection>
 
-SOLDIER 2: I can see her! Ready!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> I can see her! Ready!</speech>
 
-SOLDIER 3: Move!
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> Move!</speech>
 
-SOLDIER 2: Fire!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Fire!</speech>
 
-They fire a bolt, but DROGON gracefully dodges, continuing to close the distance to the city wall at tremendous speed.
+<stageDirection>They fire a bolt, but DROGON gracefully dodges, continuing to close the distance to the city wall at tremendous speed.</stageDirection>
 
-SOLDIER 2: Reload!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Reload!</speech>
 
-SOLDIER 3: Reload!
+<speech><speaker who="SOLDIER 3" house="">SOLDIER 3</speaker> Reload!</speech>
 
-The soldiers strain to ready the weapon for another strike.
+<stageDirection>The soldiers strain to ready the weapon for another strike.</stageDirection>
 
-SOLDIER 2: Faster! Hurry!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Faster! Hurry!</speech>
 
-The bolt locks in place. They start to aim the scorpion, but they are too late. DROGON engulfs them in a great burst of flame. The soldiers and the scorpion disintegrate in the powerful eruption.
+<stageDirection>The bolt locks in place. They start to aim the scorpion, but they are too late. DROGON engulfs them in a great burst of flame. The soldiers and the scorpion disintegrate in the powerful eruption.</stageDirection>
 
-SOLDIER 2: Fire!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Fire!</speech>
 
-DROGON spews forth more destruction. Soldiers scream in agony. DAENERYS and DROGON swoop past as man and machine incinerate.
+<stageDirection>DROGON spews forth more destruction. Soldiers scream in agony. DAENERYS and DROGON swoop past as man and machine incinerate.</stageDirection>
 
-CUT TO: OUTSIDE THE WALLS OF KING'S LANDING
+<direction>CUT TO: OUTSIDE THE WALLS OF KING'S LANDING</direction>
 
-It is quiet. The two forces are still in their stand off. HARRY STRICKLAND is mounted before the Golden Company. GREY WORM, JON, and DAVOS lead the Stark/Targaryen forces. GREY WORM takes a step forward, reacting to something no one else has sensed. A horse whinnies and the wind picks up, carrying the sound of great wings flapping. Everyone turns their heads to try and locate the rising sound. STRICKLAND seems to hone in on the location, but he is too late. The gated wall behind the Golden Company explodes in an enormous fireball, destroying a huge section of the wall and consuming dozens of soldiers as the fire spews forth in a rage. STRICKLAND is knocked from his horse by the blast as the Golden Company scatters and his mount expires. DROGON flies over the destruction.
+<stageDirection>It is quiet. The two forces are still in their stand off. HARRY STRICKLAND is mounted before the Golden Company. GREY WORM, JON, and DAVOS lead the Stark/Targaryen forces. GREY WORM takes a step forward, reacting to something no one else has sensed. A horse whinnies and the wind picks up, carrying the sound of great wings flapping. Everyone turns their heads to try and locate the rising sound. STRICKLAND seems to hone in on the location, but he is too late. The gated wall behind the Golden Company explodes in an enormous fireball, destroying a huge section of the wall and consuming dozens of soldiers as the fire spews forth in a rage. STRICKLAND is knocked from his horse by the blast as the Golden Company scatters and his mount expires. DROGON flies over the destruction.</stageDirection>
 
-GREY WORM and the Unsullied charge, followed by the mounted Dothraki. Members of the Golden Company scream and writhe in agony as they burn. Stunned by the force of the blast, STRICKLAND pulls himself up on hands and knees. He sees the charging Dothraki army and panics. He finds his feet and begins flees towards the wall, limping and bloodied. The Dothraki ride past, as he looks nervously to either side. He falls, impaled by GREY WORM's spear. GREY WORM pauses to retrieve his spear from STRICKLAND's corpse with a grunt before resuming the charge with the rest of the Unsullied.
+<stageDirection>GREY WORM and the Unsullied charge, followed by the mounted Dothraki. Members of the Golden Company scream and writhe in agony as they burn. Stunned by the force of the blast, STRICKLAND pulls himself up on hands and knees. He sees the charging Dothraki army and panics. He finds his feet and begins flees towards the wall, limping and bloodied. The Dothraki ride past, as he looks nervously to either side. He falls, impaled by GREY WORM's spear. GREY WORM pauses to retrieve his spear from STRICKLAND's corpse with a grunt before resuming the charge with the rest of the Unsullied.</stageDirection>
 
-Screamingly wildly, the Dothroaki gallop through the broken wall into King's Landing. Continuing full speed, they rip through the Lannister soldiers just inside the walls, speeding through the street. The Lannister soldiers fall like dominoes, no match for the ferocity of their charge. Behind the Dothraki, the Stark forces reach the wall, roaring as they enter the city. One Stark soldier kneels by a severely burned member of the Golden Company who lies supine on the ground. The Stark soldier plunges his sword through the man's heart.
+<stageDirection>Screamingly wildly, the Dothroaki gallop through the broken wall into King's Landing. Continuing full speed, they rip through the Lannister soldiers just inside the walls, speeding through the street. The Lannister soldiers fall like dominoes, no match for the ferocity of their charge. Behind the Dothraki, the Stark forces reach the wall, roaring as they enter the city. One Stark soldier kneels by a severely burned member of the Golden Company who lies supine on the ground. The Stark soldier plunges his sword through the man's heart.</stageDirection>
 
-Above, DROGON flies along the wall and destroys another part of the battlement. The few Lannister soldiers who survived the Dothraki rise to meet the Stark men in battle, but they are no match. DROGON continues to destroy the unwieldy scorpions before they can even threaten the dragon. The Stark men continue to dispatch the Lannister soldiers, whose corpses begin speckle the streets. Scores of Lannister soldiers flee through an open yard, but DROGON catches up and destroys them with a mighty exhalation of fire. They die in a painful and brutal conflagration.
+<stageDirection>Above, DROGON flies along the wall and destroys another part of the battlement. The few Lannister soldiers who survived the Dothraki rise to meet the Stark men in battle, but they are no match. DROGON continues to destroy the unwieldy scorpions before they can even threaten the dragon. The Stark men continue to dispatch the Lannister soldiers, whose corpses begin speckle the streets. Scores of Lannister soldiers flee through an open yard, but DROGON catches up and destroys them with a mighty exhalation of fire. They die in a painful and brutal conflagration.</stageDirection>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-CERSEI listens to the sounds of destruction - the rumbling explosions and the screeching roar of the distant dragon. A vast section of the outer wall burns as DROGON and DAENERYS fly toward another part of the city. DROGON unleashes his fire breath once again.
+<stageDirection>CERSEI listens to the sounds of destruction - the rumbling explosions and the screeching roar of the distant dragon. A vast section of the outer wall burns as DROGON and DAENERYS fly toward another part of the city. DROGON unleashes his fire breath once again.</stageDirection>
 
-CUT TO: INSIDE THE BREACHED WALL
+<direction>CUT TO: INSIDE THE BREACHED WALL</direction>
 
-TYRION walks through the battlefield, stunned by the carnage. In the distance, more Northern soldiers rush towards the battle.
+<stageDirection>TYRION walks through the battlefield, stunned by the carnage. In the distance, more Northern soldiers rush towards the battle.</stageDirection>
 
-MAN 1: Go!
+<speech><speaker who="MAN 1" house="">MAN 1</speaker> Go!</speech>
 
-MAN 2: Run!
+<speech><speaker who="MAN 2" house="">MAN 2</speaker> Run!</speech>
 
-DROGON strafes another row of scorpions, demolishing the ramparts where they are mounted.
+<stageDirection>DROGON strafes another row of scorpions, demolishing the ramparts where they are mounted.</stageDirection>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-QYBURN passes the steadfast MOUNTAIN to approach CERSEI.
+<stageDirection>QYBURN passes the steadfast MOUNTAIN to approach CERSEI.</stageDirection>
 
-QYBURN: Your Grace.
+<speech><speaker who="QYBURN" house="">QYBURN</speaker> Your Grace.</speech>
 
-CERSEI: All we need is one good shot.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> All we need is one good shot.</speech>
 
-QYBURN: The scorpions have all been destroyed, Your Grace.
+<speech><speaker who="QYBURN" house="">QYBURN</speaker> The scorpions have all been destroyed, Your Grace.</speech>
 
-CERSEI: The Iron Fleet hold Blackwater Bay. Euron killed one of her dragons. He can kill another.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> The Iron Fleet hold Blackwater Bay. Euron killed one of her dragons. He can kill another.</speech>
 
-QYBURN: Your Grace, the Iron Fleet is burning. The gates have been breached. The Golden Company-
+<speech><speaker who="QYBURN" house="">QYBURN</speaker> Your Grace, the Iron Fleet is burning. The gates have been breached. The Golden Company-</speech>
 
-CERSEI: Our men will fight harder than sellswords ever could. They will defend their queen to the last man.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> Our men will fight harder than sellswords ever could. They will defend their queen to the last man.</speech>
 
-QYBURN: Yes, Your Grace.
+<speech><speaker who="QYBURN" house="">QYBURN</speaker> Yes, Your Grace.</speech>
 
-CERSEI: The Red Keep has never fallen. It won't fall today.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> The Red Keep has never fallen. It won't fall today.</speech>
 
-DROGON roars. QYBURN exits.
+<stageDirection>DROGON roars. QYBURN exits.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-GREY WORM leads JON, DAVOS, and a force of Northern soldiers and Unsullied warriors through the charred and burning wasteland. Bodies are strewn everywhere. A Lannister soldier tries to set upon GREY WORM, but the Unsullied captain gores him clean through with his spear. Other Lannister soldiers make futile attacks that are quickly dispatched by JON and his men. Before them, the streets are empty and clear.
+<stageDirection>GREY WORM leads JON, DAVOS, and a force of Northern soldiers and Unsullied warriors through the charred and burning wasteland. Bodies are strewn everywhere. A Lannister soldier tries to set upon GREY WORM, but the Unsullied captain gores him clean through with his spear. Other Lannister soldiers make futile attacks that are quickly dispatched by JON and his men. Before them, the streets are empty and clear.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING, A BIT LATER
+<direction>CUT TO: THE STREETS OF KING'S LANDING, A BIT LATER</direction>
 
-JON, DAVOS, and GREY WORM reach a crowd of Stark soldiers who are at a stand off with a perhaps one hundred Lannister soldiers.
+<stageDirection>JON, DAVOS, and GREY WORM reach a crowd of Stark soldiers who are at a stand off with a perhaps one hundred Lannister soldiers.</stageDirection>
 
-MAN 1: No, no, no!
+<speech><speaker who="MAN 1" house="">MAN 1</speaker> No, no, no!</speech>
 
-JON: Move, move!
+<speech><speaker who="JON" house="Stark">JON</speaker> Move, move!</speech>
 
-The Stark men part to let JON and his companions through . JON, DAVOS, and GREY WORM stand in front of the Stark men facing the Lannister soldiers. The two sides take measure of one another, separated by the width of the street.
+<stageDirection>The Stark men part to let JON and his companions through . JON, DAVOS, and GREY WORM stand in front of the Stark men facing the Lannister soldiers. The two sides take measure of one another, separated by the width of the street.</stageDirection>
 
-CUT TO: FURTHER BACK IN KING'S LANDING
+<direction>CUT TO: FURTHER BACK IN KING'S LANDING</direction>
 
-TYRION passes through a burning wall, making his way among piles of charred bodies. Ahead of him, some Unsullied warriors clear the streets. Beyond them is a bell tower and, further back, is the Red Keep. Smoke fills the air.
+<stageDirection>TYRION passes through a burning wall, making his way among piles of charred bodies. Ahead of him, some Unsullied warriors clear the streets. Beyond them is a bell tower and, further back, is the Red Keep. Smoke fills the air.</stageDirection>
 
-CUT TO: THE ALLEYS OF KING'S LANDING
+<direction>CUT TO: THE ALLEYS OF KING'S LANDING</direction>
 
-JAIME runs through the streets and alleys, passing citizens who have yet to take shelter.
+<stageDirection>JAIME runs through the streets and alleys, passing citizens who have yet to take shelter.</stageDirection>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-CERSEI continues to survey the battle.
+<stageDirection>CERSEI continues to survey the battle.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-Citizens look up to see DROGON and DAENERYS diving towards them. DROGON roars and the panic ensues as people begin to run, desperate and terrified. Some protect their children while others knock down anyone in their way.
+<stageDirection>Citizens look up to see DROGON and DAENERYS diving towards them. DROGON roars and the panic ensues as people begin to run, desperate and terrified. Some protect their children while others knock down anyone in their way.</stageDirection>
 
-MAN: Run. Run! Come on!
+<speech><speaker who="MAN" house="">MAN</speaker> Run. Run! Come on!</speech>
 
-DROGON roars and glides over a street filled with fleeing innocents. He lands atop a parapet and roars at the city dwellers who are trapped before him.
+<stageDirection>DROGON roars and glides over a street filled with fleeing innocents. He lands atop a parapet and roars at the city dwellers who are trapped before him.</stageDirection>
 
-CUT TO: THE STARK/LANNISTER STANDOFF
+<direction>CUT TO: THE STARK/LANNISTER STANDOFF</direction>
 
-JON and the leader of the Lannister battalion stare at one another.
+<stageDirection>JON and the leader of the Lannister battalion stare at one another.</stageDirection>
 
-CUT TO: THE PARAPET
+<direction>CUT TO: THE PARAPET</direction>
 
-DROGON braces himself and lets out a mighty roar.
+<stageDirection>DROGON braces himself and lets out a mighty roar.</stageDirection>
 
-CUT TO: THE STARK/LANNISTER STANDOFF
+<direction>CUT TO: THE STARK/LANNISTER STANDOFF</direction>
 
-The leader of the Lannister soldiers hears the powerful roar. He seems to lose faith as he looks at the men around him. He drops in sword in surrender. The rest of the battalion follows suit, the message spreading through the troops behind him, back towards the Red Keep.
+<stageDirection>The leader of the Lannister soldiers hears the powerful roar. He seems to lose faith as he looks at the men around him. He drops in sword in surrender. The rest of the battalion follows suit, the message spreading through the troops behind him, back towards the Red Keep.</stageDirection>
 
-SOLDIER 1: Ring the bells!
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Ring the bells!</speech>
 
-SOLDIER 2: Ring the bells!
+<speech><speaker who="SOLDIER 2" house="">SOLDIER 2</speaker> Ring the bells!</speech>
 
-MAN 1: The bells!
+<speech><speaker who="MAN 1" house="">MAN 1</speaker> The bells!</speech>
 
-MAN 2: Ring the bells!
+<speech><speaker who="MAN 2" house="">MAN 2</speaker> Ring the bells!</speech>
 
-WOMAN: Ring the bells!
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> Ring the bells!</speech>
 
-MAN 2: Ring the bloody bells!
+<speech><speaker who="MAN 2" house="">MAN 2</speaker> Ring the bloody bells!</speech>
 
-MAN 3: Ring the bells!
+<speech><speaker who="MAN 3" house="">MAN 3</speaker> Ring the bells!</speech>
 
-WOMAN: Ring the bells!
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> Ring the bells!</speech>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-CERSEI stands at the window, listening to the cries of surrender from her citizens and soldiers.
+<stageDirection>CERSEI stands at the window, listening to the cries of surrender from her citizens and soldiers.</stageDirection>
 
-WOMAN: Tell the queen to ring the bells.
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> Tell the queen to ring the bells.</speech>
 
-MAN 4: Ring the bells! Ring the bell!
+<speech><speaker who="MAN 4" house="">MAN 4</speaker> Ring the bells! Ring the bell!</speech>
 
-CUT TO: THE ALLEYS OF KING'S LANDING
+<direction>CUT TO: THE ALLEYS OF KING'S LANDING</direction>
 
-JAIME picks up a sword from a pile of weapons as he passes by. He dodges as citizens flee, heading in the opposite direction.
+<stageDirection>JAIME picks up a sword from a pile of weapons as he passes by. He dodges as citizens flee, heading in the opposite direction.</stageDirection>
 
-WOMAN: This way.
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> This way.</speech>
 
-JAIME ducks into a dark open doorway.
+<stageDirection>JAIME ducks into a dark open doorway.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-TYRION continues to look down the street at the bell tower and the Red Keep beyond.
+<stageDirection>TYRION continues to look down the street at the bell tower and the Red Keep beyond.</stageDirection>
 
-SOLDIER: Ring the bell!
+<speech><speaker who="SOLDIER" house="">SOLDIER</speaker> Ring the bell!</speech>
 
-MAN 1: Ring the bell!
+<speech><speaker who="MAN 1" house="">MAN 1</speaker> Ring the bell!</speech>
 
-MAN 2: Ring them!
+<speech><speaker who="MAN 2" house="">MAN 2</speaker> Ring them!</speech>
 
-CUT TO: THE PARAPET
+<direction>CUT TO: THE PARAPET</direction>
 
-DROGON snarls as DAENERYS sits and listens to the calls from people below.
+<stageDirection>DROGON snarls as DAENERYS sits and listens to the calls from people below.</stageDirection>
 
-WOMAN: Ring the bells!
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> Ring the bells!</speech>
 
-MAN 3: Ring the bells!
+<speech><speaker who="MAN 3" house="">MAN 3</speaker> Ring the bells!</speech>
 
-MAN 4: Ring the bells!
+<speech><speaker who="MAN 4" house="">MAN 4</speaker> Ring the bells!</speech>
 
-MAN 5: Help us!
+<speech><speaker who="MAN 5" house="">MAN 5</speaker> Help us!</speech>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-CERSEI listens to the cries from below, stone-faced. THE MOUNTAIN continues to stand guard behind her.
+<stageDirection>CERSEI listens to the cries from below, stone-faced. THE MOUNTAIN continues to stand guard behind her.</stageDirection>
 
-MAN 6: In the name of the-
+<speech><speaker who="MAN 6" house="">MAN 6</speaker> In the name of the-</speech>
 
-DROGON roars in the distance.
+<stageDirection>DROGON roars in the distance.</stageDirection>
 
-MAN 7: Queen! We're surrounded!
+<speech><speaker who="MAN 7" house="">MAN 7</speaker> Queen! We're surrounded!</speech>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-TYRION waits for a reaction to the people's cries.
+<stageDirection>TYRION waits for a reaction to the people's cries.</stageDirection>
 
-MAN: Ring the bells!
+<speech><speaker who="MAN" house="">MAN</speaker> Ring the bells!</speech>
 
-MAN 2: Now! Come on!
+<speech><speaker who="MAN 2" house="">MAN 2</speaker> Now! Come on!</speech>
 
-TYRION looks up to where DROGON and DAENERYS are perched on the parapet. The dragon snarls and roars.
+<stageDirection>TYRION looks up to where DROGON and DAENERYS are perched on the parapet. The dragon snarls and roars.</stageDirection>
 
-CUT TO: THE PARAPET
+<direction>CUT TO: THE PARAPET</direction>
 
-DAENERYS does her best to control her rage as she waits.
+<stageDirection>DAENERYS does her best to control her rage as she waits.</stageDirection>
 
-MAN: Hurry up!
+<speech><speaker who="MAN" house="">MAN</speaker> Hurry up!</speech>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-CERSEI considers her options.
+<stageDirection>CERSEI considers her options.</stageDirection>
 
-CUT TO: THE PARAPET
+<direction>CUT TO: THE PARAPET</direction>
 
-DAENERYS waits and listens. She is getting more anxious.
+<stageDirection>DAENERYS waits and listens. She is getting more anxious.</stageDirection>
 
-CUT TO: TINSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: TINSIDE THE TOWER OF THE RED KEEP</direction>
 
-CERSEI listens, frozen in disbelief or denial.
+<stageDirection>CERSEI listens, frozen in disbelief or denial.</stageDirection>
 
-WOMAN: Ring the bells!
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> Ring the bells!</speech>
 
-The bell near the keep remains still.
+<stageDirection>The bell near the keep remains still.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-TYRION stares at the bell, pleading with his eyes. It sways and begins to ring.
+<stageDirection>TYRION stares at the bell, pleading with his eyes. It sways and begins to ring.</stageDirection>
 
-CUT TO: THE STARK/LANNISTER STANDOFF
+<direction>CUT TO: THE STARK/LANNISTER STANDOFF</direction>
 
-JON hears the one bell ringing. It is joined by another, and another still. He looks up and sighs in relief.
+<stageDirection>JON hears the one bell ringing. It is joined by another, and another still. He looks up and sighs in relief.</stageDirection>
 
-CUT TO: The tower of the Red Keep
+<direction>CUT TO: The tower of the Red Keep</direction>
 
-CERSEI slowly closes her eyes in defeat. Her face remains expressionless.
+<stageDirection>CERSEI slowly closes her eyes in defeat. Her face remains expressionless.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-TYRION looks over as DROGON roars. The bells become a chorus across King's Landing. His eyes are fixed on DAENERYS and her dragon as he waits for her to react.
+<stageDirection>TYRION looks over as DROGON roars. The bells become a chorus across King's Landing. His eyes are fixed on DAENERYS and her dragon as he waits for her to react.</stageDirection>
 
-CUT TO: THE PARAPET
+<direction>CUT TO: THE PARAPET</direction>
 
-DAENERYS sits atop DROGON, wide-eyed and fighting a frantic energy. She breathes deeply and her face twists with anger. She looks towards the Red Keep, built by her family and where the Targaryens had ruled for three hundred years. She thinks of all that she has suffered and endured and lost. Bells clamor as the Iron Fleet burns in far distance. She tries to choke back her rage, but she cannot. She spurs DROGON and the dragon takes to the sky.
+<stageDirection>DAENERYS sits atop DROGON, wide-eyed and fighting a frantic energy. She breathes deeply and her face twists with anger. She looks towards the Red Keep, built by her family and where the Targaryens had ruled for three hundred years. She thinks of all that she has suffered and endured and lost. Bells clamor as the Iron Fleet burns in far distance. She tries to choke back her rage, but she cannot. She spurs DROGON and the dragon takes to the sky.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-TYRION is distraught, staring in disbelief at DAENERYS's response to the bells.
+<stageDirection>TYRION is distraught, staring in disbelief at DAENERYS's response to the bells.</stageDirection>
 
-CUT TO: ABOVE KING'S LANDING
+<direction>CUT TO: ABOVE KING'S LANDING</direction>
 
-DAENERYS and DROGON fly directly towards the Red Keep. DROGON roars.
+<stageDirection>DAENERYS and DROGON fly directly towards the Red Keep. DROGON roars.</stageDirection>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-CERSEI watches as DROGON and DAENERYS fly towards her.
+<stageDirection>CERSEI watches as DROGON and DAENERYS fly towards her.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-As DROGON flies overhead, the citizens and Lannister soldiers panic and run. Behind some fleeing guards, DROGON unleashes his fire, decimating the surrounding buildings and consuming the soldiers.
+<stageDirection>As DROGON flies overhead, the citizens and Lannister soldiers panic and run. Behind some fleeing guards, DROGON unleashes his fire, decimating the surrounding buildings and consuming the soldiers.</stageDirection>
 
-Just beyond, innocents flee as quickly as they can. DROGON rises behind them, constantly spewing his deadly torrent of flame. Buildings collapse under the inferno, and citizens disappear as the raging fire consumes them.
+<stageDirection>Just beyond, innocents flee as quickly as they can. DROGON rises behind them, constantly spewing his deadly torrent of flame. Buildings collapse under the inferno, and citizens disappear as the raging fire consumes them.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-TYRION breathes shakily as he watches helplessly.
+<stageDirection>TYRION breathes shakily as he watches helplessly.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-The citizens flee, screaming and panting. DROGON's fire obliterates them.
+<stageDirection>The citizens flee, screaming and panting. DROGON's fire obliterates them.</stageDirection>
 
-CUT TO: THE STARK/LANNISTER STANDOFF
+<direction>CUT TO: THE STARK/LANNISTER STANDOFF</direction>
 
-JON watches DROGON from afar. The Lannister soldiers turn at the sounds of destruction. GREY WORM breathes deeply, cold vengeance in his eyes. At the back of the Lannister battalion, an eruption of DROGON's flame destroys a building and sends soldiers scattering. GREY WORM begins to lower his spear for attack. The leader of the Lannister soldiers spins quickly to face JON, knowing the terms of surrender have been breached. Before he can speak, GREY WORM changes his grip on his spear and hurls it through the man's chest. He falls, dead. JON's attention snaps to the ground in front of him. He hesitates. The Stark men act first, screaming a battle cry as they launch themselves at the Lannister soldiers. JON is frozen in indecision as his men begin to decimate the Lannister soldiers. Time slows down. Suddenly, JON comes to his senses. He grabs the man closest to him and pulls him back.
+<stageDirection>JON watches DROGON from afar. The Lannister soldiers turn at the sounds of destruction. GREY WORM breathes deeply, cold vengeance in his eyes. At the back of the Lannister battalion, an eruption of DROGON's flame destroys a building and sends soldiers scattering. GREY WORM begins to lower his spear for attack. The leader of the Lannister soldiers spins quickly to face JON, knowing the terms of surrender have been breached. Before he can speak, GREY WORM changes his grip on his spear and hurls it through the man's chest. He falls, dead. JON's attention snaps to the ground in front of him. He hesitates. The Stark men act first, screaming a battle cry as they launch themselves at the Lannister soldiers. JON is frozen in indecision as his men begin to decimate the Lannister soldiers. Time slows down. Suddenly, JON comes to his senses. He grabs the man closest to him and pulls him back.</stageDirection>
 
-JON: No! Get back! Get back!
+<speech><speaker who="JON" house="Stark">JON</speaker> No! Get back! Get back!</speech>
 
-The Northerners pour around him and JON manages to stop a handful. GREY WORM turns his head toward JON, staring with a look of fierce disapproval.
+<stageDirection>The Northerners pour around him and JON manages to stop a handful. GREY WORM turns his head toward JON, staring with a look of fierce disapproval.</stageDirection>
 
-JON: Stay! Stay!
+<speech><speaker who="JON" house="Stark">JON</speaker> Stay! Stay!</speech>
 
-JON's efforts are fruitless. GREY WORM stares coldly at him. Then a Lannister soldier attacks JON and he is forced into battle. GREY WORM turns to join the fray. JON defends and attacks. Further ahead, GREY WORM methodically dispatches guard after guard with precision and artistry. The Lannister soldiers are overwhelmed by the invading force. GREY WORM attacks with a brutality and rage, letting forth an uncharacteristic scream. His eyes are filled with hatred.
+<stageDirection>JON's efforts are fruitless. GREY WORM stares coldly at him. Then a Lannister soldier attacks JON and he is forced into battle. GREY WORM turns to join the fray. JON defends and attacks. Further ahead, GREY WORM methodically dispatches guard after guard with precision and artistry. The Lannister soldiers are overwhelmed by the invading force. GREY WORM attacks with a brutality and rage, letting forth an uncharacteristic scream. His eyes are filled with hatred.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-DROGON and DAENERYS strafe another street, decimating Lannister soldiers and buildings alike. The guards scream as they die painful deaths. Some citizens huddle for safety while others try to flee the path of destruction.
+<stageDirection>DROGON and DAENERYS strafe another street, decimating Lannister soldiers and buildings alike. The guards scream as they die painful deaths. Some citizens huddle for safety while others try to flee the path of destruction.</stageDirection>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-CERSEI watches as DROGON scorches great swaths of King's Landing. Lines of fire scar the city and huge plumes of smoke rise beyond them.
+<stageDirection>CERSEI watches as DROGON scorches great swaths of King's Landing. Lines of fire scar the city and huge plumes of smoke rise beyond them.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-TYRION stands agog. Fleeing innocent citizens are incinerated.
+<stageDirection>TYRION stands agog. Fleeing innocent citizens are incinerated.</stageDirection>
 
-CUT TO: THE STARK/LANNISTER BATTLE
+<direction>CUT TO: THE STARK/LANNISTER BATTLE</direction>
 
-The Unsullied dispatch wounded Lannister soldiers as they advance through the streets. Nearby, citizens stampede and scream in panic. DAVOS tries to help direct them to safety.
+<stageDirection>The Unsullied dispatch wounded Lannister soldiers as they advance through the streets. Nearby, citizens stampede and scream in panic. DAVOS tries to help direct them to safety.</stageDirection>
 
-DAVOS: Quickly. Quickly.
+<speech><speaker who="DAVOS" house="">DAVOS</speaker> Quickly. Quickly.</speech>
 
-JON continues to try to stay his men from engaging in battle.
+<stageDirection>JON continues to try to stay his men from engaging in battle.</stageDirection>
 
-JON: Stop!
+<speech><speaker who="JON" house="Stark">JON</speaker> Stop!</speech>
 
-Guards attack JON, forcing him back into the melee. The Stark men are starting to attack the fleeing citizens as well as Lannister soldiers. The frenzy of the battle takes over as the siege becomes a sacking of the city. The Unsullied attack expertly and without mercy.
+<stageDirection>Guards attack JON, forcing him back into the melee. The Stark men are starting to attack the fleeing citizens as well as Lannister soldiers. The frenzy of the battle takes over as the siege becomes a sacking of the city. The Unsullied attack expertly and without mercy.</stageDirection>
 
-A little girl hides behind a pillar as others run. A Stark soldier tackles a citizen, and his wife leaps out to stop him.
+<stageDirection>A little girl hides behind a pillar as others run. A Stark soldier tackles a citizen, and his wife leaps out to stop him.</stageDirection>
 
-SOLDIER: Get off me! Get off, bitch!
+<speech><speaker who="SOLDIER" house="">SOLDIER</speaker> Get off me! Get off, bitch!</speech>
 
-A Stark comrade pulls the woman off of the soldier and holds her back.
+<stageDirection>A Stark comrade pulls the woman off of the soldier and holds her back.</stageDirection>
 
-WOMAN: No, get off! Help! Help! No!
+<speech><speaker who="WOMAN" house="">WOMAN</speaker> No, get off! Help! Help! No!</speech>
 
-She screams and struggles until the soldier slits her throat. The little girl stands witness.
+<stageDirection>She screams and struggles until the soldier slits her throat. The little girl stands witness.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-DROGON lays waste to another street filled with innocents.
+<stageDirection>DROGON lays waste to another street filled with innocents.</stageDirection>
 
-CUT TO: THE STARK/LANNISTER BATTLE
+<direction>CUT TO: THE STARK/LANNISTER BATTLE</direction>
 
-JON shambles forward, helpless to stop the carnage. Some Lannister soldiers try to direct citizens out of harm's way.
+<stageDirection>JON shambles forward, helpless to stop the carnage. Some Lannister soldiers try to direct citizens out of harm's way.</stageDirection>
 
-LANNISTER SOLDIER: Go! Go!
+<speech><speaker who="LANNISTER SOLDIER" house="">LANNISTER SOLDIER</speaker> Go! Go!</speech>
 
-JON's men continue to sack the city. He meet the attacks on him by reflex. He is overwhelmed by the wild carnage and is inability to stop it. He snaps to as one a Stark soldier drags a woman into an alley to rape her. The woman falls to the ground and tries to crawl away. The soldier continues his assault. Suddenly, JON grabs him from behind and pulls him off the woman, holding the soldier against the wall with his left hand and brandishing his sword. The soldier is surprised and confused. They exchange a look. The soldier looks at his intended victim and becomes defiant. JON runs him through, and the soldier collapses to the ground.
+<stageDirection>JON's men continue to sack the city. He meet the attacks on him by reflex. He is overwhelmed by the wild carnage and is inability to stop it. He snaps to as one a Stark soldier drags a woman into an alley to rape her. The woman falls to the ground and tries to crawl away. The soldier continues his assault. Suddenly, JON grabs him from behind and pulls him off the woman, holding the soldier against the wall with his left hand and brandishing his sword. The soldier is surprised and confused. They exchange a look. The soldier looks at his intended victim and becomes defiant. JON runs him through, and the soldier collapses to the ground.</stageDirection>
 
-JON: (to the woman) Find somewhere to hide.
+<speech><speaker who="JON" house="Stark">JON</speaker> (to the woman) Find somewhere to hide.</speech>
 
-The woman flees. JON reels and catches his breath.
+<stageDirection>The woman flees. JON reels and catches his breath.</stageDirection>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-CERSEI watches as DROGON and DAENERYS strafe another section of King's Landing.
+<stageDirection>CERSEI watches as DROGON and DAENERYS strafe another section of King's Landing.</stageDirection>
 
-MAN: My God!
+<speech><speaker who="MAN" house="">MAN</speaker> My God!</speech>
 
-The mighty dragon flies directly towards the keep. Below, the citizens run in panic. DROGON sets onto the castle itself, destroying a small tower.
+<stageDirection>The mighty dragon flies directly towards the keep. Below, the citizens run in panic. DROGON sets onto the castle itself, destroying a small tower.</stageDirection>
 
-CUT TO: THE SHORE BENEATH THE RED KEEP
+<direction>CUT TO: THE SHORE BENEATH THE RED KEEP</direction>
 
-JAIME has reached the mouth of the cave that leads into the Red Keep. A dinghy sits on the shore, just as TYRION promised. He starts into the cave, but is stopped by a voice behind him.
+<stageDirection>JAIME has reached the mouth of the cave that leads into the Red Keep. A dinghy sits on the shore, just as TYRION promised. He starts into the cave, but is stopped by a voice behind him.</stageDirection>
 
-EURON: The Kingslayer.
+<speech><speaker who="EURON" house="">EURON</speaker> The Kingslayer.</speech>
 
-An exhausted EURON wades onto the beach. The Iron Fleet burns in the distance beyond him. He spits out seawater.
+<stageDirection>An exhausted EURON wades onto the beach. The Iron Fleet burns in the distance beyond him. He spits out seawater.</stageDirection>
 
-JAIME: We need to get the queen out of King's Landing.
+<speech><speaker who="JAIME" house="">JAIME</speaker> We need to get the queen out of King's Landing.</speech>
 
-EURON: Listen. That's the sound of a city dying. It's over.
+<speech><speaker who="EURON" house="">EURON</speaker> Listen. That's the sound of a city dying. It's over.</speech>
 
-JAIME: Well, maybe for you.
+<speech><speaker who="JAIME" house="">JAIME</speaker> Well, maybe for you.</speech>
 
-JAIME starts to leave, but EURON draws his sword behind him.
+<stageDirection>JAIME starts to leave, but EURON draws his sword behind him.</stageDirection>
 
-EURON: If you kill another king before you die they'll sing about you forever.
+<speech><speaker who="EURON" house="">EURON</speaker> If you kill another king before you die they'll sing about you forever.</speech>
 
-JAIME: You're no king.
+<speech><speaker who="JAIME" house="">JAIME</speaker> You're no king.</speech>
 
-EURON: Oh, but I am. And I fucked the queen. If I win, I'll bring your head to Cersei so you can kiss her one last time.
+<speech><speaker who="EURON" house="">EURON</speaker> Oh, but I am. And I fucked the queen. If I win, I'll bring your head to Cersei so you can kiss her one last time.</speech>
 
-JAIME swings his sword wildly at EURION, who evades back, stumbling against a boulder. JAIME brings down a powerful overhead swing that EURON dodges. Sword hits rock with a great clang.
+<stageDirection>JAIME swings his sword wildly at EURION, who evades back, stumbling against a boulder. JAIME brings down a powerful overhead swing that EURON dodges. Sword hits rock with a great clang.</stageDirection>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-A piece of the ceiling falls, startling CERSEI. DROGON circles overhead. A great chunk of wall falls to the ground, crushing citizens below. DROGON and DAENERYS circle the keep, then bring their full force upon it. Spiraling about the Red Keep, DROGON slices through walls and towers with his devastating fire. The mighty castle starts to come undone and crash to the ground.
+<stageDirection>A piece of the ceiling falls, startling CERSEI. DROGON circles overhead. A great chunk of wall falls to the ground, crushing citizens below. DROGON and DAENERYS circle the keep, then bring their full force upon it. Spiraling about the Red Keep, DROGON slices through walls and towers with his devastating fire. The mighty castle starts to come undone and crash to the ground.</stageDirection>
 
-CUT TO: THE SHORE BENEATH THE RED KEEP
+<direction>CUT TO: THE SHORE BENEATH THE RED KEEP</direction>
 
-The broken tower slides down the cliffside and into the water just beyond the beach. JAIME runs further into the cave while EURON pursues him. JAIME swings his sword, but EURON jumps back and counters with his own attack, slicing JAIME across the chest. JAIME staggers against the rock. Pivoting, JAIME knocks away EURON's sword with a blow, and they begin to grapple. EURON elbows JAIME in the face, wraps him up, and jerks him off balance. JAIME loses his sword. EURON throws JAIME into the rock, and staggers to catch his breath. JAIME tackles him, but EURON managed to get astride JAIME delivers repeated blows to his face. JAIME coils his legs and kicks EURON in the throat. EURON falls to the ground, gagging for air. JAIME tries to land a great punch, but EURON avoids him, and grapples JAIME onto the wet sand. EURON chokes JAIME while JAIME tries to push him away. JAIME lands a two-handed blow to EURON's arms, head butts EURON, and tosses him aside. JAIME chokes up blood as EURON crawls towards his sword. JAIME grabs EURON's foot, and pulls him back. EURON kicks JAIME dives, and grabs his sword as JAIME grapples him. EURON pulls himself around and plunges his sword into JAIME's side. JAIME reels with pain. EURON grunts and pants, then he pulls his sword free from JAIME's torso. They both fall back. JAIME scuttles on his back, away from EURON, then rolls onto his back, gasping.
+<stageDirection>The broken tower slides down the cliffside and into the water just beyond the beach. JAIME runs further into the cave while EURON pursues him. JAIME swings his sword, but EURON jumps back and counters with his own attack, slicing JAIME across the chest. JAIME staggers against the rock. Pivoting, JAIME knocks away EURON's sword with a blow, and they begin to grapple. EURON elbows JAIME in the face, wraps him up, and jerks him off balance. JAIME loses his sword. EURON throws JAIME into the rock, and staggers to catch his breath. JAIME tackles him, but EURON managed to get astride JAIME delivers repeated blows to his face. JAIME coils his legs and kicks EURON in the throat. EURON falls to the ground, gagging for air. JAIME tries to land a great punch, but EURON avoids him, and grapples JAIME onto the wet sand. EURON chokes JAIME while JAIME tries to push him away. JAIME lands a two-handed blow to EURON's arms, head butts EURON, and tosses him aside. JAIME chokes up blood as EURON crawls towards his sword. JAIME grabs EURON's foot, and pulls him back. EURON kicks JAIME dives, and grabs his sword as JAIME grapples him. EURON pulls himself around and plunges his sword into JAIME's side. JAIME reels with pain. EURON grunts and pants, then he pulls his sword free from JAIME's torso. They both fall back. JAIME scuttles on his back, away from EURON, then rolls onto his back, gasping.</stageDirection>
 
-CUT TO: INSIDE THE TOWER OF THE RED KEEP
+<direction>CUT TO: INSIDE THE TOWER OF THE RED KEEP</direction>
 
-The entire city is aflame below CERSEI. Sounds of destruction fill the air. QYBURN enters.
+<stageDirection>The entire city is aflame below CERSEI. Sounds of destruction fill the air. QYBURN enters.</stageDirection>
 
-QYBURN: Your Grace, it isn't safe here any longer.
+<speech><speaker who="QYBURN" house="">QYBURN</speaker> Your Grace, it isn't safe here any longer.</speech>
 
-CERSEI: The Red Keep is the safest place in the city.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> The Red Keep is the safest place in the city.</speech>
 
-QYBURN: The Unsullied have breached the gates of the Red Keep.
+<speech><speaker who="QYBURN" house="">QYBURN</speaker> The Unsullied have breached the gates of the Red Keep.</speech>
 
-CERSEI does not respond. A tear rolls down her face as her armor of denial comes down.
+<stageDirection>CERSEI does not respond. A tear rolls down her face as her armor of denial comes down.</stageDirection>
 
-QYBURN: Maegor's Holdfast would be a better place to wait out the storm.
+<speech><speaker who="QYBURN" house="">QYBURN</speaker> Maegor's Holdfast would be a better place to wait out the storm.</speech>
 
-CERSEI weeps. She takes QYBURN's hand, and he leads her away. Below them, plumes of green wildfire explosions join the wholesale devastation of the capitol city. Dark and putrid smoke fills the sky.
+<stageDirection>CERSEI weeps. She takes QYBURN's hand, and he leads her away. Below them, plumes of green wildfire explosions join the wholesale devastation of the capitol city. Dark and putrid smoke fills the sky.</stageDirection>
 
-CUT TO: THE SHORE BENEATH THE RED KEEP
+<direction>CUT TO: THE SHORE BENEATH THE RED KEEP</direction>
 
-EURON pants in exhaustion. He is drenched in sweat and blood covers his mouth.
+<stageDirection>EURON pants in exhaustion. He is drenched in sweat and blood covers his mouth.</stageDirection>
 
-EURON: You fought well for a cripple.
+<speech><speaker who="EURON" house="">EURON</speaker> You fought well for a cripple.</speech>
 
-JAIME wheezes, helpless. He looks down the beach. His sword is far from his grasp. He rolls onto his stomach and crawls towards it. EURON sees that there is still some fight in JAIME and he drop his head, sighing. JAIME reaches his sword, but EURON stands above him and plunges his sword into JAIME's side once again. Both grunt, then JAIME pushes EURON onto the ground, and rights himself. He gores EURON through the stomach. They both yell. JAIME pushes his sword in further, pinning EURON against sand and rock. He steps back. EURON grabs the blade with both hands. Both pant and scream. JAIME forces the sword in further. Hate joins the pain on EURON's face.
+<stageDirection>JAIME wheezes, helpless. He looks down the beach. His sword is far from his grasp. He rolls onto his stomach and crawls towards it. EURON sees that there is still some fight in JAIME and he drop his head, sighing. JAIME reaches his sword, but EURON stands above him and plunges his sword into JAIME's side once again. Both grunt, then JAIME pushes EURON onto the ground, and rights himself. He gores EURON through the stomach. They both yell. JAIME pushes his sword in further, pinning EURON against sand and rock. He steps back. EURON grabs the blade with both hands. Both pant and scream. JAIME forces the sword in further. Hate joins the pain on EURON's face.</stageDirection>
 
-EURON: Another king for you.
+<speech><speaker who="EURON" house="">EURON</speaker> Another king for you.</speech>
 
-EURON grunts and JAIME pulls out his sword and stands over EURON. Blood pours from his stomach as EURON's head bows in relief. JAIME starts his way into the cave. EURON slides down the rock towards the sand. He twists his head to watch JAIME leave.
+<stageDirection>EURON grunts and JAIME pulls out his sword and stands over EURON. Blood pours from his stomach as EURON's head bows in relief. JAIME starts his way into the cave. EURON slides down the rock towards the sand. He twists his head to watch JAIME leave.</stageDirection>
 
-EURON: But I got you!
+<speech><speaker who="EURON" house="">EURON</speaker> But I got you!</speech>
 
-JAIME walks into the mouth of the cave and into the lit passage beyond.
+<stageDirection>JAIME walks into the mouth of the cave and into the lit passage beyond.</stageDirection>
 
-EURON: I got you!
+<speech><speaker who="EURON" house="">EURON</speaker> I got you!</speech>
 
-Panting, EURON smiles up to the sky.
+<stageDirection>Panting, EURON smiles up to the sky.</stageDirection>
 
-EURON: I'm the man who killed Jaime Lannister.
+<speech><speaker who="EURON" house="">EURON</speaker> I'm the man who killed Jaime Lannister.</speech>
 
-CUT TO: THE MAP COURTYARD OF THE RED KEEP
+<direction>CUT TO: THE MAP COURTYARD OF THE RED KEEP</direction>
 
-DROGON and DAENERYS swoop overhead as the rumbles of destruction echo. THE HOUND and ARYA enter the crumbing courtyard. They look up to the skies. DROGON roars. THE HOUND gives his head a little shake, knowing they have reached the point of no return.
+<stageDirection>DROGON and DAENERYS swoop overhead as the rumbles of destruction echo. THE HOUND and ARYA enter the crumbing courtyard. They look up to the skies. DROGON roars. THE HOUND gives his head a little shake, knowing they have reached the point of no return.</stageDirection>
 
-THE HOUND: Go home, girl. The fire will get her, or one of the Dothraki.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> Go home, girl. The fire will get her, or one of the Dothraki.</speech>
 
-DROGON roars in the distance.
+<stageDirection>DROGON roars in the distance.</stageDirection>
 
-THE HOUND: Or maybe that dragon will eat her. It doesn't matter. She's dead. And you'll be dead too if you don't get out of here.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> Or maybe that dragon will eat her. It doesn't matter. She's dead. And you'll be dead too if you don't get out of here.</speech>
 
-ARYA: I'm going to kill her.
+<speech><speaker who="ARYA" house="">ARYA</speaker> I'm going to kill her.</speech>
 
-ARYA tries to walk past THE HOUND, but he grabs her arm.
+<stageDirection>ARYA tries to walk past THE HOUND, but he grabs her arm.</stageDirection>
 
-THE HOUND: You think you wanted revenge a long time? I've been after it all my life.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> You think you wanted revenge a long time? I've been after it all my life.</speech>
 
-ARYA jerks her arm free.
+<stageDirection>ARYA jerks her arm free.</stageDirection>
 
-THE HOUND: It's all I care about. And look at me.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> It's all I care about. And look at me.</speech>
 
-THE HOUND grabs ARYA's shoulder to force her to face him.
+<stageDirection>THE HOUND grabs ARYA's shoulder to force her to face him.</stageDirection>
 
-THE HOUND: Look at me! You wanna be like me?
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> Look at me! You wanna be like me?</speech>
 
-THE HOUND cups his hand around the back of ARYA's head.
+<stageDirection>THE HOUND cups his hand around the back of ARYA's head.</stageDirection>
 
-THE HOUND: You come with me, you die here.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> You come with me, you die here.</speech>
 
-THE HOUND walks away. ARYA pauses, then turns.
+<stageDirection>THE HOUND walks away. ARYA pauses, then turns.</stageDirection>
 
-ARYA: Sandor.
+<speech><speaker who="ARYA" house="">ARYA</speaker> Sandor.</speech>
 
-THE HOUND turns back around.
+<stageDirection>THE HOUND turns back around.</stageDirection>
 
-ARYA: Thank you.
+<speech><speaker who="ARYA" house="">ARYA</speaker> Thank you.</speech>
 
-With a knowing look, THE HOUND exits the map courtyard and moves further into the keep. ARYA looks up as the walls continues to crumble around her.
+<stageDirection>With a knowing look, THE HOUND exits the map courtyard and moves further into the keep. ARYA looks up as the walls continues to crumble around her.</stageDirection>
 
-CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP
+<direction>CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP</direction>
 
 CERSEI, QYBURN, THE MOUNTAIN, and the Queensguard descend the tower
-staircase as DROGON roars overhead. A great section of the ceiling collapses behind them, revealing the ferocious glow of the fireball overhead. The tower shakes and the party falls to their knees. THE MOUNTAIN is felled by a chunk from the ceiling. Above them, the tower ceiling comes apart. THE MOUNTAIN shields CERSEI and PYCELLE with his body, taking great blows from the chunks that rain down. CERSEI cowers. DROGON roars again and the entire ceiling gives way, burying some of the Queensguard.
+<stageDirection>staircase as DROGON roars overhead. A great section of the ceiling collapses behind them, revealing the ferocious glow of the fireball overhead. The tower shakes and the party falls to their knees. THE MOUNTAIN is felled by a chunk from the ceiling. Above them, the tower ceiling comes apart. THE MOUNTAIN shields CERSEI and PYCELLE with his body, taking great blows from the chunks that rain down. CERSEI cowers. DROGON roars again and the entire ceiling gives way, burying some of the Queensguard.</stageDirection>
 
-When then destruction settles, THE MOUNTAIN stands erect. CERSEI and QYBURN are unharmed. There is nothing left of the tower behind them, only open sky filled with smoke. Debris falls continuously as the tower above them crumbles. THE HOUND enters below them. He nods at CERSEI.
+<stageDirection>When then destruction settles, THE MOUNTAIN stands erect. CERSEI and QYBURN are unharmed. There is nothing left of the tower behind them, only open sky filled with smoke. Debris falls continuously as the tower above them crumbles. THE HOUND enters below them. He nods at CERSEI.</stageDirection>
 
-THE HOUND: Your Grace.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> Your Grace.</speech>
 
-The four remaining Queensguard rush down to engage THE HOUND. He easily dispatches each of them in turn. He looks up to THE MOUNTAIN.
+<stageDirection>The four remaining Queensguard rush down to engage THE HOUND. He easily dispatches each of them in turn. He looks up to THE MOUNTAIN.</stageDirection>
 
-HOUND: Hello, big brother.
+<speech><speaker who="HOUND" house="">HOUND</speaker> Hello, big brother.</speech>
 
-THE MOUNTAIN takes a step towards THE HOUND.
+<stageDirection>THE MOUNTAIN takes a step towards THE HOUND.</stageDirection>
 
-CERSEI: Ser Gregor, stay by my side.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> Ser Gregor, stay by my side.</speech>
 
-THE MOUNTAIN pauses and looks back at CERSEI with his gruesome red eyes. He takes another step.
+<stageDirection>THE MOUNTAIN pauses and looks back at CERSEI with his gruesome red eyes. He takes another step.</stageDirection>
 
-CERSEI: Ser Gregor, I command you.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> Ser Gregor, I command you.</speech>
 
-QYBURN: Obey your queen, Ser Gregor.
+<speech><speaker who="QYBURN" house="">QYBURN</speaker> Obey your queen, Ser Gregor.</speech>
 
-QYBURN moves to intercept THE MOUNTAIN. The hulk effortlessly picks up QYBURN by the neck and tosses him down the steps. QYBURN's head smashes against the rubble-strewn stairs when he lands, cracking his skull and killing him instantaneously. THE MOUNTAIN takes a few more steps towards THE HOUND as CERSEI quivers behind him. DROGON roars. The Clegane brothers take measure of one another. CERSEI tentatively walks past THE MOUNTAIN and then slides past THE HOUND. She exits. More rubble falls as DROGON soars overhead, spewing fire.
+<stageDirection>QYBURN moves to intercept THE MOUNTAIN. The hulk effortlessly picks up QYBURN by the neck and tosses him down the steps. QYBURN's head smashes against the rubble-strewn stairs when he lands, cracking his skull and killing him instantaneously. THE MOUNTAIN takes a few more steps towards THE HOUND as CERSEI quivers behind him. DROGON roars. The Clegane brothers take measure of one another. CERSEI tentatively walks past THE MOUNTAIN and then slides past THE HOUND. She exits. More rubble falls as DROGON soars overhead, spewing fire.</stageDirection>
 
-THE HOUND walks up the stairs towards THE MOUNTAIN, then draws his sword and starts his attack. THE MOUNTAIN fends off the blows with his armored arms, then grabs THE HOUND's blade. Enraged, THE HOUND rips his weapon free and attacks anew. THE MOUNTAIN parries with his arm. On his third blow, THE HOUND knocks off THE MOUNTAIN's helmet, revealing his brother's ghoulish face. The skin of THE MOUNTAIN'S revived corpse is fetid and rotting.
+<stageDirection>THE HOUND walks up the stairs towards THE MOUNTAIN, then draws his sword and starts his attack. THE MOUNTAIN fends off the blows with his armored arms, then grabs THE HOUND's blade. Enraged, THE HOUND rips his weapon free and attacks anew. THE MOUNTAIN parries with his arm. On his third blow, THE HOUND knocks off THE MOUNTAIN's helmet, revealing his brother's ghoulish face. The skin of THE MOUNTAIN'S revived corpse is fetid and rotting.</stageDirection>
 
-THE HOUND: Yeah, that's you. That's what you've always been.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> Yeah, that's you. That's what you've always been.</speech>
 
-THE MOUNTAIN draws his sword. He unleashed powerful swings that crush the railing and wall when THE HOUND dodges. Their swords clash with a powerful clang. THE MOUNTAIN roars.
+<stageDirection>THE MOUNTAIN draws his sword. He unleashed powerful swings that crush the railing and wall when THE HOUND dodges. Their swords clash with a powerful clang. THE MOUNTAIN roars.</stageDirection>
 
-CUT TO: THE MAP COURTYARD OF THE RED KEEP
+<direction>CUT TO: THE MAP COURTYARD OF THE RED KEEP</direction>
 
-The castle continues to fall around her as CERSEI makes her way through the Red Keep. DROGON roars overhead. An exhausted JAIME enters the courtyard. CERSEI turns and sees JAIME propping himself up against a pillar. Her face brightens as she stares at him with disbelief. She sobs and he walks to her. They embrace and hold tight, panting. JAIME looks at her tears.
+<stageDirection>The castle continues to fall around her as CERSEI makes her way through the Red Keep. DROGON roars overhead. An exhausted JAIME enters the courtyard. CERSEI turns and sees JAIME propping himself up against a pillar. Her face brightens as she stares at him with disbelief. She sobs and he walks to her. They embrace and hold tight, panting. JAIME looks at her tears.</stageDirection>
 
-CERSEI: You're hurt.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> You're hurt.</speech>
 
-JAIME: It doesn't matter.
+<speech><speaker who="JAIME" house="">JAIME</speaker> It doesn't matter.</speech>
 
-CERSEI pulls her hands away. They are covered in JAIME's blood. JAIME caresses her face.
+<stageDirection>CERSEI pulls her hands away. They are covered in JAIME's blood. JAIME caresses her face.</stageDirection>
 
-CERSEI: You're bleeding.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> You're bleeding.</speech>
 
-More of the Keep tumbles down. JAIME looks around for safe passage away from courtyard. They stagger together into the arcade.
+<stageDirection>More of the Keep tumbles down. JAIME looks around for safe passage away from courtyard. They stagger together into the arcade.</stageDirection>
 
-CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP
+<direction>CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP</direction>
 
-THE HOUND and THE MOUNTAIN battle ferociously. THE HOUND spins, traps THE MOUNTAIN's arms between his body and his left arm, then leverages THE MOUNTAIN's sword away. He steps back and plunges his sword into THE MOUNTAIN's stomach, grunting with effort. He looks up with gritted teeth and forces the blade in further. THE MOUNTAIN stands impassive, one hand cupping the blade. THE HOUND cannot believe that THE MOUNTAIN still stands. He roars and pushes the blade harder. THE MOUNTAIN unleashes a mighty backhand that sends THE HOUND tumbling backward down the steps. THE HOUND struggles to look up. He watches THE MOUNTAIN pull the blade from hit gut, his armor falling away. THE MOUNTAIN descends towards THE HOUND, who sighs in exasperation. The tower continues to collapse. THE HOUND chuckles at the impossibility of it all. THE MOUNTAIN grabs him by the collar, and flips him over, roughly.
+<stageDirection>THE HOUND and THE MOUNTAIN battle ferociously. THE HOUND spins, traps THE MOUNTAIN's arms between his body and his left arm, then leverages THE MOUNTAIN's sword away. He steps back and plunges his sword into THE MOUNTAIN's stomach, grunting with effort. He looks up with gritted teeth and forces the blade in further. THE MOUNTAIN stands impassive, one hand cupping the blade. THE HOUND cannot believe that THE MOUNTAIN still stands. He roars and pushes the blade harder. THE MOUNTAIN unleashes a mighty backhand that sends THE HOUND tumbling backward down the steps. THE HOUND struggles to look up. He watches THE MOUNTAIN pull the blade from hit gut, his armor falling away. THE MOUNTAIN descends towards THE HOUND, who sighs in exasperation. The tower continues to collapse. THE HOUND chuckles at the impossibility of it all. THE MOUNTAIN grabs him by the collar, and flips him over, roughly.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-ARYA moves through the streets. Wounded denizens lean against the wall, screaming and wailing. Ash fills the air as debris falls and fires burn. ARYA switches directions and walks through the chaos. People yell and scream.
+<stageDirection>ARYA moves through the streets. Wounded denizens lean against the wall, screaming and wailing. Ash fills the air as debris falls and fires burn. ARYA switches directions and walks through the chaos. People yell and scream.</stageDirection>
 
-OWEN: Alanna! Alanna! Have you seen my wife? Have you seen my wife?
+<speech><speaker who="OWEN" house="">OWEN</speaker> Alanna! Alanna! Have you seen my wife? Have you seen my wife?</speech>
 
-OWEN grabs ARYA, frantic.
+<stageDirection>OWEN grabs ARYA, frantic.</stageDirection>
 
-ARYA: Let go.
+<speech><speaker who="ARYA" house="">ARYA</speaker> Let go.</speech>
 
-OWEN: Have you seen my wife?
+<speech><speaker who="OWEN" house="">OWEN</speaker> Have you seen my wife?</speech>
 
-OWEN lets go and rushes off. ARYA continues. A child wails as others cry out in pain. ARYA ducks away from falling stone as people rush past her.
+<stageDirection>OWEN lets go and rushes off. ARYA continues. A child wails as others cry out in pain. ARYA ducks away from falling stone as people rush past her.</stageDirection>
 
-MAN: Out of the way!
+<speech><speaker who="MAN" house="">MAN</speaker> Out of the way!</speech>
 
-Flapping can be heard overhead. ARYA quickens her pace and collides with a man wearing a turban. DROGON roars. ARYA and the man push past one another. She heads down a darken staircase and emerges in a scene of carnage, the wounded huddled and hiding. Women wail, holding their mortally wounded loved ones. DROGON flaps his wings above them. ARYA flees. The man in front of her is felled by debris.
+<stageDirection>Flapping can be heard overhead. ARYA quickens her pace and collides with a man wearing a turban. DROGON roars. ARYA and the man push past one another. She heads down a darken staircase and emerges in a scene of carnage, the wounded huddled and hiding. Women wail, holding their mortally wounded loved ones. DROGON flaps his wings above them. ARYA flees. The man in front of her is felled by debris.</stageDirection>
 
-MAN: No!
+<speech><speaker who="MAN" house="">MAN</speaker> No!</speech>
 
-DROGON roars and flies over them, his mouth spewing flames. ARYA jostles through the alley and into a flood of people running in panic. She gets pulled into the screaming mob. She looks behind her to scan the skies, but she loses her footing and falls under the rushing crowd.
+<stageDirection>DROGON roars and flies over them, his mouth spewing flames. ARYA jostles through the alley and into a flood of people running in panic. She gets pulled into the screaming mob. She looks behind her to scan the skies, but she loses her footing and falls under the rushing crowd.</stageDirection>
 
-CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP
+<direction>CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP</direction>
 
-THE HOUND falls to the ground, grunting.
+<stageDirection>THE HOUND falls to the ground, grunting.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-ARYA tries to get up as people rush past.
+<stageDirection>ARYA tries to get up as people rush past.</stageDirection>
 
-CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP
+<direction>CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP</direction>
 
-THE HOUND: Oh.
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> Oh.</speech>
 
-THE HOUND tries to get up. THE MOUNTAIN grabs him by the collar
+<stageDirection>THE HOUND tries to get up. THE MOUNTAIN grabs him by the collar</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-The crowd pushes ARYA down as they run over her.
+<stageDirection>The crowd pushes ARYA down as they run over her.</stageDirection>
 
-CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP
+<direction>CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP</direction>
 
-THE MOUNTAIN throws THE HOUND against the ruined wall. THE HOUND grunts and falls
+<stageDirection>THE MOUNTAIN throws THE HOUND against the ruined wall. THE HOUND grunts and falls</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-ARYA continues to struggle against the crowd.
+<stageDirection>ARYA continues to struggle against the crowd.</stageDirection>
 
-CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP
+<direction>CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP</direction>
 
-THE MOUNTAIN throws THE HOUND once again.
+<stageDirection>THE MOUNTAIN throws THE HOUND once again.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-ARYA struggles and panics, caught under a stampede.
+<stageDirection>ARYA struggles and panics, caught under a stampede.</stageDirection>
 
-CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP
+<direction>CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP</direction>
 
-THE MOUNTAIN holds THE HOUND against the wall by the throat. THE HOUND punches his brother in the jaw. THE MOUNTAIN responds with a more powerful blow to THE HOUND's jaw. THE HOUND collapses to the ground.
+<stageDirection>THE MOUNTAIN holds THE HOUND against the wall by the throat. THE HOUND punches his brother in the jaw. THE MOUNTAIN responds with a more powerful blow to THE HOUND's jaw. THE HOUND collapses to the ground.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-ARYA continues to struggle and panic.
+<stageDirection>ARYA continues to struggle and panic.</stageDirection>
 
-CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP
+<direction>CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP</direction>
 
-THE MOUNTAIN unleashes on his brother. He picks up THE HOUND, who is barely conscious, by the shirt and hits him again.
+<stageDirection>THE MOUNTAIN unleashes on his brother. He picks up THE HOUND, who is barely conscious, by the shirt and hits him again.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-ARYA continues to struggle and panic, gasping for breath.
+<stageDirection>ARYA continues to struggle and panic, gasping for breath.</stageDirection>
 
-CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP
+<direction>CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP</direction>
 
-THE MOUNTAIN pulls THE HOUND up by the shirt and brings him up to his knees. THE HOUND groans. THE MOUNTAIN lands a powerful downward punch to THE HOUND's face.
+<stageDirection>THE MOUNTAIN pulls THE HOUND up by the shirt and brings him up to his knees. THE HOUND groans. THE MOUNTAIN lands a powerful downward punch to THE HOUND's face.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-ARYA covers her head for protection. She has given up on trying to stand. Suddenly, a helping hand appears.
+<stageDirection>ARYA covers her head for protection. She has given up on trying to stand. Suddenly, a helping hand appears.</stageDirection>
 
-NORA: Take my hand. Take my hand! Get up. Get up.
+<speech><speaker who="NORA" house="">NORA</speaker> Take my hand. Take my hand! Get up. Get up.</speech>
 
-NORA helps ARYA to her feet. VICKY is by her side. DROGON roars overhead. Everyone ducks as DROGON flies past. The buildings around them start to collapse. People start to scatter. ARYA and NORA get torn from one another, swept up in the crowds.
+<stageDirection>NORA helps ARYA to her feet. VICKY is by her side. DROGON roars overhead. Everyone ducks as DROGON flies past. The buildings around them start to collapse. People start to scatter. ARYA and NORA get torn from one another, swept up in the crowds.</stageDirection>
 
-NORA: No. No.
+<speech><speaker who="NORA" house="">NORA</speaker> No. No.</speech>
 
-ARYA: Wait! Wait! No!
+<speech><speaker who="ARYA" house="">ARYA</speaker> Wait! Wait! No!</speech>
 
-ARYA looks back, searching for NORA, but it is futile. She starts to run with the crowd. Buildings along the street continue to collapse.
+<stageDirection>ARYA looks back, searching for NORA, but it is futile. She starts to run with the crowd. Buildings along the street continue to collapse.</stageDirection>
 
-CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP
+<direction>CUT TO: SPIRAL STAIRCASE OF THE TOWER OF THE RED KEEP</direction>
 
-THE MOUNTAIN throws THE HOUND to the ground again. THE HOUND groans. THE MOUNTAIN picks his brother up by the neck and chokes him, slamming him against the wall. THE HOUND gurgles, exhausted and desperate for air. Gagging, THE HOUND tries to gain purchase on THE MOUNTAIN's hands. He shakes and writhes as THE MOUNTAIN pins him to the wall. THE HOUND frees his dagger from his belt and stabs THE MOUNTAIN just above the clavicle. THE MOUNTAIN does not react. THE HOUND stabs again with a grunt. Again, THE MOUNTAIN does not react. THE HOUND then stabs THE MOUNTAIN repeatedly in the torso.
+<stageDirection>THE MOUNTAIN throws THE HOUND to the ground again. THE HOUND groans. THE MOUNTAIN picks his brother up by the neck and chokes him, slamming him against the wall. THE HOUND gurgles, exhausted and desperate for air. Gagging, THE HOUND tries to gain purchase on THE MOUNTAIN's hands. He shakes and writhes as THE MOUNTAIN pins him to the wall. THE HOUND frees his dagger from his belt and stabs THE MOUNTAIN just above the clavicle. THE MOUNTAIN does not react. THE HOUND stabs again with a grunt. Again, THE MOUNTAIN does not react. THE HOUND then stabs THE MOUNTAIN repeatedly in the torso.</stageDirection>
 
-THE HOUND: Fucking die!
+<speech><speaker who="THE HOUND" house="">THE HOUND</speaker> Fucking die!</speech>
 
-THE HOUND stabs THE MOUNTAIN below the neck once more. THE HOUND laughs and chokes at the impossibility of THE MOUNTAIN's stamina. THE MOUNTAIN moves his thumbs atop the HOUND's eyes, presses his hands like a vice around THE HOUND's head, and raises his brother high in the air. He presses his thumbs into THE HOUND's eye sockets. THE HOUND lets out short screams, his feet dangling helplessly. He blindly feels around THE MOUNTAIN's face before plunging his dagger deep into THE MOUNTAIN's left eye, the blade penetrating clean through to the other side. THE MOUNTAIN steps backward and THE HOUND collapses onto the floor. THE MOUNTAIN staggers backward, confused and blinded. THE HOUND coughs and sits upright. THE HOUND growls at his brother and pants. The MOUNTAIN regains his composure and slowly reaches for the hilt of the knife. The HOUND watches in disbelief. The MOUNTAIN starts to tug at the dagger. Screaming, THE HOUND launches himself at his brother. Just as THE MOUNTAIN frees the dagger from his face, THE HOUND tackles him. They crash through the compromised wall behind them. They fall amidst an avalanche of stone down to the raging fire far below and disappear into the conflagration.
+<stageDirection>THE HOUND stabs THE MOUNTAIN below the neck once more. THE HOUND laughs and chokes at the impossibility of THE MOUNTAIN's stamina. THE MOUNTAIN moves his thumbs atop the HOUND's eyes, presses his hands like a vice around THE HOUND's head, and raises his brother high in the air. He presses his thumbs into THE HOUND's eye sockets. THE HOUND lets out short screams, his feet dangling helplessly. He blindly feels around THE MOUNTAIN's face before plunging his dagger deep into THE MOUNTAIN's left eye, the blade penetrating clean through to the other side. THE MOUNTAIN steps backward and THE HOUND collapses onto the floor. THE MOUNTAIN staggers backward, confused and blinded. THE HOUND coughs and sits upright. THE HOUND growls at his brother and pants. The MOUNTAIN regains his composure and slowly reaches for the hilt of the knife. The HOUND watches in disbelief. The MOUNTAIN starts to tug at the dagger. Screaming, THE HOUND launches himself at his brother. Just as THE MOUNTAIN frees the dagger from his face, THE HOUND tackles him. They crash through the compromised wall behind them. They fall amidst an avalanche of stone down to the raging fire far below and disappear into the conflagration.</stageDirection>
 
-CUT TO: THE STARK/LANNISTER BATTLE
+<direction>CUT TO: THE STARK/LANNISTER BATTLE</direction>
 
-The Stark men yell at the Lannister soldiers while the citizens of King's Landing are caught in between. Behind JON, a building explodes from wildfire. The acrid green explosions speckle the burning city. DROGON flies in the distance. JON and DAVOS look at each other across the melee. They have both had enough. JON sheaths his sword.
+<stageDirection>The Stark men yell at the Lannister soldiers while the citizens of King's Landing are caught in between. Behind JON, a building explodes from wildfire. The acrid green explosions speckle the burning city. DROGON flies in the distance. JON and DAVOS look at each other across the melee. They have both had enough. JON sheaths his sword.</stageDirection>
 
-JON: We need to fall back! Fall back behind the wall! Fall back!
+<speech><speaker who="JON" house="Stark">JON</speaker> We need to fall back! Fall back behind the wall! Fall back!</speech>
 
-SOLDIER 1: Fall back!
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Fall back!</speech>
 
-JON grabs a Stark soldier by the collar and forces him to join in the retreat. The Stark men begin to retreat. JON tries to command the civilians as well. One man is buried in a burning avalanche of debris.
+<stageDirection>JON grabs a Stark soldier by the collar and forces him to join in the retreat. The Stark men begin to retreat. JON tries to command the civilians as well. One man is buried in a burning avalanche of debris.</stageDirection>
 
-JON: Get out of the city! Fall back! Fall back! Fall back!
+<speech><speaker who="JON" house="Stark">JON</speaker> Get out of the city! Fall back! Fall back! Fall back!</speech>
 
-The Stark men begin to run. DROGON flies overhead, strafing another street with flame.
+<stageDirection>The Stark men begin to run. DROGON flies overhead, strafing another street with flame.</stageDirection>
 
-SOLDIER 1: Fall back!
+<speech><speaker who="SOLDIER 1" house="">SOLDIER 1</speaker> Fall back!</speech>
 
-The soldiers and the civilians flee while DROGON soars overhead.
+<stageDirection>The soldiers and the civilians flee while DROGON soars overhead.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-ARYA lies unconscious on the ground, covered in a thin layer of ash. Blood from a head wound coats her cheek and has soaked into her tunic. She is awoken by an explosion nearby. She gasps and coughs. People shout in the distance. She pulls herself to her feet as people run past. She staggers and coughs, then stops to clear her lungs. Above her, the stone cracks in the high tower next to her, and begins its collapse. ARYA runs in terror as others around her scream and flee. Huge fragments fall around her, shaking the ground upon impact. ARYA is surrounded by dust.
+<stageDirection>ARYA lies unconscious on the ground, covered in a thin layer of ash. Blood from a head wound coats her cheek and has soaked into her tunic. She is awoken by an explosion nearby. She gasps and coughs. People shout in the distance. She pulls herself to her feet as people run past. She staggers and coughs, then stops to clear her lungs. Above her, the stone cracks in the high tower next to her, and begins its collapse. ARYA runs in terror as others around her scream and flee. Huge fragments fall around her, shaking the ground upon impact. ARYA is surrounded by dust.</stageDirection>
 
-The air clears and ARYA sits against a wall, panting. She calms herself and sees citizens who have also taken shelter there. She moves over to them and takes the hand of the cowering NORA.
+<stageDirection>The air clears and ARYA sits against a wall, panting. She calms herself and sees citizens who have also taken shelter there. She moves over to them and takes the hand of the cowering NORA.</stageDirection>
 
-ARYA: You can't stay here. You have to keep moving.
+<speech><speaker who="ARYA" house="">ARYA</speaker> You can't stay here. You have to keep moving.</speech>
 
-WOMAN 2: We can't go out there.
+<speech><speaker who="WOMAN 2" house="">WOMAN 2</speaker> We can't go out there.</speech>
 
-ARYA: You have to.
+<speech><speaker who="ARYA" house="">ARYA</speaker> You have to.</speech>
 
-WOMAN 2: Everyone out there is dead.
+<speech><speaker who="WOMAN 2" house="">WOMAN 2</speaker> Everyone out there is dead.</speech>
 
-ARYA: If you stay here, you'll die. Follow me.
+<speech><speaker who="ARYA" house="">ARYA</speaker> If you stay here, you'll die. Follow me.</speech>
 
-ARYA pulls up NORA and VICKY.
+<stageDirection>ARYA pulls up NORA and VICKY.</stageDirection>
 
-ARYA: Follow me!
+<speech><speaker who="ARYA" house="">ARYA</speaker> Follow me!</speech>
 
-Others follow them out into the street. Other denizens rush past.
+<stageDirection>Others follow them out into the street. Other denizens rush past.</stageDirection>
 
-MAN 1: Come on, quickly. All of you.
+<speech><speaker who="MAN 1" house="">MAN 1</speaker> Come on, quickly. All of you.</speech>
 
-Dothraki riders appear, and slaughter the men. ARYA leads NORA and VICKY down the street, running. The Dothraki ride past. ARYA is separated from NORA as they dive to opposite sides of the street to avoid a pair of galloping Dothraki.
+<stageDirection>Dothraki riders appear, and slaughter the men. ARYA leads NORA and VICKY down the street, running. The Dothraki ride past. ARYA is separated from NORA as they dive to opposite sides of the street to avoid a pair of galloping Dothraki.</stageDirection>
 
-A woman screams behind her. ARYA scampers back to NORA and VICKY.
+<stageDirection>A woman screams behind her. ARYA scampers back to NORA and VICKY.</stageDirection>
 
-VICKY: Mama! Mama! Mama!
+<speech><speaker who="VICKY" house="">VICKY</speaker> Mama! Mama! Mama!</speech>
 
-ARYA gets to her feet and reaches the NORA and VICKY. NORA lies on the ground.
+<stageDirection>ARYA gets to her feet and reaches the NORA and VICKY. NORA lies on the ground.</stageDirection>
 
-VICKY: No. Mama! Mama! Mama!
+<speech><speaker who="VICKY" house="">VICKY</speaker> No. Mama! Mama! Mama!</speech>
 
-DROGON roars behind them. ARYA helps NORA to her feet. She is in great pain.
+<stageDirection>DROGON roars behind them. ARYA helps NORA to her feet. She is in great pain.</stageDirection>
 
-ARYA: Get up. Get up!
+<speech><speaker who="ARYA" house="">ARYA</speaker> Get up. Get up!</speech>
 
-NORA yells in pain and ARYA grunts as they get her to her feet, her arm draped over ARYA's shoulder. They begin to limp down the street as others run and scatter. DROGON flies behind them.
+<stageDirection>NORA yells in pain and ARYA grunts as they get her to her feet, her arm draped over ARYA's shoulder. They begin to limp down the street as others run and scatter. DROGON flies behind them.</stageDirection>
 
-ARYA: We have to keep moving.
+<speech><speaker who="ARYA" house="">ARYA</speaker> We have to keep moving.</speech>
 
-NORA: Take her. Take her!
+<speech><speaker who="NORA" house="">NORA</speaker> Take her. Take her!</speech>
 
-NORA falls to her knees. ARYA grabs VICKY and pulls her away from her NORA.
+<stageDirection>NORA falls to her knees. ARYA grabs VICKY and pulls her away from her NORA.</stageDirection>
 
-NORA: Take her.
+<speech><speaker who="NORA" house="">NORA</speaker> Take her.</speech>
 
-ARYA: Come on! Come on!
+<speech><speaker who="ARYA" house="">ARYA</speaker> Come on! Come on!</speech>
 
-VICKY fights ARYA and wrestles free. She runs back to her NORA. DROGON floats towards them, and lets forth a burst of flame. ARYA dives into an alley as the NORA and VICKY are incinerated amongst the screams.
+<stageDirection>VICKY fights ARYA and wrestles free. She runs back to her NORA. DROGON floats towards them, and lets forth a burst of flame. ARYA dives into an alley as the NORA and VICKY are incinerated amongst the screams.</stageDirection>
 
-CUT TO: RED KEEP CELLAR
+<direction>CUT TO: RED KEEP CELLAR</direction>
 
-JAIME and CERSEI enter the Red Keep cellar where the dragon skulls are stored. Sounds of destruction echo through the chamber.
+<stageDirection>JAIME and CERSEI enter the Red Keep cellar where the dragon skulls are stored. Sounds of destruction echo through the chamber.</stageDirection>
 
-JAIME: This way.
+<speech><speaker who="JAIME" house="">JAIME</speaker> This way.</speech>
 
-The tunnel JAIME intended to use has collapsed and is impassable. He looks for another way out, but the other tunnels are similarly blocked. CERSEI watches as he tries to climb the debris in front of one of the tunnel entrances. She appears shell-shocked.
+<stageDirection>The tunnel JAIME intended to use has collapsed and is impassable. He looks for another way out, but the other tunnels are similarly blocked. CERSEI watches as he tries to climb the debris in front of one of the tunnel entrances. She appears shell-shocked.</stageDirection>
 
-CERSEI: I want our baby to live. I want our baby to live. I want our baby to live.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> I want our baby to live. I want our baby to live. I want our baby to live.</speech>
 
-JAIME returns to her.
+<stageDirection>JAIME returns to her.</stageDirection>
 
-CERSEI: Don't let me die, Jaime. Please don't let me die.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> Don't let me die, Jaime. Please don't let me die.</speech>
 
-JAIME embraces CERSEI. She weeps. Part of the cavern collapses.
+<stageDirection>JAIME embraces CERSEI. She weeps. Part of the cavern collapses.</stageDirection>
 
-JAIME: It's all right.
+<speech><speaker who="JAIME" house="">JAIME</speaker> It's all right.</speech>
 
-CERSEI: Please don't let me die.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> Please don't let me die.</speech>
 
-JAIME: It's all right.
+<speech><speaker who="JAIME" house="">JAIME</speaker> It's all right.</speech>
 
-CERSEI: I don't want to die.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> I don't want to die.</speech>
 
-A large chunk of ceiling falls behind them.
+<stageDirection>A large chunk of ceiling falls behind them.</stageDirection>
 
-JAIME: Just look- Look at me. Look at me.
+<speech><speaker who="JAIME" house="">JAIME</speaker> Just look- Look at me. Look at me.</speech>
 
-CERSEI: Not like this. Not like this. Not like this.
+<speech><speaker who="CERSEI" house="">CERSEI</speaker> Not like this. Not like this. Not like this.</speech>
 
-JAIME: Look- Look- Look me in the eye. Don't look away. Don't look- Look at me! Just look at me.
+<speech><speaker who="JAIME" house="">JAIME</speaker> Look- Look- Look me in the eye. Don't look away. Don't look- Look at me! Just look at me.</speech>
 
-CERSEI looks at him. She fights back her tears.
+<stageDirection>CERSEI looks at him. She fights back her tears.</stageDirection>
 
-JAIME: Nothing else matters. Nothing else matters. Only us.
+<speech><speaker who="JAIME" house="">JAIME</speaker> Nothing else matters. Nothing else matters. Only us.</speech>
 
-They caress one another. CERSEI focuses on JAIME. He nods in encouragement. They gather in a tight embrace. Behind them, the cavern begins its final collapse. The ceiling gives way in a wave of destruction that envelopes them, and they are gone.
+<stageDirection>They caress one another. CERSEI focuses on JAIME. He nods in encouragement. They gather in a tight embrace. Behind them, the cavern begins its final collapse. The ceiling gives way in a wave of destruction that envelopes them, and they are gone.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-It is quiet. Smoke and huge flakes of ash waft though the air. ARYA sits quivering beside a blackened wall. She stands shakily and starts putting one foot in front of the other. She walks through the decimated streets. Fires burn everywhere. The street is littered with blackened bodies. ARYA sees the corpses of NORA and VICKY, embracing in death. She looks down the street, and sees a white horse, improbable as it is. She approaches slowly and gently takes its reins. She calms the horse.
+<stageDirection>It is quiet. Smoke and huge flakes of ash waft though the air. ARYA sits quivering beside a blackened wall. She stands shakily and starts putting one foot in front of the other. She walks through the decimated streets. Fires burn everywhere. The street is littered with blackened bodies. ARYA sees the corpses of NORA and VICKY, embracing in death. She looks down the street, and sees a white horse, improbable as it is. She approaches slowly and gently takes its reins. She calms the horse.</stageDirection>
 
-CUT TO: THE STREETS OF KING'S LANDING
+<direction>CUT TO: THE STREETS OF KING'S LANDING</direction>
 
-ARYA rides the galloping horse down the length of the street, fires burning on each side.
+<stageDirection>ARYA rides the galloping horse down the length of the street, fires burning on each side.</stageDirection>
+
 </Ep5>
