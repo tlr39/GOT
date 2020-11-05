@@ -1,0 +1,11 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+
+start= Ep1
+Ep1= element Ep1 {stageDirection+| direction+| speech+| speaker+}
+stageDirection= element stageDirection {text+}
+direction= element direction {text+}
+speech= element speech {speaker+|text+}
+speaker= element speaker {text+| who| house}
+who= attribute who {"JON"|"SANSA"|"ARYA"|"BRAN"|"CERSEI"|"TYRION"|"THEON"|"YARA"|"EURON"|"JORAH"|"DAVOS"|"SAMWELL"|"VARYS"|"UMBER"|"BRONN"|"EDD"|"DAENERYS"|"MAESTER WOLKAN"|"WOLKAN"|"LYANNA"|"MAN"|"GENDRY"|"MAN 1"|"MAN 2 (O.S.)"|"GENDRY (O.S.)"|"ROYCE"|"ARYA (O.S.)"|"QYBURN"|"HARRY"|"DIRAH"|"CRAYAH"|"MAREI"|"QYBURN (O.S.)"|"YARA (O.S.)"|"DOTHRAKI MAN #1"|"MAN 2"|"SANDOR"|"TORMUND"}
+house= attribute house {"Stark"| "Lannister"| "Dondarrion"| "Tollett"|"Giantsbane"|"Umber"|"Tarly"|"Targaryen"|"Mormont"|"Baratheon"|"Clegane"|"Seaworth"|"Bolton"|"Greyjoy"|"Stokeworth"|"Strickland"|"Royce"}
