@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ep3>
-INT: WINTERFELL PASSAGEWAY, NIGHT
+    <int> INT: WINTERFELL PASSAGEWAY, NIGHT </int>
 
 SAM shivers and rubs his hands as the wind whistles.
 
@@ -40,11 +40,11 @@ SAM walks past TYRION, then exits.
 
 TYRION walks somberly through the busy courtyard. He picks up a bag and slings it over his shoulder. BRAN rolls by, pushed by THEON and accompanied by ALYS KARSTARK and some northern soldiers. They walk through the courtyard on their way to the godswood.
 
-CUT TO: THE RAMPARTS
+    <cut>CUT TO: THE RAMPARTS</cut>
 
 Warmed by their fires, men stand in anticipation, eyes scanning the darkness. DAVOS delivers a bucket of arrows. SANSA and ARYA stare into the darkness. SANSA looks worried. Her eyes turn upwards in response to DROGON's screech. DROGON and RHAEGAL fly overhead.
 
-CUT TO: OUTSIDE THE WALLS
+<cut> CUT TO: OUTSIDE THE WALLS</cut>
 
 A company of Unsullied warriors double march to join the formation. The entire Unsullied company stands at attention in disciplined rows and columns. Ahead of them stands a line of catapults, with stones and braziers by their sides. In front of the siege weapons, the entire Dothraki horde is mounted and waiting, swords drawn.
 
@@ -54,15 +54,15 @@ The Northmen also stand at the ready, fronted by JAIME and BRIENNE. GREY WORM st
 
 Horses snort and whinny. A mounted JORAH waits, seasoned and determined, yet also nervous. GHOST stands nearby. The wind blows and the darkness reveals nothing.
 
-CUT TO: A NEARBY MOUNTAINTOP
+    <cut> CUT TO: A NEARBY MOUNTAINTOP</cut>
 
 JON walks by DROGON and RHAEGAL. They growl. He joins DAENERYS to survey the great army that waits before Winterfell. The moon shines through the clouds above.
 
-CUT TO: THE RAMPARTS
+    <cut> CUT TO: THE RAMPARTS </cut>
 
 ARYA and SANSA look out. The wind whistles. A lone rider approaches slowly amidst the darkness, catching the eye of DAVOS. He strains to see.
 
-CUT TO: OUTSIDE THE WALLS
+    <cut> CUT TO: OUTSIDE THE WALLS </cut>
 
 The rider is MELISANDRE. She silently leads her mount to stop in front of JORAH. She looks at the Dothraki.
 <speaker who="Melisandre">MELISANDRE:</speaker> Do you speak their tongue?
@@ -78,11 +78,11 @@ The Dothraki respond by raising their weapons. JORAH returns his apprehensive ga
 
 The blade she holds ignites in flame. Quickly, the other raised weapons blaze with flame as well, surprising the Dothraki who hold them. They yell in celebration of the magic.
 
-CUT TO: THE RAMPARTS
+    <cut> CUT TO: THE RAMPARTS </cut>
 
 ARYA and SANSA look on in amazement. The flames travel in a wave through the entire Dothraki force, lighting up the night. DAVOS watches, cautiously.
 
-CUT TO: OUTSIDE THE WALLS
+    <cut> CUT TO: OUTSIDE THE WALLS </cut>
 
 BRIENNE, GREY WORM, TORMUND, BERIC, SAM and EDDISON marvel at the sea of fire and the cheers of the Dothraki.
 
@@ -90,7 +90,7 @@ JORAH nods in approval to MELISANDRE. She rides quietly past the Dothraki force,
 <speaker who="Melisandre">MELISANDRE:</speaker> Valar morghulis.
 <speaker who="Grey_Worm">GREY WORM:</speaker> Valar dohaeris.
 
-CUT TO: THE RAMPARTS
+    <cut> CUT TO: THE RAMPARTS </cut>
 
 DAVOS watches as MELISANDRE turns again and heads towards the gates of Winterfell. He is not pleased to see her again.
 <speaker who="Davos_Seaworth">DAVOS SEAWORTH:</speaker> Open the gate!
