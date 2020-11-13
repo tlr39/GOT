@@ -1,5 +1,5 @@
 <?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
-<Ep>
+<Ep n="3">
 <direction>INT: WINTERFELL PASSAGEWAY, NIGHT</direction>
 
 <stageDirection>SAM shivers and rubs his hands as the wind whistles.</stageDirection>

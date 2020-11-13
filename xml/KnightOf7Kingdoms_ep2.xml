@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
-<Ep>
+<Ep n="2">
 <stageDirection>EPISODE 2 - A KNIGHT OF THE SEVEN KINGDOMS</stageDirection>
 
 <stageDirection>TITLE SEQUENCE</stageDirection>

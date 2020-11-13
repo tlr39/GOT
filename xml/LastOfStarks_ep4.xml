@@ -1,5 +1,5 @@
 <?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
-<Ep>
+<Ep n="4">
 <direction>EXT: WINTERFELL, DAY</direction>
 
 <stageDirection>JORAH MORMONT's body lies on an unlit funeral pyre. DAENERYS TARGARYEN mourns over his prone body. She leans down and kisses him gently on the forehead. She then whispers something in his ear.</stageDirection>
