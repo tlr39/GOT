@@ -30,22 +30,26 @@
                     <xsl:variable name="ypos-j" select="count(descendant::speaker[@who = 'JON']) * 6"/>
                     <xsl:variable name="ypos-d" select="count(descendant::speaker[@who='DAENERYS']) * 6"/>
                     
-                    <circle cx="{$xpos}" cy="-{$ypos-j}" r="6" fill="red" fill-opacity="0.5" stroke="black"/>
-                    <circle cx="{$xpos}" cy="-{$ypos-d}" r="6" fill="blue" fill-opacity="0.5" stroke="black"/>
+                    <!-- amp: Datapoints for Jon -->
+                    <circle cx="{$xpos}" cy="-{$ypos-j}" r="8" fill="#800000"  stroke="black"/>
+                    <!-- amp: Datapoints for Daenerys -->
+                    <circle cx="{$xpos}" cy="-{$ypos-d}" r="8" fill="#20B2AA"  stroke="black"/>
                     
+                    <!-- amp: Point labels for Jon -->
                     <text x="{$xpos - 25}" y="{-$ypos-j}">
                         <xsl:value-of select="count(descendant::speaker[@who = 'JON'])"/>
                     </text> 
+                    <!-- amp: Point labels for Daenerys -->
                     <text x="{$xpos - 25}" y="{-$ypos-d}">
                         <xsl:value-of select="count(descendant::speaker[@who='DAENERYS'])"/>
                     </text>
-                  <xsl:if test="Ep[@n and not(@n='6')]">
-                      <xsl:variable name="xposNext" select="$xpos + 1"/>
-                      <xsl:variable name="yposNext-j" select="count(following-sibling::Ep[1]/speaker[@who='JON']) * 6"/>
-                      <xsl:variable name="yposNext-d" select="count(following-sibling::Ep[1]/speaker[@who='DAENERYS']) * 6"/>
-                      <line x1="{$xpos}" y1="{$ypos-j}" x2="{$xposNext}" y2="{$yposNext-j}" stroke="black" stroke-width="2"/>
-                  </xsl:if>
-                </xsl:for-each>                
+                    <!-- amp: X-Axis Labels -->
+                    <text x="{$xpos}" y="20" text-anchor="middle">Ep. <xsl:value-of select="@n"/></text>
+                </xsl:for-each>
+                <circle cx="800" cy="-205" r="8" fill="#800000" stroke="black"/>
+                <circle cx="800" cy="-245" r="8" fill="#20B2AA" stroke="black"/>
+<text x="820" y="-205" text-anchor="start">= Jon's Speeches</text>
+<text x="820" y="-245" text-anchor="start">= Daenerys's Speeches</text>                
             </g>
         </svg>
     </xsl:template>
