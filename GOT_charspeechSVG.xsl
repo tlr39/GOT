@@ -39,7 +39,12 @@
                     <text x="{$xpos - 25}" y="{-$ypos-d}">
                         <xsl:value-of select="count(descendant::speaker[@who='DAENERYS'])"/>
                     </text>
-                  
+                  <xsl:if test="Ep[@n and not(@n='6')]">
+                      <xsl:variable name="xposNext" select="$xpos + 1"/>
+                      <xsl:variable name="yposNext-j" select="count(following-sibling::Ep[1]/speaker[@who='JON']) * 6"/>
+                      <xsl:variable name="yposNext-d" select="count(following-sibling::Ep[1]/speaker[@who='DAENERYS']) * 6"/>
+                      <line x1="{$xpos}" y1="{$ypos-j}" x2="{$xposNext}" y2="{$yposNext-j}" stroke="black" stroke-width="2"/>
+                  </xsl:if>
                 </xsl:for-each>                
             </g>
         </svg>
