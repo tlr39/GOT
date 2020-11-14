@@ -45,6 +45,15 @@
                     </text>
                     <!-- amp: X-Axis Labels -->
                     <text x="{$xpos}" y="20" text-anchor="middle">Ep. <xsl:value-of select="@n"/></text>
+                    
+                    <xsl:if test="following::Ep">
+                        <xsl:variable name="xposNext" select="(position() + 1) * $interval"/>
+                        <xsl:variable name="yposNext-j" select="count(following::Ep//speaker[@who='JON'])"/>
+                        <xsl:variable name="yposNext-d" select="count(following::Ep//speaker[@who='DAENERYS'])"/>
+                        
+                        <line x1="{$xpos}" y1="{$ypos-j}" x2="{$xposNext}" y2="{$yposNext-j}" stroke="black" stroke-width="2"/>
+                        <line x1="{$xpos}" y1="{$ypos-d}" x2="{$xposNext}" y2="{$yposNext-d}" stroke="black" stroke-width="2"/>
+                    </xsl:if>
                 </xsl:for-each>
                 <circle cx="800" cy="-205" r="8" fill="#800000" stroke="black"/>
                 <circle cx="800" cy="-245" r="8" fill="#20B2AA" stroke="black"/>
