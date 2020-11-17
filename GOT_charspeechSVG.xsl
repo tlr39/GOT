@@ -31,9 +31,9 @@
                     <xsl:variable name="ypos-d" select="count(descendant::speaker[@who='DAENERYS']) * 6"/>
                     
                     <!-- amp: Datapoints for Jon -->
-                    <circle cx="{$xpos}" cy="-{$ypos-j}" r="8" fill="#800000"  stroke="black"/>
+                    <circle cx="{$xpos}" cy="-{$ypos-j}" r="8" fill="#800000"  stroke="black" opacity="0.75"/>
                     <!-- amp: Datapoints for Daenerys -->
-                    <circle cx="{$xpos}" cy="-{$ypos-d}" r="8" fill="#20B2AA"  stroke="black"/>
+                    <circle cx="{$xpos}" cy="-{$ypos-d}" r="8" fill="#20B2AA"  stroke="black" opacity="0.75"/>
                     
                     <!-- amp: Point labels for Jon -->
                     <text x="{$xpos - 25}" y="{-$ypos-j}">
@@ -46,14 +46,18 @@
                     <!-- amp: X-Axis Labels -->
                     <text x="{$xpos}" y="20" text-anchor="middle">Ep. <xsl:value-of select="@n"/></text>
                     
-                    <xsl:if test="following::Ep">
+                    
+                    <!-- amp: Connecting Lines -->    
+                    <xsl:if test="$gotColl//Ep[@n gt current()/@n]">
                         <xsl:variable name="xposNext" select="(position() + 1) * $interval"/>
-                        <xsl:variable name="yposNext-j" select="count(following::Ep//speaker[@who='JON'])"/>
-                        <xsl:variable name="yposNext-d" select="count(following::Ep//speaker[@who='DAENERYS'])"/>
+                    <xsl:variable name="yposNext-j" select="count($gotColl//Ep[@n = current()/@n + 1]//speaker[@who='JON']) * 6"/>
+                    <xsl:variable name="yposNext-d" select="count($gotColl//Ep[@n = current()/@n + 1]//speaker[@who='DAENERYS']) * 6"/>
                         
-                        <line x1="{$xpos}" y1="{$ypos-j}" x2="{$xposNext}" y2="{$yposNext-j}" stroke="black" stroke-width="2"/>
-                        <line x1="{$xpos}" y1="{$ypos-d}" x2="{$xposNext}" y2="{$yposNext-d}" stroke="black" stroke-width="2"/>
+                        <line x1="{$xpos}" y1="-{$ypos-j}" x2="{$xposNext}" y2="-{$yposNext-j}" stroke="black" stroke-width="3"/>
+                        <line x1="{$xpos}" y1="-{$ypos-d}" x2="{$xposNext}" y2="-{$yposNext-d}" stroke="black" stroke-width="3"/>
                     </xsl:if>
+                        
+                    
                 </xsl:for-each>
                 <circle cx="800" cy="-205" r="8" fill="#800000" stroke="black"/>
                 <circle cx="800" cy="-245" r="8" fill="#20B2AA" stroke="black"/>
