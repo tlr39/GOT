@@ -1,4 +1,6 @@
-<Ep3>
+<?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
+<Ep>
+<title>EPISODE 3 - THE LONG NIGHT</title>
 <direction>INT: WINTERFELL PASSAGEWAY, NIGHT</direction>
 
 <stageDirection>SAM shivers and rubs his hands as the wind whistles.</stageDirection>
@@ -264,7 +266,7 @@
 
 <stageDirection>A wight leaps through the air and wraps himself around JAIME. The Kingslayer tries to shake him off. Another wight tackles TORMUND. SAM shouts and slays an undead fighter. EDD circles behind him, but is taken down be a leaping wight.</stageDirection>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> Edd! Edd!</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> Edd! Edd!</speech>
 
 <stageDirection>Another wight tackles SAM before he can help his friend, pinning him to the ground on his back. SAM fights with all he has to stop the undead's blade from forcing into his skull. EDD saves SAM by stabbing the wight through the back. SAM whimpers, and his sense slow as exhaustion takes over.</stageDirection>
 
@@ -1097,4 +1099,4 @@
 <direction>CUT TO: THE GATE</direction>
 
 <stageDirection>The HOUND comes out of the darkened doorway, followed by MELISANDRE. The HOUND stops, bent over in relief, but MELISANDRE continues, walking out the gate and down a snowy aisle flanked by piles of the dead. DAVOS appears at the gate and watches her walk towards the snowy field beyond. As she walks, she first sheds her red cloak, then her metal choker. Her gait becomes unsteady and her hair turns from red to white. Her dress slides off her shoulders as she shrinks, aging countless years in seconds. She gives off a cloud of dust as she collapses into an emaciated and lifeless pile.</stageDirection>
-</Ep3>
+</Ep>

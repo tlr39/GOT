@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Ep6>
+<?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
+<Ep>
+<title>EPISODE 6 - THE IRON THRONE</title>
 <direction>EXT: THE RUINS OF KING'S LANDING, DAY</direction>
 
 <stageDirection>TYRION LANNISTER walks silently through the smoldering desolation of King's Landing as soldiers mill in the distance. Everything is covered in filthy soot and small fires continue to burn. His eyes looks skyward as his memories replay. Flakes of ash float in the air. He passes piles of brick and broken beams, and small fires that speckle the devastation. He passes the prone body of a blond girl, the first of many charred and incinerated corpses. He does not pause.</stageDirection>
@@ -423,11 +425,11 @@
 
 <stageDirection>SAM clears his throat to get everyone's attention.</stageDirection>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> Why just us?</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> Why just us?</speech>
 
 <stageDirection>SAM stands.</stageDirection>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> Um- We represent all the great houses, but whomever we choose, they won't just rule over lords and ladies. Maybe the decision about what's best for everyone should be left to well, everyone.</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> Um- We represent all the great houses, but whomever we choose, they won't just rule over lords and ladies. Maybe the decision about what's best for everyone should be left to well, everyone.</speech>
 
 <stageDirection>Those gather ponder SAM's suggestion. YOHN ROYCE bursts out laughing, and others follow.</stageDirection>
 
@@ -479,7 +481,7 @@
 
 <stageDirection>There is a moment of heavy silence while the rest of the council considers. TYRION starts to glance around nervously, awaiting the first response.</stageDirection>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> Aye.</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> Aye.</speech>
 
 <stageDirection>SAM nods encouragingly at TYRION, who nods gratefully in return.</stageDirection>
 
@@ -657,13 +659,13 @@
 
 <speech><speaker who="TYRION" house="Lannister">TYRION</speaker> What's this?</speech>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> A Song of Ice and Fire. Archmaester Ebrose's history of the wars following the death of King Robert. I helped him with the title.</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> A Song of Ice and Fire. Archmaester Ebrose's history of the wars following the death of King Robert. I helped him with the title.</speech>
 
 <stageDirection>TYRION starts to flip through the pages.</stageDirection>
 
 <speech><speaker who="TYRION" house="Lannister">TYRION</speaker> I suppose I come in for some heavy criticism.</speech>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> Oh, I wouldn't say that.</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> Oh, I wouldn't say that.</speech>
 
 <speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Oh, he's kind to me. Never would've guessed.</speech>
 
@@ -671,11 +673,11 @@
 
 <speech><speaker who="TYRION" house="Lannister">TYRION</speaker> He's not kind?</speech>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> He-</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> He-</speech>
 
 <speech><speaker who="TYRION" house="Lannister">TYRION</speaker> He what? What does he say about me?</speech>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> I don't believe you're mentioned, ahem.</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> I don't believe you're mentioned, ahem.</speech>
 
 <stageDirection>TYRION cannot believe it. BRONN smirks. TYRION pushes the book aside as the door opens. They stand as BRAN enters, his chair pushed by BRIENNE, now captain of the Kingsguard.</stageDirection>
 
@@ -685,7 +687,7 @@
 
 <speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> Your Grace.</speech>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> Your Grace.</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> Your Grace.</speech>
 
 <stageDirection>BRIENNE places BRAN at the other head of the table. TYRION sits, and the others follow his lead. They look to BRAN.</stageDirection>
 
@@ -695,7 +697,7 @@
 
 <speech><speaker who="BRAN" house="Stark">BRAN</speaker> And Drogon? Any word?</speech>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> He was last spotted flying east, toward-</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> He was last spotted flying east, toward-</speech>
 
 <speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> The farther away, the better.</speech>
 
@@ -709,7 +711,7 @@
 
 <speech><speaker who="TYRION" house="Lannister">TYRION</speaker> (clearing his throat) We serve at your pleasure, King Bran the Broken, ruler of the Six Kingdoms and Protector of the Realm. Long may he reign.</speech>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> Long may he reign.</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> Long may he reign.</speech>
 
 <speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> Long may he reign.</speech>
 
@@ -745,7 +747,7 @@
 
 <speech><speaker who="TYRION" house="Lannister">TYRION</speaker> Grandmaester, ahem, it is my theory, based on my years of work on the Casterly Rock sewers, that clean water leads to a healthier population.</speech>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> The Archmaester has done some research on this subject and it turns out-</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> The Archmaester has done some research on this subject and it turns out-</speech>
 
 <speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> The strong live and the weak don't.</speech>
 
@@ -753,7 +755,7 @@
 
 <speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> Oh, speaking of builders, all the best brothels burned down. The Master of Coin is willing to fund reconstruction.</speech>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> Uh... the Archmaester is less than enthusiastic about the salutary effects of brothels.</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> Uh... the Archmaester is less than enthusiastic about the salutary effects of brothels.</speech>
 
 <speech><speaker who="BRONN" house="Stokeworth">BRONN</speaker> Well, I imagine he isn't using them properly.</speech>
 
@@ -862,4 +864,4 @@
 <direction>CUT TO: CASTLE BLACK</direction>
 
 <stageDirection>JON rides through the tunnel with TORMUND behind him. GHOST reaches the other side of the Wall first. The Free Folk follow behind them. They move out into the snowy landscape, and the Free Folk chatter happily as they walk. JON stops and looks back as the external gate closes. He glances around at the Free Folk around him and begins moving again. They reach the first expanse of woods, and continue northward.</stageDirection>
-</Ep6>
+</Ep>

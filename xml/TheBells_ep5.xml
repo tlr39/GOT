@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<Ep5>
+<?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
+<Ep>
+<title>EPISODE 5 - THE BELLS</title>
 <direction>INT: DRAGONSTONE, VARYS'S CHAMBERS</direction>
 
 <stageDirection>VARYS sits at an ornate desk, writing a letter about JON SNOW's true heritage. Only partially visible, it includes the phrases, "... is not the only Targaryen left, Rhaegar and Lyanna ..." and " ... their son lives still, hidden by Eddard Stark ... " and " ... he is the true heir to the Iron Throne ...". There is an knock on the door. VARYS discretely hides what he has been writing.</stageDirection>
@@ -1347,4 +1348,4 @@
 
 <stageDirection>ARYA rides the galloping horse down the length of the street, fires burning on each side.</stageDirection>
 
-</Ep5>
+</Ep>

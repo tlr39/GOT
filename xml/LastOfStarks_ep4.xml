@@ -1,9 +1,11 @@
-<Ep4>
+<?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
+<Ep>
+<title>EPISODE 4 - LAST OF THE STARKS</title>
 <direction>EXT: WINTERFELL, DAY</direction>
 
 <stageDirection>JORAH MORMONT's body lies on an unlit funeral pyre. DAENERYS TARGARYEN mourns over his prone body. She leans down and kisses him gently on the forehead. She then whispers something in his ear.</stageDirection>
 
-<stageDirection>SANSA STARK weeps over THEON GREYJOYâ€™s dead body, her hand on his chest. She steps back, takes a Stark direwolf pin from her chest, and secures it on THEON's.</stageDirection>
+<stageDirection>SANSA STARK weeps over THEON GREYJOY's dead body, her hand on his chest. She steps back, takes a Stark direwolf pin from her chest, and secures it on THEON's.</stageDirection>
 
 <stageDirection>JON SNOW, ARYA STARK, SAMWELL TARLY, and BRAN STARK stand amidst the Stark men, some of whom bear torches. DAENERYS joins the crowd a bit further down, next to GREY WORM, VARYS, MISSANDEI, and TYRION LANNISTER. In front of the crowd are scores of funeral pyres in a grid. Stark soldiers stand at intervals with more torches. SANSA returns to the somber crowd, joining her siblings. Even GHOST stands obediently in mourning. JON steps forward to address those assembled.</stageDirection>
 
@@ -21,7 +23,7 @@
 
 <speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Have you seen Arya?</speech>
 
-<speech><speaker who="THE HOUND" house="Clegane">THE HOUND</speaker> You can still smell the burning bodies, and thatâ€™s where your head is at.</speech>
+<speech><speaker who="THE HOUND" house="Clegane">THE HOUND</speaker> You can still smell the burning bodies, and that's where your head is at.</speech>
 
 <speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I just want to thank her for-</speech>
  
@@ -44,7 +46,7 @@
 
 <speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Yes, Your Grace.</speech>
 
-<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Youâ€™re Robert Baratheonâ€™s son.</speech>
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> You're Robert Baratheon's son.</speech>
 
 <speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> (nods)</speech>
 
@@ -55,7 +57,7 @@
 
 <speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Yes, he's dead. His brothers are too. So who's Lord of Storm's End now?</speech>
 
-<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I donâ€™t know, Your Grace.</speech>
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I don't know, Your Grace.</speech>
 
 <speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Does anyone?</speech>
 
@@ -100,7 +102,7 @@
 
 <stageDirection>TYRION; A fitting reward for a hero.</stageDirection>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> (to GENDRY) Uh, hold on.</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> (to GENDRY) Uh, hold on.</speech>
 
 <speech><speaker who="TYRION" house="Lannister">TYRION</speaker> And a Lord of Storm's End who will be forever loyal to you.</speech>
 
@@ -1023,15 +1025,15 @@ TORMUND, confessional and teary, pours his heart out to THE HOUND.
 
 <stageDirection>TORMUND exits. JON walks to meet SAM and GILLY. JON gives GILLY a hug, and is surprised by her baby bump. She looks at her belly, smiling. SAM nods to confirm that she is pregnant.</stageDirection>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> Yes, well, the nights have been getting longer and there wasn't that much to do in Oldtown. There's only so many books a person can read, so we-</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> Yes, well, the nights have been getting longer and there wasn't that much to do in Oldtown. There's only so many books a person can read, so we-</speech>
 
-<speech><speaker who="GILLY" >GILLY</speaker> I'm sure he knows how it happens, Sam. If it's a boy, we want to name him Jon.</speech>
+<speech><speaker who="GILLY" house="Craster" >GILLY</speaker> I'm sure he knows how it happens, Sam. If it's a boy, we want to name him Jon.</speech>
 
 <speech><speaker who="JON" house="Stark">JON</speaker> I hope it's a girl.</speech>
 
 <stageDirection>JON and SAM hug, both of them holding back tears.</stageDirection>
 
-<speech><speaker who="SAM" house="Tarley">SAM</speaker> You're the best friend I ever had.</speech>
+<speech><speaker who="SAM" house="Tarly">SAM</speaker> You're the best friend I ever had.</speech>
 
 <speech><speaker who="JON" house="Stark">JON</speaker> You too, Sam.</speech>
 
@@ -1404,4 +1406,4 @@ TORMUND, confessional and teary, pours his heart out to THE HOUND.
 <stageDirection>Horror and disbelief shows on the faces of DAENERYS and GREY WORM. TYRION mouths "No". CERSEI smiles cruelly. She looks to THE MOUNTAIN, who steps forward, drawing his great sword. He slices through MISSANDEI's neck in one sweeping cut. Her head and body fall from the top of the gate to the ground below. GREY WORM turns away, unable to watch. His face twitches and he breathes raggedly.</stageDirection>
 
 <stageDirection>Atop the wall, CERSEI looks down, satisfied. EURON looks pleased. TYRION turns around, dejected. He looks at DAENERYS, who struggles to contain her anger. TYRION knows he has failed her. CERSEI savors her cruel moment. DAENERYS fumes and boils with fury as she walks away through the Unsullied.</stageDirection>
-</Ep4>
+</Ep>

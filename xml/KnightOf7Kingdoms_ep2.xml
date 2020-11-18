@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Ep2>
-<stageDirection>EPISODE 2 - A KNIGHT OF THE SEVEN KINGDOMS</stageDirection>
+<?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
+<Ep>
+<title>EPISODE 2 - A KNIGHT OF THE SEVEN KINGDOMS</title>
 
 <stageDirection>TITLE SEQUENCE</stageDirection>
 <direction>INT. WINTERFELL - DAY</direction>
@@ -290,7 +291,7 @@
 
 <speech><speaker who="TYRION" house="Lannister">TYRION</speaker> So we're going to die at Winterfell. Not the death I would've chosen. I always pictured myself dying in my own bed, the age of 80, with a belly full of wine and-</speech>
 
-<speech><speaker who="BOTH" house="">BOTH</speaker> A girl's mouth around-</speech>
+<speech><speaker who="BOTH" >BOTH</speaker> A girl's mouth around-</speech>
 
 <speech><speaker who="JAIME" house="Lannister">JAIME</speaker> Your cock.</speech>
 
@@ -476,7 +477,7 @@
 
 <stageDirection>DAENERYS removes her hand and looks away from SANSA. MAESTER WOLKAN enters the library.</stageDirection>
 
-<speech><speaker who="WOLKAN" house="">WOLKAN</speaker> Apologies, my lady. Your Grace.</speech>
+<speech><speaker who="WOLKAN" >WOLKAN</speaker> Apologies, my lady. Your Grace.</speech>
 
 <stageDirection>DAENERYS turns in her seat, agitated.</stageDirection>
 
@@ -504,11 +505,11 @@
 
 <stageDirection>Many Northerners wait in line to be served food. DAVOS is filling the bowls.</stageDirection>
 
-<speech><speaker who="MAN" house="">MAN</speaker> Milord, we're not soldiers.</speech>
+<speech><speaker who="MAN" >MAN</speaker> Milord, we're not soldiers.</speech>
 
 <speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> You are now. Look, I made it through most of my years without ever getting near a fight, but then I survived the Battle of the Bastards. Right outside these walls. If I can live through that, you can live through this. They'll outfit you with weapons at the forge. Right that way.</speech>
 
-<speech><speaker who="MAN" house="">MAN</speaker> Thank you.</speech>
+<speech><speaker who="MAN" >MAN</speaker> Thank you.</speech>
 
 <stageDirection>He nods towards DAVOS and walks off with his bowl.</stageDirection>
 
@@ -518,21 +519,21 @@
 
 <speech><speaker who="GILLY" house="Craster">GILLY</speaker> They're the safest place to be. Through that archway right over there.</speech>
 
-<speech><speaker who="WOMAN" house="">WOMAN</speaker> Thank you.</speech>
+<speech><speaker who="WOMAN" >WOMAN</speaker> Thank you.</speech>
 
 <stageDirection>TEELA, a young girl, walks up to where the food is being served and holds her bowl up. DAVOS has his back turned.</stageDirection>
 
-<speech><speaker who="TEELA" house="">TEELA</speaker> Which way should I go?</speech>
+<speech><speaker who="TEELA" >TEELA</speaker> Which way should I go?</speech>
 
 <stageDirection>DAVOS turns back around and looks at her.</stageDirection>
 
 <speech><speaker who="DAVOS" house="Seaworth">DAVOS</speaker> Which way do you want to go?</speech>
 
-<speech><speaker who="TEELA" house="">TEELA</speaker> All the children will be going below when the time comes.</speech>
+<speech><speaker who="TEELA" >TEELA</speaker> All the children will be going below when the time comes.</speech>
 
 <stageDirection>GILLY overhears the conversation and starts to walk over.</stageDirection>
 
-<speech><speaker who="TEELA" house="">TEELA</speaker> But both me brothers were soldiers. I want to fight too.</speech>
+<speech><speaker who="TEELA" >TEELA</speaker> But both me brothers were soldiers. I want to fight too.</speech>
 
 <stageDirection>DAVOS takes her bowl and fills it up as GILLY sits down next to her.</stageDirection>
 
@@ -542,7 +543,7 @@
 
 <stageDirection>He hands her bowl back to her.</stageDirection>
 
-<speech><speaker who="TEELA" house="">TEELA</speaker> All right. I'll defend the crypt, then.</speech>
+<speech><speaker who="TEELA" >TEELA</speaker> All right. I'll defend the crypt, then.</speech>
 
 <stageDirection>TEELA walks off and DAVOS smiles at GILLY. A horn is then blared and the gates are opened as the remaining members of the nights watch return with TORMUND GIANTSBANE and BERIC DONDARRION. SAMWELL TARLY greets DOLOROUS EDD who has just returned. JON sees them and quickly heads over. Before he can embrace EDD, TORMUND hugs him first.</stageDirection>
 
@@ -579,25 +580,25 @@
 
 <stageDirection>Northern soldiers jog around the walls of Winterfell</stageDirection>
 
-<speech><speaker who="JON (V.O.)" house="Stark">JON (V.O.)</speaker> They're coming.</speech>
+<speech><speaker who="JON" house="Stark">JON</speaker> They're coming.</speech>
 
 <direction>CUT TO: WINTERFELL - COURTYARD</direction>
 
 <stageDirection>Men are removing dragonglass weapons from carriages and handing to soldier. The camera pans and GENDRY lifts a dragonglass axe up and hands it to a man.</stageDirection>
 
-<speech><speaker who="JON (V.O.)" house="Stark">JON (V.O.)</speaker> We have dragonglass and Valyrian steel.</speech>
+<speech><speaker who="JON" house="Stark">JON</speaker> We have dragonglass and Valyrian steel.</speech>
 
 <direction>CUT TO: WINTERFELL – OUTSIDE FRONT GATE</direction>
 
 <stageDirection>The Unsullied pull ropes, causing a large boulder to be thrown into the air by a large trebuchet. More soldiers march out of the gates of Winterfell.</stageDirection>
 
-<speech><speaker who="JON(V.O.)" house="Stark">JON(V.O.)</speaker> But there are too many of them.</speech>
+<speech><speaker who="JON" house="Stark"></speaker> But there are too many of them.</speech>
 
 <direction>CUT TO: WINTERFELL – BATTLEMENTS</direction>
 
 <stageDirection>Archers walk up to the edge of the battlements with their bow and arrows. We see a man stretch the bow string</stageDirection>
 
-<speech><speaker who="JON (V.O.)" house="Stark">JON (V.O.)</speaker> Far too many.</speech>
+<speech><speaker who="JON" house="Stark">JON</speaker> Far too many.</speech>
 
 <stageDirection>A horse neighs and the man looks up over the wall.</stageDirection>
 
@@ -605,11 +606,11 @@
 
 <stageDirection>The Dothraki ride along the outside of the wall as the camera pans past the trench of spikes used to defend from the Army of the Dead.</stageDirection>
 
-<speech><speaker who="JON (V.O.)" house="Stark">JON (V.O.)</speaker> Our enemy doesn't tire.</speech>
+<speech><speaker who="JON" house="Stark">JON</speaker> Our enemy doesn't tire.</speech>
 
 <stageDirection>The camera moves farther down until it reaches a gap in the trench outside the gate, the Dothraki ride through the center as Unsullied soldiers emerge from the gate.</stageDirection>
 
-<speech><speaker who="JON (V.O.)" house="Stark">JON (V.O.)</speaker> Doesn't stop. Doesn't feel.</speech>
+<speech><speaker who="JON" house="Stark">JON</speaker> Doesn't stop. Doesn't feel.</speech>
 
 <direction>CUT TO: WINTERFELL - LIBRARY</direction>
 
@@ -717,15 +718,15 @@
 
 <stageDirection>The girls quickly grab one another’s hands and run off. GREY WORM stands behind her as she turns around to face him. GREY WORM walks up to her.</stageDirection>
 
-<speech><speaker who="GREY WORM" house="Unsullied">GREY WORM</speaker> When Daenerys takes her throne there will be no place for us here. I am loyal to my queen. I will fight for her until her enemies are defeated, but when the war is over and she has won, do you want to grow old in this place? Is there nothing else you want to do, nothing else you want to see?</speech>
+<speech><speaker who="GREY WORM">GREY WORM</speaker> When Daenerys takes her throne there will be no place for us here. I am loyal to my queen. I will fight for her until her enemies are defeated, but when the war is over and she has won, do you want to grow old in this place? Is there nothing else you want to do, nothing else you want to see?</speech>
 
 <speech><speaker who="MISSANDEI" house="Targaryen">MISSANDEI</speaker> Naath. I'd like to see the beaches again.</speech>
 
-<speech><speaker who="GREY WORM" house="Unsullied">GREY WORM</speaker> Then I will take you there.</speech>
+<speech><speaker who="GREY WORM">GREY WORM</speaker> Then I will take you there.</speech>
 
 <speech><speaker who="MISSANDEI" house="Targaryen">MISSANDEI</speaker> My people are peaceful. We cannot protect ourselves.</speech>
 
-<speech><speaker who="GREY WORM" house="Unsullied">GREY WORM</speaker> My people are not peaceful. We will protect you.</speech>
+<speech><speaker who="GREY WORM">GREY WORM</speaker> My people are not peaceful. We will protect you.</speech>
 
 <direction>EXT. WINTERFELL - NIGHT</direction>
 <direction>CUT TO: WINTERFELL - BATTLEMENTS</direction>
@@ -1098,11 +1099,11 @@
 
 <stageDirection>SAMWELL is walking down the stairs from the battlements</stageDirection>
 
-<speech><speaker who="JORAH (O.S.)" house="Mormont">JORAH (O.S.)</speaker> We have all we need to win this war.</speech>
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> We have all we need to win this war.</speech>
 
-<speech><speaker who="LYANNA (O.S.)" house="Mormont">LYANNA (O.S.)</speaker> I have trained my men, women and children. I have fought before. I can fight again.</speech>
+<speech><speaker who="LYANNA" house="Mormont">LYANNA</speaker> I have trained my men, women and children. I have fought before. I can fight again.</speech>
 
-<speech><speaker who="JORAH (O.S.)" house="Mormont">JORAH (O.S.)</speaker> Please, listen to me. You're the future of our house.</speech>
+<speech><speaker who="JORAH" house="Mormont">JORAH</speaker> Please, listen to me. You're the future of our house.</speech>
 
 <stageDirection>SAMWELL notices the two talking down in the courtyard and starts to walk towards them.</stageDirection>
 
@@ -1184,31 +1185,31 @@
 
 <stageDirection>As PODRICK continues to sing, SAMWELL and GILLY lay in bed with LITTLE SAM between them.</stageDirection>
 
-<speech><speaker who="PODRICK (V.O.)" house="Payne">PODRICK (V.O.)</speaker> The ones who'd been gone for so very long.</speech>
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> The ones who'd been gone for so very long.</speech>
 
 <direction>CUT TO: WINTERFELL - COURTYARD</direction>
 
 <stageDirection>The camera pans down to show SANSA and THEON sitting opposite each other. PODRICK's singing continues.</stageDirection>
 
-<speech><speaker who="PODRICK (V.O.)" house="Payne">PODRICK (V.O.)</speaker> She couldn't remember their names. They spun her around on the damp old stones.</speech>
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> She couldn't remember their names. They spun her around on the damp old stones.</speech>
 
 <direction>CUT TO: WINTERFELL - HALLWAY</direction>
 
 <stageDirection>The camera pans and we see GENDRY sleeping on the pile of bags and ARYA lays next to him with her eyes open. PODRICK’s singing continues.</stageDirection>
 
-<speech><speaker who="PODRICK (V.O.)" house="Payne">PODRICK (V.O.)</speaker> Spun away all her sorrow and pain. And she never wanted to leave</speech>
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> Spun away all her sorrow and pain. And she never wanted to leave</speech>
 
 <direction>CUT TO: WINTERFELL - COURTYARD</direction>
 
 <stageDirection>The Unsullied start walking out of the courtyard as MISSANDEI and GREY WORM walk together before he stops her, turns to her, and kisses her. He then turns to leave with the Unsullied and MISSANDEI watches as he leaves. PODRICK’s singing continues.</stageDirection>
 
-<speech><speaker who="PODRICK (V.O.)" house="Payne">PODRICK (V.O.)</speaker> Never wanted to leave. Never wanted to leave. Never wanted to leave.</speech>
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> Never wanted to leave. Never wanted to leave. Never wanted to leave.</speech>
 
 <direction>CUT TO: WINTERFELL – OUTSIDE FRONT GATE</direction>
 
 <stageDirection>Everyone gathers outside the castle as they prepare for battle. JORAH rides on his horse and gazes at the horizon to see only darkness. PODRICK’s singing continues.</stageDirection>
 
-<speech><speaker who="PODRICK (V.O.)" house="Payne">PODRICK (V.O.)</speaker> Never wanted to leave. Never wanted to leave.</speech>
+<speech><speaker who="PODRICK" house="Payne">PODRICK</speaker> Never wanted to leave. Never wanted to leave.</speech>
 
 <direction>INT. WINTERFELL - NIGHT</direction>
 <direction>CUT TO: WINTERFELL - CRYPTS</direction>
@@ -1259,11 +1260,11 @@
 
 <stageDirection>JON and DAENERYS walk behind the battlements and stand next to TYRION as the three stare out over the wall.</stageDirection>
 
-<speech><speaker who="MAN" house="">MAN</speaker> Form up! Get yourselves back!</speech>
+<speech><speaker who="MAN" >MAN</speaker> Form up! Get yourselves back!</speech>
 
 <stageDirection>JON nods at DAENERYS and they both quickly exit. TYRION watches but turns his attention back over the wall. The camera pans away.</stageDirection>
 
 <direction>CUT TO: PATH TO WINTERFELL</direction>
 
 <stageDirection>In an icy haze, the mangled legs of a dead horse trot forward before stopping. The camera pans up to show a white walker sitting upon the dead horse and the entire army of white walkers standing in a line upon their horses is slowly revealed. The camera pans around their backs before settling on the faint glow of Winterfell in the distance.</stageDirection>
-</Ep2>
+</Ep>
