@@ -8,7 +8,7 @@
     <xsl:variable name="gotColl" select="collection('xml/?select=*.xml')"/>
     <xsl:template match="/">
         <svg width="100%" height="100%">
-            <g transform="translate(60, 565)">
+            <g transform="translate(0, 450)">
                 <text x="375" y="-540" text-anchor="middle">Comparison of Jon Stark and Daenerys Targaryen's Speeches throughout Season 8</text>
                 <!-- Y-axis -->
                 <line x1="20" x2="20" y1="0" y2="-450" stroke="black" stroke-width="1"/>
@@ -31,9 +31,9 @@
                     <xsl:variable name="ypos-d" select="count(descendant::speaker[@who='DAENERYS']) * 6"/>
                     
                     <!-- amp: Datapoints for Jon -->
-                    <circle cx="{$xpos}" cy="-{$ypos-j}" r="8" fill="#800000"  stroke="black" opacity="0.75"/>
+                    <circle cx="{$xpos}" cy="-{$ypos-j}" r="8" fill="#800000"  stroke="black"/>
                     <!-- amp: Datapoints for Daenerys -->
-                    <circle cx="{$xpos}" cy="-{$ypos-d}" r="8" fill="#20B2AA"  stroke="black" opacity="0.75"/>
+                    <circle cx="{$xpos}" cy="-{$ypos-d}" r="8" fill="#20B2AA"  stroke="black"/>
                     
                     <!-- amp: Point labels for Jon -->
                     <text x="{$xpos - 25}" y="{-$ypos-j}">
@@ -53,8 +53,8 @@
                     <xsl:variable name="yposNext-j" select="count($gotColl//Ep[@n = current()/@n + 1]//speaker[@who='JON']) * 6"/>
                     <xsl:variable name="yposNext-d" select="count($gotColl//Ep[@n = current()/@n + 1]//speaker[@who='DAENERYS']) * 6"/>
                         
-                        <line x1="{$xpos}" y1="-{$ypos-j}" x2="{$xposNext}" y2="-{$yposNext-j}" stroke="black" stroke-width="3"/>
-                        <line x1="{$xpos}" y1="-{$ypos-d}" x2="{$xposNext}" y2="-{$yposNext-d}" stroke="black" stroke-width="3"/>
+                        <line x1="{$xpos}" y1="-{$ypos-j}" x2="{$xposNext}" y2="-{$yposNext-j}" stroke="#800000" stroke-width="3"/>
+                        <line x1="{$xpos}" y1="-{$ypos-d}" x2="{$xposNext}" y2="-{$yposNext-d}" stroke="#20B2AA" stroke-width="3"/>
                     </xsl:if>
                         
                     
