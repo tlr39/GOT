@@ -95,7 +95,7 @@
             </font>
         </strong>
     </xsl:template>
-    <xsl:template match="speaker[@house='Tarley']">
+    <xsl:template match="speaker[@house='Tarly']">
         <strong>
             <font color="#00FFFF">
                 <xsl:apply-templates/>
