@@ -1,5 +1,6 @@
 <?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
-<Ep n="3">
+<Ep>
+<title>EPISODE 3 - THE LONG NIGHT</title>
 <direction>INT: WINTERFELL PASSAGEWAY, NIGHT</direction>
 
 <stageDirection>SAM shivers and rubs his hands as the wind whistles.</stageDirection>

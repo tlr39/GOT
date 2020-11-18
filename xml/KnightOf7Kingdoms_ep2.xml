@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
-<Ep n="2">
-<stageDirection>EPISODE 2 - A KNIGHT OF THE SEVEN KINGDOMS</stageDirection>
+<Ep>
+<title>EPISODE 2 - A KNIGHT OF THE SEVEN KINGDOMS</title>
 
 <stageDirection>TITLE SEQUENCE</stageDirection>
 <direction>INT. WINTERFELL - DAY</direction>

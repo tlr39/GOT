@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
-<Ep n="1">
-<stageDirection>EPISODE 1 - WINTERFELL</stageDirection>
+<Ep>
+<title>EPISODE 1 - WINTERFELL</title>
 
 <stageDirection>TITLE SEQUENCE</stageDirection>
 <direction>EXT. WINTER TOWN - DAY</direction>
@@ -20,9 +20,9 @@
 
 <speech><speaker who="JON" house="Stark">JON</speaker> I warned you. Northerners don't much trust outsiders.</speech>
 
-<stageDirection>A dragon roars and the villagers look up at the sky in fear. People start clamouring as DAENERYSâ€™ dragons, DROGON and RHAEGAL, fly overhead. ARYA emerges from the crowd smiling. The dragons swoop over Winterfell and SANSA STARK watches them fly overhead from the walls of Winterfell.</stageDirection>
+<stageDirection>A dragon roars and the villagers look up at the sky in fear. People start clamouring as DAENERYS' dragons, DROGON and RHAEGAL, fly overhead. ARYA emerges from the crowd smiling. The dragons swoop over Winterfell and SANSA STARK watches them fly overhead from the walls of Winterfell.</stageDirection>
 
-<direction>CUT TO: WINTERFELL â€“ FRONT GATE</direction>
+<direction>CUT TO: WINTERFELL '“ FRONT GATE</direction>
 
 <stageDirection>DAENERYS and JON ride into Winterfell towards a crowd of people standing within. BRAN STARK is sitting at the front of the crowd. JON rides up to him and dismounts his horse. He walks up to BRAN and kisses him on the forehead.</stageDirection>
 
@@ -58,7 +58,7 @@
 <speaker who="BRAN" house="Stark">BRAN</speaker> He's one of them now. The Wall has fallen, the dead march south.
 <stageDirection>SANSA, DAENERYS and JON all look at each other concerned.</stageDirection>
 
-<direction>CUT TO: WINTERFELL â€“ LARGE HALL</direction>
+<direction>CUT TO: WINTERFELL '“ LARGE HALL</direction>
 
 <speech><speaker who="SANSA" house="Stark">SANSA</speaker> As soon as we heard about the Wall, I called all our banners to retreat to Winterfell. Lord Umber when can we expect your people to arrive?</speech>
 
@@ -87,7 +87,7 @@
 
 <stageDirection>LYANNA stands up and walks forwards</stageDirection>
 
-<speech><speaker who="LYANNA" house="Mormont">LYANNA</speaker> But youâ€™re not. Are you? You left Winterfell a king and came back a- Iâ€™m not sure what you are now.</speech>
+<speech><speaker who="LYANNA" house="Mormont">LYANNA</speaker> But you're not. Are you? You left Winterfell a king and came back a- I'm not sure what you are now.</speech>
 
 <stageDirection>People start murmuring.</stageDirection>
 
@@ -101,7 +101,7 @@
 
 <speech><speaker who="MAN" >MAN</speaker> King of the North!</speech>
 
-<speech><speaker who="JON" house="Stark">JON</speaker> You did, my lady. It was the honor of my life. Iâ€™ll always be grateful for your faith. But when I left Winterfell, I told you we need allies or we will die. I have brought those allies home to fight alongside us. I had a choice, keep my crown or protect the North. I chose the North.</speech>
+<speech><speaker who="JON" house="Stark">JON</speaker> You did, my lady. It was the honor of my life. I'll always be grateful for your faith. But when I left Winterfell, I told you we need allies or we will die. I have brought those allies home to fight alongside us. I had a choice, keep my crown or protect the North. I chose the North.</speech>
 
 <stageDirection>People murmur. TYRION stands up and walks to the centre of the room.</stageDirection>
 
@@ -121,7 +121,7 @@
 
 <speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Hey, careful, lads. We need every last bit of it.</speech>
 
-<speech><speaker who="MAN 1" >MAN 1</speaker> Sorry â€™bout that.</speech>
+<speech><speaker who="MAN 1" >MAN 1</speaker> Sorry 'bout that.</speech>
 
 <stageDirection>GENDRY climbs into the back of one of the wagons.</stageDirection>
 
@@ -237,7 +237,7 @@
 
 <speech><speaker who="ARYA" house="Stark">ARYA</speaker> Don't forget that.</speech>
 
-<direction>EXT â€“ KING'S LANDING - DAY</direction>
+<direction>EXT '“ KING'S LANDING - DAY</direction>
 <stageDirection>Pan down from a view of the Red Keep to see QYBURN walking up to CERSEI LANNISTER who stares out at the sea.</stageDirection>
 
 <speech><speaker who="QYBURN" >QYBURN</speaker> Your Grace, I'm afraid I bring terrible news. The dead have broken through the Wall.</speech>
@@ -285,7 +285,7 @@
 
 <stageDirection>EURON exits.</stageDirection>
 
-<direction>CUT TO: RED KEEP â€“ GREAT HALL</direction>
+<direction>CUT TO: RED KEEP '“ GREAT HALL</direction>
 
 <stageDirection>CERSEI sits on the Iron Throne, EURON and HARRY STRICKLAND stand opposite her.</stageDirection>
 
@@ -514,7 +514,7 @@
 <direction>EXT. WINTERFELL - DAY</direction>
 <stageDirection>DAENERYS' army are camped outside the walls of Winterfell and wagons and horses enter the front gate.</stageDirection>
 
-<direction>CUT TO: WINTERFELL â€“ FRONT GATE</direction>
+<direction>CUT TO: WINTERFELL '“ FRONT GATE</direction>
 
 <stageDirection>Inside the gate, WOLKAN is greeting ALYS KARSTARK as the KARSTARKS arrive.</stageDirection>
 
@@ -566,7 +566,7 @@
 
 <speech><speaker who="VARYS" >VARYS</speaker> Nothing lasts.</speech>
 
-<direction>CUT TO: WINTERFELL â€“ OUTSIDE THE WALL</direction>
+<direction>CUT TO: WINTERFELL '“ OUTSIDE THE WALL</direction>
 
 <stageDirection>JON and DAENERYS walk together as men shout indistinctly in the background.</stageDirection>
 
@@ -645,7 +645,7 @@
 
 <stageDirection>They smile and continue their kiss in each other's embrace. JON opens his eyes to see DROGON staring at them.</stageDirection>
 
-<direction>INT. WINTERFELL â€“ DAY</direction>
+<direction>INT. WINTERFELL '“ DAY</direction>
 <direction>CUT TO: WINTERFELL - FORGES</direction>
 
 <stageDirection>GENDRY amongst other men occupy the forge, using the furnaces to create weapons from dragonglass</stageDirection>
@@ -726,7 +726,7 @@
 
 <stageDirection>ARYA walks off before turning back and smiling and then back around again without breaking stride.</stageDirection>
 
-<direction>CUT TO: WINTERFELL â€“ SANSA'S QUARTERS</direction>
+<direction>CUT TO: WINTERFELL '“ SANSA'S QUARTERS</direction>
 
 <stageDirection>SANSA is reading a letter when there is a knock on the door.</stageDirection>
 
