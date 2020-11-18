@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
-<Ep n="6">
+<Ep>
+<title>EPISODE 6 - THE IRON THRONE</title>
 <direction>EXT: THE RUINS OF KING'S LANDING, DAY</direction>
 
 <stageDirection>TYRION LANNISTER walks silently through the smoldering desolation of King's Landing as soldiers mill in the distance. Everything is covered in filthy soot and small fires continue to burn. His eyes looks skyward as his memories replay. Flakes of ash float in the air. He passes piles of brick and broken beams, and small fires that speckle the devastation. He passes the prone body of a blond girl, the first of many charred and incinerated corpses. He does not pause.</stageDirection>

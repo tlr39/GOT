@@ -1,10 +1,11 @@
 <?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
-<Ep n="4">
+<Ep>
+<title>EPISODE 4 - LAST OF THE STARKS</title>
 <direction>EXT: WINTERFELL, DAY</direction>
 
 <stageDirection>JORAH MORMONT's body lies on an unlit funeral pyre. DAENERYS TARGARYEN mourns over his prone body. She leans down and kisses him gently on the forehead. She then whispers something in his ear.</stageDirection>
 
-<stageDirection>SANSA STARK weeps over THEON GREYJOYâ€™s dead body, her hand on his chest. She steps back, takes a Stark direwolf pin from her chest, and secures it on THEON's.</stageDirection>
+<stageDirection>SANSA STARK weeps over THEON GREYJOY's dead body, her hand on his chest. She steps back, takes a Stark direwolf pin from her chest, and secures it on THEON's.</stageDirection>
 
 <stageDirection>JON SNOW, ARYA STARK, SAMWELL TARLY, and BRAN STARK stand amidst the Stark men, some of whom bear torches. DAENERYS joins the crowd a bit further down, next to GREY WORM, VARYS, MISSANDEI, and TYRION LANNISTER. In front of the crowd are scores of funeral pyres in a grid. Stark soldiers stand at intervals with more torches. SANSA returns to the somber crowd, joining her siblings. Even GHOST stands obediently in mourning. JON steps forward to address those assembled.</stageDirection>
 
@@ -22,7 +23,7 @@
 
 <speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Have you seen Arya?</speech>
 
-<speech><speaker who="THE HOUND" house="Clegane">THE HOUND</speaker> You can still smell the burning bodies, and thatâ€™s where your head is at.</speech>
+<speech><speaker who="THE HOUND" house="Clegane">THE HOUND</speaker> You can still smell the burning bodies, and that's where your head is at.</speech>
 
 <speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I just want to thank her for-</speech>
  
@@ -45,7 +46,7 @@
 
 <speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> Yes, Your Grace.</speech>
 
-<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Youâ€™re Robert Baratheonâ€™s son.</speech>
+<speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> You're Robert Baratheon's son.</speech>
 
 <speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> (nods)</speech>
 
@@ -56,7 +57,7 @@
 
 <speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Yes, he's dead. His brothers are too. So who's Lord of Storm's End now?</speech>
 
-<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I donâ€™t know, Your Grace.</speech>
+<speech><speaker who="GENDRY" house="Baratheon">GENDRY</speaker> I don't know, Your Grace.</speech>
 
 <speech><speaker who="DAENERYS" house="Targaryen">DAENERYS</speaker> Does anyone?</speech>
 
