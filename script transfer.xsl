@@ -6,6 +6,7 @@
         omit-xml-declaration="yes"/>
     
     
+    
  <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
     
@@ -13,7 +14,10 @@
     
     <xsl:template match="/">
         <html>
-            <head><title>Episode Scripts</title></head>
+            <head>
+                <link rel="stylesheet" type="text/css" href="homepage.css"/>
+                <title>Episode Scripts</title>
+            </head>
             <body>
             <xsl:apply-templates/>
             </body>   
@@ -42,13 +46,160 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    <xsl:template match="house">
-        <span class="house">
+    <xsl:template match="speaker[@house='Stark']">
+        <strong>
+            <font color="green">
             <xsl:apply-templates/>
-        </span>
+            </font>
+        </strong>
     </xsl:template>
-    
-  
+    <xsl:template match="speaker[@house='Targaryen']">
+        <strong>
+            <font color="red">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Lannister']">
+        <strong>
+            <font color="purple">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Dondarrion']">
+        <strong>
+            <font color="#FF6347">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Tollett']">
+        <strong>
+            <font color="brown">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Giantsbane']">
+        <strong>
+            <font color="#DEB887">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Umber']">
+        <strong>
+            <font color="#00008B">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Tarley']">
+        <strong>
+            <font color="#00FFFF">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Mormont']">
+        <strong>
+            <font color="#5F9EA0">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Baratheon']">
+        <strong>
+            <font color="#7FFF00">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Clegane']">
+        <strong>
+            <font color="#D2691E">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Bolton']">
+        <strong>
+            <font color="#800000">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Seaworth']">
+        <strong>
+            <font color="#000080">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Greyjoy']">
+        <strong>
+            <font color="#A9A9A9">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Stokeworth']">
+        <strong>
+            <font color="#2E8B57">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Strickland']">
+        <strong>
+            <font color="#FA8072">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Royce']">
+        <strong>
+            <font color="#6A5ACD">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Arryn']">
+        <strong>
+            <font color="#008080">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Tully']">
+        <strong>
+            <font color="pink">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Tarth']">
+        <strong>
+            <font color="lime">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Craster']">
+        <strong>
+            <font color="olive">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
+    <xsl:template match="speaker[@house='Payne']">
+        <strong>
+            <font color="yellow">
+                <xsl:apply-templates/>
+            </font>
+        </strong>
+    </xsl:template>
     
     
 </xsl:stylesheet>
