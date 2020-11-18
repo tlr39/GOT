@@ -45,3 +45,11 @@ nav ul li a:hover {
 #twitter:hover {
   color: #00acee;
 }
+#charspeech-svg {
+display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    align-items: flex-start;
+    overflow: visible;
+    }
