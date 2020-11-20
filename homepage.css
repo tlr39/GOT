@@ -58,3 +58,91 @@ span.speaker {
     color:blue;
     font:bold;
 }
+span.speaker[house="Stark"] {
+    color:green;
+    font:bold;
+}
+span.speaker[house="Targaryen"] {
+    color:red;
+    font:bold;
+}
+span.speaker[house="Lannister"] {
+    color:purple;
+    font:bold;
+}
+span.speaker[house="Dondarrion"] {
+    color:#FF6347;
+    font:bold;
+}
+span.speaker[house="Tollett"] {
+    color:brown;
+    font:bold;
+}
+span.speaker[house="Giantsbane"] {
+    color:#DEB887;
+    font:bold;
+}
+span.speaker[house="Umber"] {
+    color:#00008B;
+    font:bold;
+}
+span.speaker[house="Tarly"] {
+    color:#00FFFF;
+    font:bold;
+}
+span.speaker[house="Mormont"] {
+    color:#5F9EA0;
+    font:bold;
+}
+span.speaker[house="Baratheon"] {
+    color:#7FFF00;
+    font:bold;
+}
+span.speaker[house="Clegane"] {
+    color:#D2691E;
+    font:bold;
+}
+span.speaker[house="Bolton"] {
+    color:#800000;
+    font:bold;
+}
+span.speaker[house="Seaworth"] {
+    color:#000080;
+    font:bold;
+}
+span.speaker[house="Greyjoy"] {
+    color:#A9A9A9;
+    font:bold;
+}
+span.speaker[house="Stokeworth"] {
+    color:#2E8B57;
+    font:bold;
+}
+span.speaker[house="Strickland"] {
+    color:#FA8072;
+    font:bold;
+}
+span.speaker[house="Royce"] {
+    color:#6A5ACD;
+    font:bold;
+}
+span.speaker[house="Arryn"] {
+    color:#008080;
+    font:bold;
+}
+span.speaker[house="Tully"] {
+    color:pink;
+    font:bold;
+}
+span.speaker[house="Tarth"] {
+    color:lime;
+    font:bold;
+}
+span.speaker[house="Craster"] {
+    color:olive;
+    font:bold;
+}
+span.speaker[house="Payne"] {
+    color:yellow;
+    font:bold;
+}
