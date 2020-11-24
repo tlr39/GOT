@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="finalschema.rnc" type="application/relax-ng-compact-syntax"?>
 <Ep>
 <title>EPISODE 5 - THE BELLS</title>
 <direction>INT: DRAGONSTONE, VARYS'S CHAMBERS</direction>

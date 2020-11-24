@@ -1,4 +1,4 @@
-<?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="finalschema.rnc" type="application/relax-ng-compact-syntax"?>
 <Ep>
 <title>EPISODE 3 - THE LONG NIGHT</title>
 <direction>INT: WINTERFELL PASSAGEWAY, NIGHT</direction>

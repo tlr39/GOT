@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="revisedschema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="finalschema.rnc" type="application/relax-ng-compact-syntax"?>
 <Ep>
 <title>EPISODE 6 - THE IRON THRONE</title>
 <direction>EXT: THE RUINS OF KING'S LANDING, DAY</direction>
