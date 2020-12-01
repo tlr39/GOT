@@ -147,17 +147,18 @@ span.speaker[house="Payne"] {
     font:bold;
 }
 div.svgPage {
-    display: inline-flex;
-    flex-direction: column;
-    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    position: static;
     overflow: visible;
 }
 div.svg{
-    padding-bottom: 0;
-    display: inline-flex;
+    width: 50%;
+    height: auto;
+
 }
 p.chartDesc{
-    display: inline-flex;
+    position: relative;
     padding-top: 0;
 }
 
