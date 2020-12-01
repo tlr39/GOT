@@ -146,3 +146,18 @@ span.speaker[house="Payne"] {
     color:yellow;
     font:bold;
 }
+div.svgPage {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: visible;
+}
+div.svg{
+    padding-bottom: 0;
+    display: inline-flex;
+}
+p.chartDesc{
+    display: inline-flex;
+    padding-top: 0;
+}
+
