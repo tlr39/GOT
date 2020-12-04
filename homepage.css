@@ -162,7 +162,9 @@ p.chartDesc {
     position: relative;
     padding-top: 0;
 }
-img.classJpg {
+img {
     width: 80%;
     height: auto;
+
 }
+
