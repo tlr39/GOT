@@ -167,4 +167,8 @@ img {
     height: auto;
 
 }
+img.classLicense{
+    width: 10%;
+    height: 10%;
+}
 
