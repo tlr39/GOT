@@ -171,4 +171,7 @@ img.classLicense{
     width: 10%;
     height: 10%;
 }
-
+img.classBanners {
+    width: 60%;
+    height: auto;
+}
