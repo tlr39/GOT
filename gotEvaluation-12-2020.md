@@ -18,17 +18,17 @@ The initial goal of the project had been to note the turning points in the plot 
 # Coding
 
 ## XML
-All six episodes of Season 8 are marked up in xml with <stageDirection>, <speech>, and <speaker>; the latter includes, as attribute values, the name and house (where appropriate) of each speaker. This is useful information that could be processed further. Unmarked are the appearances of individuals in the stage directions, which could also be done and might offer further opportunities for analysis. (For example, what characters are often present in a scene but do not speak, and so would not be counted if only speakers are listed?)
-There are some errors in the markup, such as <speaker who="MAN 1" > (there ought not to be a space within an attribute value; it could be MAN1 or MAN-1 or MAN_1).
+All six episodes of Season 8 are marked up in xml with stageDirection, speech, and speaker element tags; the latter includes, as attribute values, the name and house (where appropriate) of each speaker. This is useful information that could be processed further. Unmarked are the appearances of individuals in the stage directions, which could also be done and might offer further opportunities for analysis. (For example, what characters are often present in a scene but do not speak, and so would not be counted if only speakers are listed?)
+There are some errors in the markup, such as speaker who="MAN 1" (there ought not to be a space within an attribute value; it could be MAN1 or MAN-1 or MAN_1).
 Further depth could have been given to the markup by dividing it into scenes every time there is a CUT TO direction. This would have allowed for kinds of scene-by-scene analysis, not just episode-by-episode (see further below under "Future prospects"). It also would have been possible then to create a clickable table of contents at the top of each episode page.
 
 ## HTML/CSS
 Every episode script is available on the site in three formats: as the clean text; as the xml markup; and as a color-coded page (the speakers are color coded by house).
-The team mentioned at the presentation that they had rendered the speakers' names (in the html scripts) in bold, but they are not. The css styling would have had to use font-weight, not bold, to render them in boldface; or, better the xslt could have wrapped <speaker>s in <b> in the html.
+The team mentioned at the presentation that they had rendered the speakers' names (in the html scripts) in bold, but they are not. The css styling would have had to use font-weight, not bold, to render them in boldface; or, better the xslt could have wrapped speakers in bold in the html.
 
 ## XSLT 
 
-The XSLT does its job in transforming the marked-up XML files into HTML, with CSS styling giving color to speaker names according to their houses using <span class=...>. Putting <b> tags here would have solved the boldface problem. Similarly, in scripts, it is conventional for stage directions to be italicized, which could also be added to the XSLT with a few keystrokes. 
+The XSLT does its job in transforming the marked-up XML files into HTML, with CSS styling giving color to speaker names according to their houses using <span class=...>. Putting b tags here would have solved the boldface problem. Similarly, in scripts, it is conventional for stage directions to be italicized, which could also be added to the XSLT with a few keystrokes. 
 
 ## SVG
 There is a single SVG graph, which is the only analysis as such in the site. The code was borrowed and modified from one of the class examples, which is permissible. It is, however, functional and clear.
